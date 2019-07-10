@@ -3,7 +3,7 @@
 
     {% if post.image %}
       <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card__image-link'>
-        <img src='{{ post.image | prepend: site.baseurl }}' class='js-fadein c-post-card__image' alt="{{ post.title }}">
+        <img src='{{ post.image | prepend: site.baseurl }}' class='js-fadein c-post-card__image' alt="{{ post.title }}" data-src='{{ page.image | prepend: site.baseurl }}' class="lazyload">
         {% if post.featured %}
         <span title='Featured Post'>
           <span class='c-post-card__featured-icon' data-icon='ei-star' data-size='s'></span>
