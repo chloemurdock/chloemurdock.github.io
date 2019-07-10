@@ -3,7 +3,7 @@ layout: post
 title: Now accepting roommate applications
 featured: false
 author: Chloe Murdock
-image: '/images/posts/roomate-image.gif'
+image: '/images/posts/roomate-image.webp'
 ---
 
 **Originally published in 2017 May issue of The Beacon magazine for Olentangy High School**
