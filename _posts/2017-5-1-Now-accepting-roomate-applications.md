@@ -10,6 +10,10 @@ image: '/images/posts/roomate-image.mp4'
 
 Accepted to college? Check. Cried over your scholarships, or lack thereof? Check. Joined the Facebook group? Check. Now all you need to score a roommate is an uber-detailed summary about yourself. But who has time for that?! Save some of your last precious moments of high school by screenshotting one of these Facebook autobiographies instead.
 
+<video width="500" height="280">
+    <source src="/images/posts/roommate-02.mp4" type="video/mp4">
+</video>
+
 ![Jock-gif](/images/posts/roommate-02.mp4){:class="img-responsive"}
 
 FOR THE JOCK: Hi, my name is probably Brad. I played all the sports in high school, and I’ve provided some sweet action shots taken by my mom to show that off. Grades are important to me so I can stay on my gains. I’m most likely studying something in business, but on the weekends I’ll be getting a Ph.D. in partying—I mean, networking with my fellow peers. I’m looking for a chill roommate.
