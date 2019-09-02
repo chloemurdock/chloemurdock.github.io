@@ -12,7 +12,7 @@ Email me at <murdocc3@miamioh.edu> or view my [LinkedIn](http://www.linkedin.com
 - 3.6 cumulative GPA
 
 2017 — Graduated from Olentangy High School
-- 3.8 cumulative GPA
+- 3.7 cumulative GPA
 
 ## **Experience**
 
@@ -44,6 +44,7 @@ September 2017 - Present: Writer for The Miami Student [newspaper](https://miami
 Featured in The Miami Student Magazine:
 - [Real-life fairy godmothers](http://magazine.miamistudent.net/real-life-fairy-godmothers/)
 - [Tortillas and motorcycles: My family, its memories and the opinions in between](http://magazine.miamistudent.net/tortillas-and-motorcycles-my-family-its-memories-and-the-opinions-in-between/)
+- [Nowhere to turn] (http://magazine.miamistudent.net/nowhere-to-turn/)
 
 Featured in the Culture section of The Miami Student newspaper:
 - [A medieval club in no man’s land](https://miamistudent.net/a-medieval-club-in-no-mans-land/)
@@ -61,12 +62,14 @@ Featured in the Opinion section of The Miami Student newspaper:
 Featured in the News section of The Miami Student newspaper:
 - [Central Park Five member speaks on institutionalized racism](https://miamistudent.net/central-park-five-member-speaks-on-institutionalized-racism/)
 
-May 2018 – Present: PR Chair for Miami University Martial Arts Club
+January 2019 - Present: Vice President of Miami University Martial Arts Club
 - Weighing in on club executive board decisions
-- Creating and implementing a recruitment campaign plan
 - Planning alumni events, taekwondo performances and other club gatherings
-- Announcing at festival martial arts demonstrations
-- Posting relevant Facebook and [Twitter](https://twitter.com/MartialMiami) content that aligns with recruitment campaign
+- Announcing at festivals
+
+May 2018 – February 2019: PR Chair for Miami University Martial Arts Club
+- Created and implemented a recruitment campaign plan
+- Posted relevant Facebook and [Twitter](https://twitter.com/MartialMiami) content that aligns with recruitment campaign
 
 2016-2017 Olentangy High School’s The Beacon magazine: Editor-in-chief, Writer, Designer
 - [Get off the couch, see these movies](/2017/03/01/Get-off-the-couch-see-these-movies)
@@ -77,7 +80,6 @@ May 2018 – Present: PR Chair for Miami University Martial Arts Club
 - [Cesar Chavez Day withstands today’s political climate](/2017/03/01/Cesar-Chaves-day-withstands-todays-political-climate/)
 
 2015-2016 Online Olentangy High School’s The Beacon magazine – Writer
-- Pumpkin Spice can’t be squashed
 - Islamophobia in the 21st century
 - [New coach returns to alma mater](https://ohsbeacon.com/688/sports/new-coach-returns-to-alma-mater/)
 
@@ -88,7 +90,7 @@ May 2018 – Present: PR Chair for Miami University Martial Arts Club
 - Haikus to summarize senior year
 - “Cursed Child” lights new wand
 - Spring-cleaning a worldwide phenomenon
-- 10 reasons to vote for Vermin Supreme! in 2016 
+- 10 reasons to vote for Vermin Supreme! in 2016
 - Health measured on a greater scale
 - New year, new pool, very cool (satire)
 - Snowboarding is rad, skiing is sad
@@ -110,4 +112,4 @@ Won first place in Power of the Pen competition while representing Olentangy Sha
 Won essay contest to present wreath on the Tomb of the Unknown Soldier
 
 ## **Interests**
-Travel, snowboarding, kayaking, paddle boarding, martial arts club, reading, volunteer work.
+Traveling, snowboarding, kayaking, paddle boarding, reading, volunteer work.
