@@ -37,14 +37,14 @@ May 2017 - Present: marketing intern at [ABB Inc.](http://www.abb.com/)
 
 October 2018 - Present: Contributing editor and writor for [The Miami Student Magazine](http://magazine.miamistudent.net/)
 
-Novermber 2018 - December 2018: Social media manager for The Miami Student magazine [Twitter](https://twitter.com/miamistudentmag?lang=en) and [Facebook](https://www.facebook.com/miamistudentmagazine/)
+November 2018 - December 2018: Social media manager for The Miami Student magazine [Twitter](https://twitter.com/miamistudentmag?lang=en) and [Facebook](https://www.facebook.com/miamistudentmagazine/)
 
 September 2017 - Present: Writer for The Miami Student [newspaper](https://miamistudent.net/author/chloe-murdock/) and [magazine](http://magazine.miamistudent.net/tortillas-and-motorcycles-my-family-its-memories-and-the-opinions-in-between/)
 
 Featured in The Miami Student Magazine:
 - [Real-life fairy godmothers](http://magazine.miamistudent.net/real-life-fairy-godmothers/)
 - [Tortillas and motorcycles: My family, its memories and the opinions in between](http://magazine.miamistudent.net/tortillas-and-motorcycles-my-family-its-memories-and-the-opinions-in-between/)
-- [Nowhere to turn] (http://magazine.miamistudent.net/nowhere-to-turn/)
+- [Nowhere to turn](http://magazine.miamistudent.net/nowhere-to-turn/)
 
 Featured in the Culture section of The Miami Student newspaper:
 - [A medieval club in no man’s land](https://miamistudent.net/a-medieval-club-in-no-mans-land/)
