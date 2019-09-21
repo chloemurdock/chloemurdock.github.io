@@ -3,11 +3,11 @@
   <channel>
     <title>Chloe Murdock</title>
     <description>Virtual portfolio of Chloe Murdock</description>
-    <link>http://chloemurdock.com/</link>
-    <atom:link href="http://chloemurdock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jul 2019 19:50:29 -0400</pubDate>
-    <lastBuildDate>Tue, 09 Jul 2019 19:50:29 -0400</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Sep 2019 17:52:56 -0400</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 17:52:56 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
 
     
       <item>
@@ -67,8 +67,8 @@
 &lt;p&gt;On the dark walk back to my dorm, I could tell Brick was packed through the windows. Music blared on both sides of Main Street. But after the Tier 2 Defense class, I felt a bit safer — relaxed, even — on my way to the other side of campus.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2017/11/01/Womens-self-defence-class-rank/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/11/01/Womens-self-defence-class-rank/</guid>
+        <link>http://localhost:4000/2017/11/01/Womens-self-defence-class-rank/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/01/Womens-self-defence-class-rank/</guid>
       </item>
     
       <item>
@@ -98,8 +98,8 @@
 &lt;p&gt;“Grandma, can we make tortillas this weekend?”&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2017/09/01/Missing-home-and-hot-tortillas/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/09/01/Missing-home-and-hot-tortillas/</guid>
+        <link>http://localhost:4000/2017/09/01/Missing-home-and-hot-tortillas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/01/Missing-home-and-hot-tortillas/</guid>
       </item>
     
       <item>
@@ -108,29 +108,36 @@
 
 &lt;p&gt;Accepted to college? Check. Cried over your scholarships, or lack thereof? Check. Joined the Facebook group? Check. Now all you need to score a roommate is an uber-detailed summary about yourself. But who has time for that?! Save some of your last precious moments of high school by screenshotting one of these Facebook autobiographies instead.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/roommate-02.gif&quot; alt=&quot;Jock-gif&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;video width=&quot;216&quot; height=&quot;206&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
+    &lt;source src=&quot;/images/posts/roommate-02.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
 &lt;p&gt;FOR THE JOCK: Hi, my name is probably Brad. I played all the sports in high school, and I’ve provided some sweet action shots taken by my mom to show that off. Grades are important to me so I can stay on my gains. I’m most likely studying something in business, but on the weekends I’ll be getting a Ph.D. in partying—I mean, networking with my fellow peers. I’m looking for a chill roommate.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/roommate-03.gif&quot; alt=&quot;Theatre-gif&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;video width=&quot;480&quot; height=&quot;270&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
+&lt;source src=&quot;/images/posts/roommate-03.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
 &lt;p&gt;FOR THE MUSICAL THEATRE GEEK: Hey everyone! My name is something upbeat like Carly. I’m 100 percent committed to this school’s music and arts programs, and I’m so excited about it I could sing—both literally and figuratively! I was in show choir, but you could tell that a mile away from this sparkly outfit I’m wearing in at least one picture. I am very specific about the music I listen to and also mentioned the musical “Hamilton” somewhere in my post. If you don’t mind me practicing facial expressions in the mirror or losing against me in a karaoke competition then we should be roommates!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/roommate-04.gif&quot; alt=&quot;Frat-gif&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
-
+&lt;video width=&quot;500&quot; height=&quot;200&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
+&lt;source src=&quot;/images/posts/roommate-04.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 &lt;p&gt;FOR THE FUTURE FRAT BRO: Hey guys, I’m Chad. Brad and I are already bros, and I convinced him to rush Sigma Apple Pie this year with me. You can see based on my photos that I’m always down for a good time. Follow me on all my other social media, because my life is wayyy too lit to post on Facebook where my grandparents are. Feel free to message me too, but if you’re a girl and I think you’re hot I may or may not aggressively DM you first. Gotta practice for Sigma traditions, am I right?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/roommate-05.gif&quot; alt=&quot;Sorority-gif&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
-
+&lt;video width=&quot;500&quot; height=&quot;260&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
+&lt;source src=&quot;/images/posts/roommate-05.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 &lt;p&gt;FOR THE FUTURE SORORITY SIS: Hey all! I have a popular name like Samantha, and I’m super pumped for college life! I am a walking @dory twitter account which makes me super relatable, and I will get hella likes on this post. I love working out and I can study, but I’m also going to vaguely hint that I know how to party like there is no tomorrow. I am rushing for the Chi Omega-Three Vitamins sisterhood, so if you have a problem with my love for Greek life I will throw a toga at you on my way to the latest frat party.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/roommate-06.gif&quot; alt=&quot;Control-gif&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
-
+&lt;video width=&quot;244&quot; height=&quot;134&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
+&lt;source src=&quot;/images/posts/roommate-06.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 &lt;p&gt;FOR THE CONTROL FREAK: Hi everyone. You will only remember me as the crazy person with a billion planned activities, so my name is pretty irrelevant. I’ve provided bullet points of all my current achievements as well as my five-year plan, because I don’t have time to spend 15 minutes on a Facebook post. That said, this will still be an autobiography’s worth of facts about me because I can’t stand not doing the absolute most. This list might include student government, three seasons of sports where I was captain, along with a shortlist of nondescript clubs. My idea of fun involves having my crap together. I’m in the honors dorm this year so if you don’t have a 5.0 GPA, you probably can’t hang.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2017/05/01/Now-accepting-roomate-applications/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/05/01/Now-accepting-roomate-applications/</guid>
+        <link>http://localhost:4000/2017/05/01/Now-accepting-roomate-applications/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/01/Now-accepting-roomate-applications/</guid>
       </item>
     
       <item>
@@ -158,8 +165,8 @@
 &lt;p&gt;The highest a student of Naveau’s has applied to is 16, but Naveau claims the highest in department history was 18.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2017/05/01/Juniors-be-warned-college-apps-are-expensive/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/05/01/Juniors-be-warned-college-apps-are-expensive/</guid>
+        <link>http://localhost:4000/2017/05/01/Juniors-be-warned-college-apps-are-expensive/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/01/Juniors-be-warned-college-apps-are-expensive/</guid>
       </item>
     
       <item>
@@ -221,8 +228,8 @@
 &lt;p&gt;The foundation has already created massive positive change, but E. Chadha claims the Vision Foundation is relatively small and hopes to expand the charity over time. Those who would like to get involved with the Vision Foundation can visit their Facebook page or email E. Chadha at &lt;a href=&quot;mailto:eshachadha@gmail.com&quot;&gt;eshachadha@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Apr 2017 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2017/04/19/Students-foundation-creates-change-in-india-slums/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/04/19/Students-foundation-creates-change-in-india-slums/</guid>
+        <link>http://localhost:4000/2017/04/19/Students-foundation-creates-change-in-india-slums/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/19/Students-foundation-creates-change-in-india-slums/</guid>
       </item>
     
       <item>
@@ -268,8 +275,8 @@
 &lt;p&gt;“It’s the end of the year grade that is going to hit your transcript. A little dip is not going to hurt you,” Roberts said.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2017/03/01/Powerschool-helps-harms-student-stress/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/03/01/Powerschool-helps-harms-student-stress/</guid>
+        <link>http://localhost:4000/2017/03/01/Powerschool-helps-harms-student-stress/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/01/Powerschool-helps-harms-student-stress/</guid>
       </item>
     
       <item>
@@ -309,8 +316,8 @@
 &lt;p&gt;Concession recommendation: Don’t even come to see this trash.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2017/03/01/Get-off-the-couch-see-these-movies/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/03/01/Get-off-the-couch-see-these-movies/</guid>
+        <link>http://localhost:4000/2017/03/01/Get-off-the-couch-see-these-movies/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/01/Get-off-the-couch-see-these-movies/</guid>
       </item>
     
       <item>
@@ -340,8 +347,8 @@
 &lt;p&gt;Feminism is too complex to summarize in one blog post. Not all feminists or even all women agree on all issues (linked &lt;a href=&quot;http://www.gloriasteinem.com/&quot;&gt;here&lt;/a&gt; (Gloria Steinem) and &lt;a href=&quot;http://www.volkskrant.nl/boeken/ngozi-adichie-beyonce-s-feminism-isn-t-my-feminism~a4390684/&quot;&gt;here&lt;/a&gt; (Beyonce and Chimamanda Ngozi Adichie’s somewhat conflicting viewpoints on feminism) are women of influence who seem to identify with the traditionally left-leaning feminist movement, linked &lt;a href=&quot;http://www.syracuse.com/celebrity-news/index.ssf/2017/05/kara_mccullough_healthcare_feminism_miss_usa_2017.html&quot;&gt;here&lt;/a&gt; (Miss USA 2017 preferring to call herself an equalist), &lt;a href=&quot;http://www.makers.com/phyllis-schlafly&quot;&gt;here&lt;/a&gt; (Phyllis Schlafly), &lt;a href=&quot;http://www.theblaze.com/video/tomi-lahren-offers-a-clear-message-to-left-wing-feminists-this-is-what-real-women-look-like/&quot;&gt;here&lt;/a&gt; (Tomi Lahren) are examples of women of influence who distanced themselves from the word feminism, and linked here is the late &lt;a href=&quot;https://www.nytimes.com/2015/05/10/style/frida-kahlo-is-having-a-moment.html?_r=0&quot;&gt;Frida Kahlo&lt;/a&gt;, a Mexican artist also revered as an unapologetic feminist icon, although an unorthodox one). Educate yourself to see where you stand, whether or not you intend to join the conversation.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2017/03/01/Feminism-vs-equalism/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/03/01/Feminism-vs-equalism/</guid>
+        <link>http://localhost:4000/2017/03/01/Feminism-vs-equalism/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/01/Feminism-vs-equalism/</guid>
       </item>
     
       <item>
@@ -373,8 +380,8 @@
 &lt;p&gt;“I don’t know who he is. It doesn’t make sense for us to miss school for it,” Blanton said.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2017/03/01/Cesar-Chaves-day-withstands-todays-political-climate/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/03/01/Cesar-Chaves-day-withstands-todays-political-climate/</guid>
+        <link>http://localhost:4000/2017/03/01/Cesar-Chaves-day-withstands-todays-political-climate/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/01/Cesar-Chaves-day-withstands-todays-political-climate/</guid>
       </item>
     
       <item>
@@ -446,8 +453,8 @@
 &lt;p&gt;“It’s more about what the girl is into, especially if you really like them,” Aiden M. ‘20 said.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2017/02/01/Attraction-turns-scientific/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2017/02/01/Attraction-turns-scientific/</guid>
+        <link>http://localhost:4000/2017/02/01/Attraction-turns-scientific/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/01/Attraction-turns-scientific/</guid>
       </item>
     
       <item>
@@ -469,8 +476,8 @@
 &lt;p&gt;It should not be offensive to say “happy holidays,” but the motivation behind it—to consider other religions or beliefs as well as those who celebrate Christmas—can be perceived as threatening to Christianity. Yes, Christians are still threatened in this country because of their faith. According to &lt;a href=&quot;https://ucr.fbi.gov/hate-crime/2013/topic-pages/victims/victims_final&quot;&gt;FBI data&lt;/a&gt; collected in 2013, 105 hate crimes targeted Protestants and Catholics combined. However, 625 crimes were also committed against Jewish people and 135 attacked those of the Islamic faith in the same year. Everyone deserves a chance to exercise their religious freedom, but this does not mean it is okay to disregard other faiths in the process. We still have a long way to go toward acceptance of all people in our melting pot of a country, and this is just one aspect of the problem.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2016/12/01/Holidays-draw-out-religious-differences/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/12/01/Holidays-draw-out-religious-differences/</guid>
+        <link>http://localhost:4000/2016/12/01/Holidays-draw-out-religious-differences/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/01/Holidays-draw-out-religious-differences/</guid>
       </item>
     
       <item>
@@ -500,8 +507,8 @@
 &lt;p&gt;“I changed my schedule second semester so I could get out early and avoid the after-school traffic,” Shayna Haberman ‘16 said.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2016/05/01/Voters-ok-olentangy-levy/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/05/01/Voters-ok-olentangy-levy/</guid>
+        <link>http://localhost:4000/2016/05/01/Voters-ok-olentangy-levy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/05/01/Voters-ok-olentangy-levy/</guid>
       </item>
     
       <item>
@@ -529,8 +536,8 @@
 &lt;p&gt;For seniors with similar lofty goals, hope is not lost. School handbook policy on the topic refers to plural “valedictorians,” due to “the probability that the above criteria will result in more than one senior being recognized as valedictorian.”&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2016/05/01/Sriram-fulfills-2016-validictorian-dream/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/05/01/Sriram-fulfills-2016-validictorian-dream/</guid>
+        <link>http://localhost:4000/2016/05/01/Sriram-fulfills-2016-validictorian-dream/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/05/01/Sriram-fulfills-2016-validictorian-dream/</guid>
       </item>
     
       <item>
@@ -574,8 +581,8 @@
 &lt;p&gt;2016 class.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2016/05/01/Haikus-to-summarize-senior-year/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/05/01/Haikus-to-summarize-senior-year/</guid>
+        <link>http://localhost:4000/2016/05/01/Haikus-to-summarize-senior-year/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/05/01/Haikus-to-summarize-senior-year/</guid>
       </item>
     
       <item>
@@ -597,8 +604,8 @@
 &lt;p&gt;Spring cleaning takes place in varying degrees of cleanliness, whether it be the soul, the body or the home. Yet the theme of clean seems to be universal wherever we come from, and whatever we do or do not celebrate.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2016/03/01/spring-cleaning-a-worldwide-phenomenon/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/03/01/spring-cleaning-a-worldwide-phenomenon/</guid>
+        <link>http://localhost:4000/2016/03/01/spring-cleaning-a-worldwide-phenomenon/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/03/01/spring-cleaning-a-worldwide-phenomenon/</guid>
       </item>
     
       <item>
@@ -632,8 +639,8 @@
 &lt;p&gt;“There’s so many of the books that you become accustomed to a certain writing style. To change that at the very end might make it difficult for readers to enjoy,” school librarian Kaelin Harrison said.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2016/03/01/cursed-child-lights/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/03/01/cursed-child-lights/</guid>
+        <link>http://localhost:4000/2016/03/01/cursed-child-lights/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/03/01/cursed-child-lights/</guid>
       </item>
     
       <item>
@@ -683,8 +690,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2016/02/01/10-Reasons-to-vote-for-Vermin-Supreme/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/02/01/10-Reasons-to-vote-for-Vermin-Supreme/</guid>
+        <link>http://localhost:4000/2016/02/01/10-Reasons-to-vote-for-Vermin-Supreme/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/02/01/10-Reasons-to-vote-for-Vermin-Supreme/</guid>
       </item>
     
       <item>
@@ -741,8 +748,8 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;p&gt;A: Just that students go to the fourth floor and try to use it as a high dive.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2016/01/01/New-year-new-pool-very-coolmd/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/01/01/New-year-new-pool-very-coolmd/</guid>
+        <link>http://localhost:4000/2016/01/01/New-year-new-pool-very-coolmd/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/01/New-year-new-pool-very-coolmd/</guid>
       </item>
     
       <item>
@@ -776,8 +783,8 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;p&gt;Among the more obvious physical benefits, greater confidence in what you and your body can do is the greatest advantage gained from making better choices—not losing weight. Well-being is measured on a more complicated scale than attractiveness, and resolving to be healthier just to change how you look on the outside won’t change how you feel on the inside.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2016/01/01/Health-measured-on-a-greater-scale/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2016/01/01/Health-measured-on-a-greater-scale/</guid>
+        <link>http://localhost:4000/2016/01/01/Health-measured-on-a-greater-scale/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/01/Health-measured-on-a-greater-scale/</guid>
       </item>
     
       <item>
@@ -821,8 +828,8 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2015/12/01/more-vegans-raise-forks/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2015/12/01/more-vegans-raise-forks/</guid>
+        <link>http://localhost:4000/2015/12/01/more-vegans-raise-forks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/01/more-vegans-raise-forks/</guid>
       </item>
     
       <item>
@@ -842,8 +849,8 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;p&gt;It’s too bad skiers can’t use their lame poles to propel their minds around how rad snowboarding is. The rivalry between the two sports has gone on for what seems like forever, but skiers will always shake their pole sticks at snowboarders for having more fun.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://chloemurdock.com/2015/12/01/Snowboarding-is-rad-skiing-is-sad/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2015/12/01/Snowboarding-is-rad-skiing-is-sad/</guid>
+        <link>http://localhost:4000/2015/12/01/Snowboarding-is-rad-skiing-is-sad/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/01/Snowboarding-is-rad-skiing-is-sad/</guid>
       </item>
     
       <item>
@@ -873,8 +880,8 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;p&gt;Future: Virtual reality in social media may be in reach in a few years, with the Oculus virtual reality headset and Google Glasses already making gains in this area. Developers hope to someday immerse all five senses of users in experiencing games, live sports and even while speaking to friends in holographic form.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2015/10/01/The-evolution-of-social-media/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2015/10/01/The-evolution-of-social-media/</guid>
+        <link>http://localhost:4000/2015/10/01/The-evolution-of-social-media/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/01/The-evolution-of-social-media/</guid>
       </item>
     
       <item>
@@ -902,8 +909,8 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;p&gt;When you finally rock your thrifted finds, do so with the confidence that you made a purchase friendly to your wallet, the environment and your community. The stigma surrounding thrift stores may be off-putting, but only increases your chances of finding a diamond purchase out of the rough interior of the thrift store.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2015/10/01/How-to-shop-and-survive-in-the-thrift-store-jungle/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2015/10/01/How-to-shop-and-survive-in-the-thrift-store-jungle/</guid>
+        <link>http://localhost:4000/2015/10/01/How-to-shop-and-survive-in-the-thrift-store-jungle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/01/How-to-shop-and-survive-in-the-thrift-store-jungle/</guid>
       </item>
     
       <item>
@@ -951,8 +958,8 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;p&gt;“We’re planning on hiking again next summer,” Andrews-Sharer said.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2015/09/01/sister-hikers-get-lost/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2015/09/01/sister-hikers-get-lost/</guid>
+        <link>http://localhost:4000/2015/09/01/sister-hikers-get-lost/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/09/01/sister-hikers-get-lost/</guid>
       </item>
     
       <item>
@@ -1022,14 +1029,16 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;p&gt;The Varsity team won their season opener 1-0 against Thomas Worthington, goal courtesy of Stephanie Burzinski ‘16. With another goal by Julia F. ‘18, Varsity beat Big Walnut 1-0 in a game Sept. 1.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://chloemurdock.com/2015/09/01/Olentangy-HS-fall-sports-review/</link>
-        <guid isPermaLink="true">http://chloemurdock.com/2015/09/01/Olentangy-HS-fall-sports-review/</guid>
+        <link>http://localhost:4000/2015/09/01/Olentangy-HS-fall-sports-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/09/01/Olentangy-HS-fall-sports-review/</guid>
       </item>
     
 
     
       
         
+      
+    
       
     
       
@@ -1048,7 +1057,7 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 
 &lt;p&gt;2017 — Graduated from Olentangy High School&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;3.8 cumulative GPA&lt;/li&gt;
+  &lt;li&gt;3.7 cumulative GPA&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;experience&quot;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt;
@@ -1084,7 +1093,7 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 
 &lt;p&gt;October 2018 - Present: Contributing editor and writor for &lt;a href=&quot;http://magazine.miamistudent.net/&quot;&gt;The Miami Student Magazine&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Novermber 2018 - December 2018: Social media manager for The Miami Student magazine &lt;a href=&quot;https://twitter.com/miamistudentmag?lang=en&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/miamistudentmagazine/&quot;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;November 2018 - December 2018: Social media manager for The Miami Student magazine &lt;a href=&quot;https://twitter.com/miamistudentmag?lang=en&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/miamistudentmagazine/&quot;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;September 2017 - Present: Writer for The Miami Student &lt;a href=&quot;https://miamistudent.net/author/chloe-murdock/&quot;&gt;newspaper&lt;/a&gt; and &lt;a href=&quot;http://magazine.miamistudent.net/tortillas-and-motorcycles-my-family-its-memories-and-the-opinions-in-between/&quot;&gt;magazine&lt;/a&gt;&lt;/p&gt;
 
@@ -1092,6 +1101,7 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://magazine.miamistudent.net/real-life-fairy-godmothers/&quot;&gt;Real-life fairy godmothers&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://magazine.miamistudent.net/tortillas-and-motorcycles-my-family-its-memories-and-the-opinions-in-between/&quot;&gt;Tortillas and motorcycles: My family, its memories and the opinions in between&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://magazine.miamistudent.net/nowhere-to-turn/&quot;&gt;Nowhere to turn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Featured in the Culture section of The Miami Student newspaper:&lt;/p&gt;
@@ -1116,13 +1126,17 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
   &lt;li&gt;&lt;a href=&quot;https://miamistudent.net/central-park-five-member-speaks-on-institutionalized-racism/&quot;&gt;Central Park Five member speaks on institutionalized racism&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;May 2018 – Present: PR Chair for Miami University Martial Arts Club&lt;/p&gt;
+&lt;p&gt;January 2019 - Present: Vice President of Miami University Martial Arts Club&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Weighing in on club executive board decisions&lt;/li&gt;
-  &lt;li&gt;Creating and implementing a recruitment campaign plan&lt;/li&gt;
   &lt;li&gt;Planning alumni events, taekwondo performances and other club gatherings&lt;/li&gt;
-  &lt;li&gt;Announcing at festival martial arts demonstrations&lt;/li&gt;
-  &lt;li&gt;Posting relevant Facebook and &lt;a href=&quot;https://twitter.com/MartialMiami&quot;&gt;Twitter&lt;/a&gt; content that aligns with recruitment campaign&lt;/li&gt;
+  &lt;li&gt;Announcing at festivals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;May 2018 – February 2019: PR Chair for Miami University Martial Arts Club&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Created and implemented a recruitment campaign plan&lt;/li&gt;
+  &lt;li&gt;Posted relevant Facebook and &lt;a href=&quot;https://twitter.com/MartialMiami&quot;&gt;Twitter&lt;/a&gt; content that aligns with recruitment campaign&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;2016-2017 Olentangy High School’s The Beacon magazine: Editor-in-chief, Writer, Designer&lt;/p&gt;
@@ -1137,7 +1151,6 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 
 &lt;p&gt;2015-2016 Online Olentangy High School’s The Beacon magazine – Writer&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Pumpkin Spice can’t be squashed&lt;/li&gt;
   &lt;li&gt;Islamophobia in the 21st century&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ohsbeacon.com/688/sports/new-coach-returns-to-alma-mater/&quot;&gt;New coach returns to alma mater&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1173,9 +1186,9 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 &lt;p&gt;Won essay contest to present wreath on the Tomb of the Unknown Soldier&lt;/p&gt;
 
 &lt;h2 id=&quot;interests&quot;&gt;&lt;strong&gt;Interests&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Travel, snowboarding, kayaking, paddle boarding, martial arts club, reading, volunteer work.&lt;/p&gt;
+&lt;p&gt;Traveling, snowboarding, kayaking, paddle boarding, reading, volunteer work.&lt;/p&gt;
 </description>
-            <link>http://chloemurdock.com/Resume.html</link>
+            <link>http://localhost:4000/Resume.html</link>
           </item>
         
       
@@ -1188,7 +1201,7 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
 
 &lt;p&gt;This site is my virtual portfolio. Explore my resume and past work to see what I am capable of.&lt;/p&gt;
 </description>
-            <link>http://chloemurdock.com/about.html</link>
+            <link>http://localhost:4000/about.html</link>
           </item>
         
       
