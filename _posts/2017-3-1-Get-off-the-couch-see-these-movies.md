@@ -3,7 +3,7 @@ layout: post
 title: Get off the couch, see these movies
 featured: false
 author: Chloe Murdock
-image: '/images/posts/movies-image.webp'
+image: '/images/movies-image.webp'
 ---
 
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**

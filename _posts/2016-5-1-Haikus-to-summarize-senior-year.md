@@ -3,7 +3,7 @@ layout: post
 title: Haikus to summarize senior year
 featured: false
 author: Chloe Murdock
-image: '/images/posts/haikus.webp'
+image: '/images/haikus.webp'
 ---
 
 **Originally published in 2016 May issue of The Beacon magazine for Olentangy High School**
