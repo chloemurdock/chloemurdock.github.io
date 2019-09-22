@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How to shop and survive in the thrift store jungle
-featured: false
-author: Chloe Murdock
+date: 2019-09-22T17:39:42.640Z
 ---
 
 **Originally published in 2015 October issue of The Beacon magazine for Olentangy High School**
