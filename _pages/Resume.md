@@ -1,6 +1,8 @@
 ---
 title: Resume
 ---
+Writer and marketing intern
+
 Email me at <mailto:murdocc3@miamioh.edu> or view my [LinkedIn](http://www.linkedin.com/in/chloe-m-275197133)
 
 ## **Education**
@@ -16,14 +18,14 @@ Email me at <mailto:murdocc3@miamioh.edu> or view my [LinkedIn](http://www.linke
 
 ## **Experience**
 
-June 2019 - July 2019: writer at [KosovaLive](https://www.kosovalive360.com//?s=Chloe+Murdock)
+June 2019 - July 2019: writer at [KosovaLive](https://www.kosovalive360.com//?s=Chloe+Murdock) in Pristina, Kosovo
 
-May 2019 - July 2019: undergraduate assistant for Miami University journalism course, "The Role of Journalism in a Democracy," in Kosovo
+May 2019 - July 2019: undergraduate assistant for Miami University journalism course, "The Role of Journalism in a Democracy," in Pristina, Kosovo
 
 * Edited long-form pieces of inexperienced writers and recommended next steps
 * Led class discussions and provided materials for professor, Dr. Richard Campbell
 
-May 2017 - Present: marketing intern at [ABB Inc.](http://www.abb.com/)
+May 2017 - Present: marketing intern at [ABB Inc.](http://www.abb.com/) in Westerville, Ohio, United States
 
 * Editing and formatting brochures that enhance ABB sales interactions
 * Writing internal success stories and scripts for videos and video teasers
@@ -41,7 +43,7 @@ May 2017 - Present: marketing intern at [ABB Inc.](http://www.abb.com/)
 * Managing [@abbindustryserv](https://twitter.com/abbindustryserv?lang=en)
 * Project managing an internal marketing campaign and drafting campaign emails through Constant Contact
 
-October 2018 - Present: Contributing editor and writor for [The Miami Student Magazine](http://magazine.miamistudent.net/)
+October 2018 - Present: Contributing editor and writer for [The Miami Student Magazine](http://magazine.miamistudent.net/)
 
 November 2018 - December 2018: Social media manager for The Miami Student magazine [Twitter](https://twitter.com/miamistudentmag?lang=en) and [Facebook](https://www.facebook.com/miamistudentmagazine/)
 
