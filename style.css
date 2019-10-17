@@ -63,6 +63,11 @@
     text-decoration: underline;
 }
 
+.icon {
+    width: 45px;
+    height: 45px;
+}
+
 @media screen and (max-width: 735px){
 
     .main {
