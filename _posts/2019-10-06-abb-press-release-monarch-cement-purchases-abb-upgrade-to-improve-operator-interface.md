@@ -1,4 +1,5 @@
 ---
+layout: post
 title: >-
   ABB press release: Monarch Cement purchases ABB upgrade to improve operator
   interface

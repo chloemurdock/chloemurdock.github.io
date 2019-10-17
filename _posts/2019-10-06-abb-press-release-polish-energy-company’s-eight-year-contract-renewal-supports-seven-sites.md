@@ -1,4 +1,5 @@
 ---
+layout: post
 title: >-
   ABB press release: Polish energy company’s eight-year contract renewal
   supports seven sites

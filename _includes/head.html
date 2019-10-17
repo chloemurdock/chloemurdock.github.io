@@ -12,11 +12,10 @@
     {% capture inlineCSS %}
       {% include app.scss %}
     {% endcapture %}
-
     {{ inlineCSS | scssify }}
   </style>
-
   <script>
     var base_url = {{ site.baseurl | jsonify }};
   </script>
+  <link rel="stylesheet" type="text/css" href="/style.css">
 </head>

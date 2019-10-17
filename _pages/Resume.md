@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Resume
 ---
 Writer and marketing intern

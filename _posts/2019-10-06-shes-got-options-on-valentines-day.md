@@ -1,4 +1,5 @@
 ---
+layout: post
 title: She's got options on Valentine's Day
 date: 2018-02-13T01:09:00.000Z
 ---

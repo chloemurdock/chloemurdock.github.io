@@ -1,9 +1,89 @@
-{% for page in site.pages %}
-  {% unless page.name == '404.md' %}
-    {% if page.title %}
+<div class="topnav">
+  <div class="topnav_text">
+    <h1 style="margin:auto;" class="c-post__title u-text-center">Chloe Murdock</h1>
+  </div>
+</div>
+
+<div class="sidenav">
+    <h1 style="margin:0;" class="c-post__title">Chloe Murdock</h1>
+  <ul class='c-nav o-plain-list'>
       <li class='c-nav__item' role='presentation'>
-        <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}' aria-label="{{ page.title }} page link">{{ page.title }}</a>
+          <a class='c-nav__link' href="/" aria-label="Articles page link">Articles</a>
       </li>
+      {% for page in site.pages %}
+      {% unless page.name == '404.md' %}
+        {% if page.title %}
+          <li class='c-nav__item' role='presentation'>
+            <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}' aria-label="{{ page.title }} page link">{{ page.title }}</a>
+          </li>
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+  </ul>
+
+    {% if site.description %}
+      <p class='c-blog-desc'>{{ site.description }}</p>
     {% endif %}
-  {% endunless %}
-{% endfor %}
+
+    <div style="padding-top: 30px;" class='o-grid__col o-grid__col--full'>
+      <ul class='o-plain-list c-social-nav u-text-center'>
+        {% if site.twitter_username %}
+          <li class='c-social-nav__item'>
+            <a href='http://www.twitter.com/{{ site.twitter_username }}' target='_blank' aria-label="twitter account link">
+              <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.instagram_username %}
+          <li class='c-social-nav__item'>
+            <a href='https://instagram.com/{{ site.instagram_username }}' target='_blank' aria-label="instagram account link">
+              <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.github_username %}
+        <li class='c-social-nav__item'>
+          <a href='http://www.github.com/{{ site.github_username }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-sc-github' data-size='s'></span>
+          </a>
+        </li>
+        {% endif %}
+        {% if site.email %}
+        <li class='c-social-nav__item'>
+          <a href='mailto:{{ site.email }}' target='_blank' aria-label="send email to chloe">
+            <span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span>
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+
+      <div class='u-text-center'>
+        <span class='u-font-small u-font-sans-serif'>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span>
+      </div>
+
+    </div>
+</div>
+
+<div class="bottomnav">
+    <a class="bottomnav_link" href="/">
+      <span>
+        <svg class="navsvg" viewBox="0 0 24 24"><path fill="#323232" d="M4 7V19H19V21H4C2 21 2 19 2 19V7H4M23 3V15C23 15 23 17 21 17H8C8 17 6 17 6 15V3H23M21 5H8V15H21V5M14 7H10V12H14V7M19 7H15V9H19V7M19 10H15V12H19V10Z" /></svg>
+      </span>
+      <div>Articles</div>
+    </a>
+
+    <a class="bottomnav_link" href='{{ "/about" | prepend: site.baseurl }}'>
+        <span>
+          <svg class="navsvg" viewBox="0 0 24 24"><path fill="#323232" d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M7.07,18.28C7.5,17.38 10.12,16.5 12,16.5C13.88,16.5 16.5,17.38 16.93,18.28C15.57,19.36 13.86,20 12,20C10.14,20 8.43,19.36 7.07,18.28M18.36,16.83C16.93,15.09 13.46,14.5 12,14.5C10.54,14.5 7.07,15.09 5.64,16.83C4.62,15.5 4,13.82 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20,12C20,13.82 19.38,15.5 18.36,16.83M12,6C10.06,6 8.5,7.56 8.5,9.5C8.5,11.44 10.06,13 12,13C13.94,13 15.5,11.44 15.5,9.5C15.5,7.56 13.94,6 12,6M12,11A1.5,1.5 0 0,1 10.5,9.5A1.5,1.5 0 0,1 12,8A1.5,1.5 0 0,1 13.5,9.5A1.5,1.5 0 0,1 12,11Z" /></svg>
+        </span>
+        <div>About</div>
+    </a>
+
+    <a class="bottomnav_link" href='{{ "/resume" | prepend: site.baseurl }}'>
+        <span>
+          <svg class="navsvg" viewBox="0 0 24 24"><path fill="#323232" d="M5,3C3.89,3 3,3.89 3,5V19C3,20.11 3.89,21 5,21H19C20.11,21 21,20.11 21,19V5C21,3.89 20.11,3 19,3H5M5,5H19V19H5V5M7,7V9H17V7H7M7,11V13H17V11H7M7,15V17H14V15H7Z" /></svg>
+        </span>
+        <div>Resume</div>
+    </a>
+
+  </div>

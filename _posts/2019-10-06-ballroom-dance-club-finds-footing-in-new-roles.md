@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ballroom dance club finds footing in new roles
 date: 2018-02-07T01:02:00.000Z
 image: /images/ballroom.jpg

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Newborn monument reclaimed with mixed reactions
 date: 2019-06-21T00:28:00.000Z
 image: /images/newborn.jpg

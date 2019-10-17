@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'A monument highlights environmental issues, but has limitations'
 date: 2019-07-06T00:33:00.000Z
 image: /images/newborn-ambienti.jpg

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: April poetry contest buds into spring
 date: 2018-04-03T23:57:00.000Z
 ---

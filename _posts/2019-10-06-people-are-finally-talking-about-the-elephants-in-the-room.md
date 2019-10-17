@@ -1,4 +1,5 @@
 ---
+layout: post
 title: People are finally talking about the Elephants in the Room
 date: 2018-09-19T00:05:00.000Z
 image: /images/elephants.jpg

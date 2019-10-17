@@ -1,4 +1,5 @@
 ---
+layout: post
 title: >-
   ABB press release: Indonesian oil and gas leader upgrades ABB Ability 800xA
   feature

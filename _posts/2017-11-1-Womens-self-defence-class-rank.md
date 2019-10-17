@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Women's self-defense class a rank above the rest
 date: 2017-11-28T15:30:00.000Z
 ---

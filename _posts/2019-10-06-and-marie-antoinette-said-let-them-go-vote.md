@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'And Marie Antoinette said, "let them go vote!"'
 date: 2018-11-21T01:18:00.000Z
 ---

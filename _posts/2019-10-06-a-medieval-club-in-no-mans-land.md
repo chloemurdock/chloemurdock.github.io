@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Medieval Club in No Man's Land
 date: 2018-11-14T01:14:00.000Z
 image: /images/medieval.jpg

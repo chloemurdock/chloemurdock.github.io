@@ -5,13 +5,11 @@
 
 <body>
 
-  {% include analytics.html %}
-
-  <div class='js-off-canvas-container c-off-canvas-container'>
+    <div>
     {% include header.html %}
-
+    <div class="main">
     {{ content }}
-
+    </div>
     {% include footer.html %}
   </div>
 
@@ -24,6 +22,8 @@
   <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">              </script>
   <script src="{{ '/js/app.js' | prepend: site.baseurl }}">                         </script>
   <script src="{{ '/js/lazysizes.min.js' | prepend: site.baseurl }}"> async=""      </script>
+
+
 
 </body>
 

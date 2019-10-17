@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Central Park Five member speaks on institutionalized racism
 date: 2018-04-11T00:25:00.000Z
 ---
