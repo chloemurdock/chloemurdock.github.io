@@ -38,6 +38,7 @@ collections:
     label: "Resources"
     folder: "_data/resources.yaml"
     extenstion: yaml
+    identifier_field: type
     fields:
       - name: "resources"
         label: "Resources"
