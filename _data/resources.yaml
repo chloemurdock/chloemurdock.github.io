@@ -11,12 +11,23 @@
 # UI/UX
 # Movies
 # Music
+# resources:
+#   -   type: "Application"
+#       title: "Static Sites for JavaScript Developers"
+#       URL: "https://www.youtube.com/watch?v=TJ3lj-xasdw"
+#   -   type: "Guide"
+#       title: "Not Your Grandad's Static Sites"
+#       URL: "https://www.youtube.com/watch?v=TJ3lj-xasdw"
 
 
 resources:
-  -   type: "Application"
-      title: "Static Sites for JavaScript Developers"
-      URL: "https://www.youtube.com/watch?v=TJ3lj-xasdw"
-  -   type: "Guide"
-      title: "Not Your Grandad's Static Sites"
-      URL: "https://www.youtube.com/watch?v=TJ3lj-xasdw"
+  - type: "Application"
+    list:
+      - title: "Static Site Generators - Modern Tools for Static Website Development"
+        URL: "http://www.oreilly.com/web-platform/free/static-site-generators.csp"
+      - title: "Working with Static Sites (co-author with Raymond Camden)"
+        URL: "http://shop.oreilly.com/product/0636920051879.do"
+  - type: "CSS Tricks"
+    list:
+      - title: "What Really Makes a Static Site Generator?"
+        URL: "https://css-tricks.com/really-makes-static-site-generator/"
