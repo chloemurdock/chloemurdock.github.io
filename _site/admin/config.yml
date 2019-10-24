@@ -45,6 +45,6 @@ collections:
             label: "Resources"
             widget: "list"
             fields:
-              - {label: "Type", name: "Type", widget: "string"}
+              - {label: "Type", name: "type", widget: "string"}
               - {label: "Title", name: "title", widget: "string"}
               - {label: "URL", name: "URL", widget: "string"}
