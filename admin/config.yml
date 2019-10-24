@@ -33,3 +33,19 @@ collections:
       #- {label: "Publish Date", name: "date", widget: "datetime"}
       #- {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "resources"
+    label: "Resources"
+    folder: "_data/resources.yaml"
+    fields:
+      - name: "resources"
+        label: "Resources"
+        widget: list
+        fields:
+          - {label: "Type", name: "type", widget: "string"}
+          - name: "list"
+            label: "List"
+            widget: list
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "URL", name: "URL", widget: "string"}
