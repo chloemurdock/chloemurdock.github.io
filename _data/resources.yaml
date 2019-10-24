@@ -1,33 +1,16 @@
 ---
-# Application
-# Website
-# Software
-# Chrome add-ons
-# Guides
-# Newsletter
-# Books
-# Youtube
-# Podcast
-# UI/UX
-# Movies
-# Music
-# resources:
-#   -   type: "Application"
-#       title: "Static Sites for JavaScript Developers"
-#       URL: "https://www.youtube.com/watch?v=TJ3lj-xasdw"
-#   -   type: "Guide"
-#       title: "Not Your Grandad's Static Sites"
-#       URL: "https://www.youtube.com/watch?v=TJ3lj-xasdw"
-
+# Comment
 
 resources:
-  - type: "Application"
+  - type: "Newsletters"
     list:
-      - title: "Static Site Generators - Modern Tools for Static Website Development"
-        URL: "http://www.oreilly.com/web-platform/free/static-site-generators.csp"
-      - title: "Working with Static Sites (co-author with Raymond Camden)"
-        URL: "http://shop.oreilly.com/product/0636920051879.do"
-  - type: "CSS Tricks"
+      - title: "Title of Example list item"
+        URL: "http://examplelistitemurl.com"
+      - title: "Example Numero 2"
+        URL: "http://example2url.com"
+  - type: "Books"
     list:
-      - title: "What Really Makes a Static Site Generator?"
-        URL: "https://css-tricks.com/really-makes-static-site-generator/"
+      - title: "Really long title to test how the styling handles long bois"
+        URL: "https://linktobook.com"
+      - title: "Really long title to test how the styling handles long bois"
+        URL: "https://linktobook.com"

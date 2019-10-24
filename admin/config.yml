@@ -34,7 +34,6 @@ collections:
       #- {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-
   - name: "data"
     label: "Data"
     files:
