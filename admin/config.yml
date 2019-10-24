@@ -34,20 +34,17 @@ collections:
       #- {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "resources"
-    label: "Resources"
-    folder: "_data/resources.yaml"
-    extenstion: yaml
-    identifier_field: type
-    fields:
-      - name: "resources"
+  - name: "data"
+    label: "Data"
+    files:
+      - name: "resourcelist"
         label: "Resources"
-        widget: list
+        file: "_data/resources.yaml"
         fields:
-          - {label: "Type", name: "type", widget: "string"}
-          - name: "list"
-            label: "List"
+          - name: "resources"
+            label: "Resources"
             widget: list
             fields:
+              - {label: "Name", name: "name", widget: "string"}
               - {label: "Title", name: "title", widget: "string"}
               - {label: "URL", name: "URL", widget: "string"}

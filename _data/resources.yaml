@@ -14,13 +14,9 @@
 
 
 resources:
-  - type: "Applications"
-    list:
-      - title: "VS Code"
-        URL: "https://code.visualstudio.com/"
-      - title: "Working with Static Sites (co-author with Raymond Camden)"
-        URL: "http://shop.oreilly.com/product/0636920051879.do"
-  - type: "Guides"
-    list:
-      - title: "Visual intro to probability and statistics"
-        URL: "https://seeing-theory.brown.edu"
+  -   type: "Application"
+      title: "Static Sites for JavaScript Developers"
+      URL: "https://www.youtube.com/watch?v=TJ3lj-xasdw"
+  -   type: "Guide"
+      title: "Not Your Grandad's Static Sites"
+      URL: "https://www.youtube.com/watch?v=TJ3lj-xasdw"
