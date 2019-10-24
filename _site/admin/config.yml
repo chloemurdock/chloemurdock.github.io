@@ -43,8 +43,8 @@ collections:
         fields:
           - name: "resources"
             label: "Resources"
-            widget: list
+            widget: "list"
             fields:
-              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Type", name: "Type", widget: "string"}
               - {label: "Title", name: "title", widget: "string"}
               - {label: "URL", name: "URL", widget: "string"}
