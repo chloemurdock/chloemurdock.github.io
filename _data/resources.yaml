@@ -17,6 +17,8 @@ resources:
       - URL: >-
           https://www.mindmeister.com/?utm_source=google&utm_medium=cpc&utm_campaign=us_en_search&utm_content=mm&gclid=EAIaIQobChMInOiM98Tb5QIVgq_sCh2ElwxNEAAYASAAEgI6lvD_BwE
         title: mindmeister.com — mind mapping software
+      - URL: 'http://miamioh.edu/police/'
+        title: 'Miami University police records, logs, etc.'
     type: Links
   - list:
       - URL: 'https://www.nytimes.com/'
