@@ -1,6 +1,18 @@
 $(document).ready(function() {
 
 
+  var prevScrollpos = window.pageYOffset;
+  window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+    if (prevScrollpos > currentScrollPos) {
+      document.getElementById("topnav").style.top = "0";
+    } else {
+      document.getElementById("topnav").style.top = "-40px";
+    }
+    prevScrollpos = currentScrollPos;
+  }
+  
+
 $(".bottomnav a[href]").each(function() {
     if (this.href == document.URL) {
         $(this).addClass("current");

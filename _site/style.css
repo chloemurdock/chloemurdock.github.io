@@ -57,6 +57,7 @@
 
 .bottomnav, .topnav {
     display:none;
+    transition: top 0.3s;
 }
 
 .current {
