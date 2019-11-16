@@ -39,6 +39,16 @@ layout: default
         </div>
 
         <hr>
+        <div style="display: grid; grid-template-columns: 50% 50%;" class="PageNavigation">
+            {% if page.next.url %}
+            <a style="color: #000; text-align: left; white-space: nowrap;" class="next more-btn" href="{{page.next.url}}"><span class="chevron left"></span>Previous</a>
+            {% endif %}
+            {% if page.previous.url %}
+            <a style="color: #000; text-align: right; white-space: nowrap;" class="prev more-btn" href="{{page.previous.url}}">Next<span class="chevron right"></span></a>
+            {% endif %}
+        </div>
+        
+
 
         {% if page.author %}
           {% include author.html %}

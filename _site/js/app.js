@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 
 
-
+/*
   var prevScrollpos = window.pageYOffset;
   window.onscroll = function() {
   var currentScrollPos = window.pageYOffset;
@@ -13,11 +13,13 @@ $(document).ready(function() {
     }
     prevScrollpos = currentScrollPos;
   }
+  */
 
 $(".bottomnav a[href]").each(function() {
     if (this.href == document.URL) {
         $(this).addClass("current");
     }
+
 });
 
 
