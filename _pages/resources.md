@@ -3,7 +3,7 @@ layout: resource
 title: Resources
 ---
 
-<div class="pagebody-content">
+<div class="">
   <div class="grid-container">
     {% for d in site.data.resources.resources %}
     <div class="grid-item">
