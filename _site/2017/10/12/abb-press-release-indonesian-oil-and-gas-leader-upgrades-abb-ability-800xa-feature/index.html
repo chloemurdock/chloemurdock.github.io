@@ -204,6 +204,7 @@
 
         <div class='c-content' itemprop='articleBody'>
           
+
           <p>Originally published on <a href="http://www04.abb.com/global/abbzh/abbzh251.nsf!OpenDatabase&amp;db=/global/abbzh/abbzh250.nsf&amp;v=553E&amp;e=us&amp;url=/global/seitp/seitp202.nsf/0/0AD3FA53B536C42EC12581860066A50B!OpenDocument">abb.com</a></p>
 
 <p>Westerville, OHIO, USA—Private oil and gas leader PT Medco Energi Internasional Tbk (MedcoEnergi) renewed and extended its ABB Service Agreement for its site located in Lematang Block, South Sumatra province, Indonesia. The three-year agreement continues the same ABB rapid response and preventive maintenance services as the MedcoEnergi’s previous two-year agreement, and adds a Human Machine Interface (HMI) upgrade to MedcoEnergi’s existing ABB AbilityTM System 800xA.</p>
@@ -299,42 +300,78 @@
   </div>
 </div>
     
-    <footer class='c-footer'>
-  <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'>
-
-      <ul class='o-plain-list c-social-nav u-text-center'>
+    <footer class="c-footer">
+  <div class="o-grid">
+    <div class="o-grid__col o-grid__col--full">
+      <ul class="o-plain-list c-social-nav u-text-center">
         
-          <li class='c-social-nav__item'>
-            <a href='http://www.twitter.com/chloeannmurdock' target='_blank' aria-label="twitter account link">
-              <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
-            </a>
-          </li>
-        
-        
-          <li class='c-social-nav__item'>
-            <a href='https://instagram.com/chloemurdockk' target='_blank' aria-label="instagram account link">
-              <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
-            </a>
-          </li>
-        
-        
-        
-        <li class='c-social-nav__item'>
-          <a href='mailto:chloe.murdock@gmail.com' target='_blank' aria-label="send email to chloe">
-            <span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span>
+        <li class="c-social-nav__item">
+          <a
+            href="http://www.twitter.com/chloeannmurdock"
+            target="_blank"
+            aria-label="twitter account link"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-sc-twitter"
+              data-size="s"
+            ></span>
+          </a>
+        </li>
+         
+        <li class="c-social-nav__item">
+          <a
+            href="https://instagram.com/chloemurdockk"
+            target="_blank"
+            aria-label="instagram account link"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-sc-instagram"
+              data-size="s"
+            ></span>
+          </a>
+        </li>
+          
+        <li class="c-social-nav__item">
+          <a
+            href="mailto:chloe.murdock@gmail.com"
+            target="_blank"
+            aria-label="send email to chloe"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-envelope"
+              data-size="s"
+            ></span>
           </a>
         </li>
         
       </ul>
 
-      <div class='u-text-center'>
-        <span class='u-font-small u-font-sans-serif'>&copy; 2019 Chloe Murdock</span>
+      <div class="u-text-center">
+        <span class="u-font-small u-font-sans-serif"
+          >&copy; 2019 Chloe Murdock</span
+        >
       </div>
-
     </div>
   </div>
 </footer>
+<script>
+  function init() {
+    var imgDefer = document.getElementsByTagName("img");
+    for (var i = 0; i < imgDefer.length; i++) {
+      if (imgDefer[i].getAttribute("data-src")) {
+        imgDefer[i].setAttribute("src", imgDefer[i].getAttribute("data-src"));
+      }
+    }
+  }
+  window.onload = init;
+</script>
+
     </div>
   </div>
 

@@ -1,12 +1,25 @@
 <div class="content">
-<a href="{{ post.url | prepend: site.baseurl }}">
+  <a href="{{ post.url | prepend: site.baseurl }}">
     <div class="articleitem">
-        {% if post.image %}<img src="{{ post.image }}" alt="{{ post.image }}">{% endif %}
-        <div class="articleinfo">
-          <h2>{{ post.title }}</h2>
-          <p>{{ post.content | strip_html | truncatewords:25 }}</p>
-          <span>{{ post.date | date: "%B %-d, %Y" }}</span>
-        </div>
+      {% if post.image %}
+      <img
+        src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+        data-src="{{ post.image }}"
+        alt="{{ post.image }}"
+      />
+      <!-- <img src="{{ post.image }}" alt="{{ post.image }}" /> -->
+      {% else %}
+      <img
+        style="background-image: linear-gradient(120deg, #ff9a9e 0%, #fad0c4 100%);"
+        src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+        alt="background"
+      />
+      {% endif %}
+      <div class="articleinfo">
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.content | strip_html | truncatewords:25 }}</p>
+        <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+      </div>
     </div>
-</a>
+  </a>
 </div>

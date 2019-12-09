@@ -1,42 +1,85 @@
-<footer class='c-footer'>
-  <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'>
-
-      <ul class='o-plain-list c-social-nav u-text-center'>
+<footer class="c-footer">
+  <div class="o-grid">
+    <div class="o-grid__col o-grid__col--full">
+      <ul class="o-plain-list c-social-nav u-text-center">
         {% if site.twitter_username %}
-          <li class='c-social-nav__item'>
-            <a href='http://www.twitter.com/{{ site.twitter_username }}' target='_blank' aria-label="twitter account link">
-              <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
-            </a>
-          </li>
-        {% endif %}
-        {% if site.instagram_username %}
-          <li class='c-social-nav__item'>
-            <a href='https://instagram.com/{{ site.instagram_username }}' target='_blank' aria-label="instagram account link">
-              <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
-            </a>
-          </li>
-        {% endif %}
-        {% if site.github_username %}
-        <li class='c-social-nav__item'>
-          <a href='http://www.github.com/{{ site.github_username }}' target='_blank'>
-            <span class='c-social-nav__icon' data-icon='ei-sc-github' data-size='s'></span>
+        <li class="c-social-nav__item">
+          <a
+            href="http://www.twitter.com/{{ site.twitter_username }}"
+            target="_blank"
+            aria-label="twitter account link"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-sc-twitter"
+              data-size="s"
+            ></span>
           </a>
         </li>
-        {% endif %}
-        {% if site.email %}
-        <li class='c-social-nav__item'>
-          <a href='mailto:{{ site.email }}' target='_blank' aria-label="send email to chloe">
-            <span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span>
+        {% endif %} {% if site.instagram_username %}
+        <li class="c-social-nav__item">
+          <a
+            href="https://instagram.com/{{ site.instagram_username }}"
+            target="_blank"
+            aria-label="instagram account link"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-sc-instagram"
+              data-size="s"
+            ></span>
+          </a>
+        </li>
+        {% endif %} {% if site.github_username %}
+        <li class="c-social-nav__item">
+          <a
+            href="http://www.github.com/{{ site.github_username }}"
+            target="_blank"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-sc-github"
+              data-size="s"
+            ></span>
+          </a>
+        </li>
+        {% endif %} {% if site.email %}
+        <li class="c-social-nav__item">
+          <a
+            href="mailto:{{ site.email }}"
+            target="_blank"
+            aria-label="send email to chloe"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-envelope"
+              data-size="s"
+            ></span>
           </a>
         </li>
         {% endif %}
       </ul>
 
-      <div class='u-text-center'>
-        <span class='u-font-small u-font-sans-serif'>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span>
+      <div class="u-text-center">
+        <span class="u-font-small u-font-sans-serif"
+          >&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span
+        >
       </div>
-
     </div>
   </div>
 </footer>
+<script>
+  function init() {
+    var imgDefer = document.getElementsByTagName("img");
+    for (var i = 0; i < imgDefer.length; i++) {
+      if (imgDefer[i].getAttribute("data-src")) {
+        imgDefer[i].setAttribute("src", imgDefer[i].getAttribute("data-src"));
+      }
+    }
+  }
+  window.onload = init;
+</script>

@@ -204,6 +204,7 @@
 
         <div class='c-content' itemprop='articleBody'>
           
+
           <p><strong>Originally published in 2016 December issue of The Beacon magazine for Olentangy High School</strong></p>
 
 <p>It was my first job in fast food at Subway. Five other workers worked up front with me on the notorious sandwich line, and together we cranked out orders like a machine. We did all we could to finish their meals as fast as possible, but I still felt guilty for holding up their holiday shopping. I finished up my current customer’s order with no problems, even with a line of angry people stretching past the booth.</p>
@@ -325,42 +326,78 @@
   </div>
 </div>
     
-    <footer class='c-footer'>
-  <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'>
-
-      <ul class='o-plain-list c-social-nav u-text-center'>
+    <footer class="c-footer">
+  <div class="o-grid">
+    <div class="o-grid__col o-grid__col--full">
+      <ul class="o-plain-list c-social-nav u-text-center">
         
-          <li class='c-social-nav__item'>
-            <a href='http://www.twitter.com/chloeannmurdock' target='_blank' aria-label="twitter account link">
-              <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
-            </a>
-          </li>
-        
-        
-          <li class='c-social-nav__item'>
-            <a href='https://instagram.com/chloemurdockk' target='_blank' aria-label="instagram account link">
-              <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
-            </a>
-          </li>
-        
-        
-        
-        <li class='c-social-nav__item'>
-          <a href='mailto:chloe.murdock@gmail.com' target='_blank' aria-label="send email to chloe">
-            <span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span>
+        <li class="c-social-nav__item">
+          <a
+            href="http://www.twitter.com/chloeannmurdock"
+            target="_blank"
+            aria-label="twitter account link"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-sc-twitter"
+              data-size="s"
+            ></span>
+          </a>
+        </li>
+         
+        <li class="c-social-nav__item">
+          <a
+            href="https://instagram.com/chloemurdockk"
+            target="_blank"
+            aria-label="instagram account link"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-sc-instagram"
+              data-size="s"
+            ></span>
+          </a>
+        </li>
+          
+        <li class="c-social-nav__item">
+          <a
+            href="mailto:chloe.murdock@gmail.com"
+            target="_blank"
+            aria-label="send email to chloe"
+            rel="noopener"
+          >
+            <span
+              class="c-social-nav__icon"
+              data-icon="ei-envelope"
+              data-size="s"
+            ></span>
           </a>
         </li>
         
       </ul>
 
-      <div class='u-text-center'>
-        <span class='u-font-small u-font-sans-serif'>&copy; 2019 Chloe Murdock</span>
+      <div class="u-text-center">
+        <span class="u-font-small u-font-sans-serif"
+          >&copy; 2019 Chloe Murdock</span
+        >
       </div>
-
     </div>
   </div>
 </footer>
+<script>
+  function init() {
+    var imgDefer = document.getElementsByTagName("img");
+    for (var i = 0; i < imgDefer.length; i++) {
+      if (imgDefer[i].getAttribute("data-src")) {
+        imgDefer[i].setAttribute("src", imgDefer[i].getAttribute("data-src"));
+      }
+    }
+  }
+  window.onload = init;
+</script>
+
     </div>
   </div>
 
