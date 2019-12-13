@@ -21,9 +21,10 @@ paginate:  13
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll/tagging
+  - jekyll-sitemap
 
 include:
   - _pages
