@@ -5,8 +5,8 @@
     <description>Digital portfolio of Chloe Murdock</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Dec 2019 13:49:33 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Dec 2019 13:49:33 -0500</lastBuildDate>
+    <pubDate>Fri, 13 Dec 2019 14:20:06 -0500</pubDate>
+    <lastBuildDate>Fri, 13 Dec 2019 14:20:06 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
 
     
@@ -2693,6 +2693,8 @@ the use of humor, irony, exaggeration, or ridicule to expose and criticize peopl
             <link>http://localhost:4000/about.html</link>
           </item>
         
+      
+    
       
     
       
