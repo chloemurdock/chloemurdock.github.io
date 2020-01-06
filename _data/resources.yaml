@@ -2,8 +2,6 @@ resources:
   - list:
       - URL: 'http://www.tobias-elze.de/pdfsandwich/'
         title: pdfsandwich — scanned documents are no match for you
-      - URL: 'https://flourish.studio/features/'
-        title: Google Flourish — so people actually enjoy looking at your data
       - URL: 'https://toolbox.google.com/datasetsearch'
         title: Google Dataset Search (Beta)
       - URL: 'https://tabula.technology/'
