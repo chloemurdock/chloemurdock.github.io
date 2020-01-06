@@ -2,7 +2,7 @@
 layout: post
 title: Former Kosovo president wants gender equity and you to visit sometime
 date: 2019-11-25T04:00:00.000Z
-image: /images/jahjaga.jpg
+image: ''
 ---
 Atifete Jahjaga, former Republic of Kosovo president, described her career path in male-dominated, post-war fields that led to her 2011-2016 presidency in a talk on Monday, Nov. 4. Before delving into those topics, however, she began by thanking her audience and asking Miami students and faculty to visit Kosovo.
 
