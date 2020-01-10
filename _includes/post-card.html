@@ -1,7 +1,7 @@
 <div class="content">
   <a href="{{ post.url | prepend: site.baseurl }}">
     <div class="articleitem">
-      {% if post.image %}
+      {% if post.image and post.image != ''%}
       <img
         src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
         data-src="{{ post.image }}"
