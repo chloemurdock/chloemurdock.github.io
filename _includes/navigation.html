@@ -12,7 +12,11 @@
 </div>
 
 <div class="sidenav">
+  {% if page.path contains '_posts' %}
     <h1 style="margin:0;" class="c-post__title">Chloe Murdock</h1>
+    {% else %}
+    <div style="margin:0;" class="c-post__title">Chloe Murdock</div>
+    {% endif %}
   <ul class='c-nav o-plain-list'>
       <li class='c-nav__item' role='presentation'>
           <a class='c-nav__link' href="/" aria-label="Articles page link">Articles</a>

@@ -8,7 +8,7 @@ author: Chloe Murdock
 
 They were born in the country, yet are not considered citizens. They don’t have access to a stable job, so they live on less than $10 a month. They are not provided schooling or healthcare, when they are the ones who need it most.
 
-The social class caste system of India known as Varna prevents the Dalit—the lowest rung on the caste—from opportunities we take for granted in the United States, according to [borgenmagazine.com](borgenmagazine.com).
+The social class caste system of India known as Varna prevents the Dalit—the lowest rung on the caste—from opportunities we take for granted in the United States, according to [borgenmagazine.com](https://www.borgenmagazine.com/).
 
 The Vision Foundation is a nonprofit education that provides healthcare and education in the Dharavi slums of Mumbai, India every summer—yet the foundation’s president, senior Esha Chadha, is 18 years old and lives half a world away in Lewis Center.
 
