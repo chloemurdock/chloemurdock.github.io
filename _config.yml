@@ -11,7 +11,7 @@ logo:               # Logo image URL
 email:              chloe.murdock@gmail.com
 description:        Digital portfolio of Chloe Murdock
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'http://chloemurdock.com' # The base hostname & protocol for your site
+url:                'https://chloemurdock.com' # The base hostname & protocol for your site
 twitter_username:   chloeannmurdock
 instagram_username: chloemurdockk
 
