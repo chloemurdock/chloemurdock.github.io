@@ -1,11 +1,15 @@
 <div>
   <div style="display: flex; -webkit-box-align: center; justify-content: space-evenly;">
+    {% if paginator.previous_page %}
     <a class='' href='{{ paginator.previous_page_path | prepend: site.baseurl }}'>
-      <span style="padding: 15px; display: inline-block;">{% if paginator.previous_page %}❮ Previous page{% endif %}</span>
+      <span style="padding: 15px; display: inline-block;">❮ Previous page</span>
     </a>
-  
+    {% endif %}
+
+    {% if paginator.next_page %}
     <a class='' href='{{ paginator.next_page_path | prepend: site.baseurl }}'>
-      <span style="padding: 15px; display: inline-block;">{% if paginator.next_page %}Next page ❯{% endif %}</span>
+      <span style="padding: 15px; display: inline-block;">Next page ❯</span>
     </a>
+    {% endif %}
   </div>
 </div>
