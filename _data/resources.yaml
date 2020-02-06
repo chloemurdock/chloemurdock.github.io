@@ -2,32 +2,53 @@ resources:
   - list:
       - URL: 'http://www.tobias-elze.de/pdfsandwich/'
         title: pdfsandwich — scanned documents are no match for you
-      - URL: 'https://toolbox.google.com/datasetsearch'
-        title: Google Dataset Search (Beta)
       - URL: 'https://tabula.technology/'
         title: Tabula — Extract Tables from PDFs
       - URL: 'https://www.google.com/earth/'
         title: Google Earth — Dynamic data maps
-      - URL: 'https://medialandscapes.org/'
-        title: Media Landscapes
       - URL: 'https://www.sourcemap.com/'
         title: "sourcemap.com —\_supply chain mapping"
       - URL: >-
           https://www.mindmeister.com/?utm_source=google&utm_medium=cpc&utm_campaign=us_en_search&utm_content=mm&gclid=EAIaIQobChMInOiM98Tb5QIVgq_sCh2ElwxNEAAYASAAEgI6lvD_BwE
         title: mindmeister.com — mind mapping software
+      - URL: 'https://lukasmurdock.com/resources/'
+        title: lukasmurdock.com resources — the origin of the personal resources page
+      - URL: 'https://toolbox.google.com/datasetsearch'
+        title: Google Dataset Search (Beta)
+      - URL: 'https://medialandscapes.org/'
+        title: Media Landscapes
       - URL: 'http://miamioh.edu/police/'
         title: 'Miami University police records, logs, etc.'
+      - URL: 'https://www.shutterstock.com/blog/trends/2020-creative-trends'
+        title: Shutterstock's 2020 creative trends
     type: Links
   - list:
       - URL: 'https://www.nytimes.com/'
         title: The New York Times
+      - URL: 'https://www.npr.org/'
+        title: NPR
       - URL: 'https://www.wsj.com/?mod=wsj_secondlogin_swsl17'
         title: The Wall Street Journal
       - URL: 'https://balkaninsight.com/kosovo-home/'
         title: Balkan Insight
       - URL: 'https://time.com/'
         title: TIME magazine
-    type: News I trust
+      - URL: 'https://longreads.com/'
+        title: Longreads
+      - URL: 'https://www.miamistudent.net/'
+        title: The Miami Student newspaper
+      - URL: 'http://magazine.miamistudent.net/'
+        title: The Miami Student magazine
+    type: News
+  - list:
+      - URL: 'https://www.mindtools.com/'
+        title: mindtools.com — for productivity
+      - URL: >-
+          https://link.cfr.org/join/66n/signup&hash=2d4c5929e9e04cc42f5cd375fb8dcfb1
+        title: 'Council on Foreign Relations daily news brief — for the world, briefly'
+      - URL: 'https://www.nytimes.com/series/in-her-words'
+        title: NYT's In Her Words — for a gut check on gender
+    type: Newsletters
   - list:
       - URL: >-
           https://www.nytimes.com/2018/03/28/obituaries/overlooked-yu-gwan-sun.html
@@ -53,6 +74,8 @@ resources:
       - URL: >-
           https://www.nytimes.com/2019/10/03/reader-center/how-times-journalists-become-experts-on-a-subject.html
         title: How Times Journalists Become Experts on a Subject
+      - URL: 'http://www.paulgraham.com/genius.html'
+        title: 'Blog: The Bus Ticket Theory of Genius'
     type: Articles to return to
   - list:
       - URL: >-
@@ -64,6 +87,8 @@ resources:
         title: On Speaking Well — Peggy Noonan
       - URL: 'https://www.goodreads.com/book/show/3228917-outliers'
         title: 'Outliers: The Story of Success — Malcolm Gladwell'
+      - URL: 'https://www.goodreads.com/book/show/40121378-atomic-habits'
+        title: Atomic Habits — James Clear
       - URL: 'https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl'
         title: 'Anne Frank: The Diary of a Young Girl — Anne Frank'
       - URL: 'https://www.goodreads.com/book/show/1617.Night'
