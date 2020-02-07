@@ -12,7 +12,7 @@ A program coordinator told me that people become attached to the first place the
 
 **Living between mountains**
 
-Kosovo has an energy I’ve never felt anywhere else. It’s a young country that has to look up to great powers during international talks, but its people and mountains stand tall. Once my plane puttered to a stop at Adem Jashari airport, I could easily spot these its green peaks everywhere I looked.
+Kosovo has an energy I’ve never felt anywhere else. It’s a young country that has to look up to great powers during international talks, but its people and mountains stand tall. Once my plane puttered to a stop at Adem Jashari airport, I could easily spot these green peaks everywhere I looked.
 
 Most of Ohio is flatter than a tortilla. Whenever I come home, more suburbs and schools soak up light that used to hit soybeans and cornfields.
 
