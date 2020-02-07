@@ -40,7 +40,7 @@ It is over 75 degrees outside, but the American obsession with fall never sheds 
 
 The crowd disperses. For now. It’s a 15-20 minute break for “Jenny” and the rest of the staff, manned by a manager with a short blonde ponytail and the nametag “Mommy Spice.” 
 
-Many of their stories start with “One time, there was this frappuccino I made ...” and ends with something like “... halfway through the iced coffee, I realized it was not almond milk.”
+Many of their stories start with “One time, there was this frappuccino I made ...” and ends with something like “... halfway through the iced coffee, I realized it was *not* almond milk.”
 
 Small mistakes like this can deconstruct the entire flow of a rush. A few minutes later, work picks back up again.
 
