@@ -48,6 +48,8 @@ resources:
         title: 'Council on Foreign Relations daily news brief — for the world, briefly'
       - URL: 'https://www.nytimes.com/series/in-her-words'
         title: NYT's In Her Words — for a gut check on gender
+      - title: Black Belt Magazine — for a reminder to kick ass
+        URL: 'https://blackbeltmag.com/'
     type: Newsletters
   - list:
       - URL: >-
