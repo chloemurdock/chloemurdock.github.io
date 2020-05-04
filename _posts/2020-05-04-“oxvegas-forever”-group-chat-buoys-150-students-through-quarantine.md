@@ -55,3 +55,5 @@ Messages from the chat notified Kamara on April 5 that her Twitter had been hack
 Kamara does not post much in the chat herself, but she enjoys seeing messages from others. She is glad it has carved out a virtual community space.
 
 “It’s nice to have solidarity,” she said. “Something to fall back on.”
+
+*[Originally published in The Miami Student newspaper](https://www.miamistudent.net/article/2020/04/oxvegas-forever)*
