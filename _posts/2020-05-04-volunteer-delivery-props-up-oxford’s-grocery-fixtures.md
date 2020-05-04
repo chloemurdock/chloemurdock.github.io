@@ -6,8 +6,6 @@ image: /images/food-boxes.jpg
 ---
 *[Photo from Miami University's ShareFest this spring](https://www.miamioh.edu/news/top-stories/2020/04/mini-move-out-sharefest-food-donated.html)*
 
-
-
 Oxford’s sources for local or free groceries are turning into grocery delivery services to eliminate coronavirus contact points. To keep up, they are training additional volunteers.
 
 Larry Slocum, who organizes the[Oxford Farmers Market](http://oxfordfarmersmarket.com/), is keeping the market open at its normal hours on Tuesday evenings and Saturday mornings, armed with hand sanitizer and new 6-feet-apart social distancing rules. Additionally, he is setting up an online platform for customers to search for and contact farmers for delivery.
@@ -43,3 +41,5 @@ Meanwhile, on March 29, Fuehrer said TOPSS received 5,000 pounds of food in a pe
 Fuehrer asked for those who want to donate money to TOPSS to instead donate to the backpack program that Carels volunteers with, as well as the [Oxford Senior Center](http://www.oxfordsenior.org/index.html), [Open Hands Pantry](https://www.facebook.com/Open-Hands-Food-Pantry-692946037389657/) in Hamilton, Ohio, and the [Oxford Family Resource Center](http://www.frcoxford.org/).
 
 These local resources are changing their processes so Oxford’s most vulnerable can access food and other resources, while also preventing the spread of the virus.
+
+*[Originally published in The Miami Student newspaper](https://www.miamistudent.net/article/2020/04/groceries-for-older-people)*
