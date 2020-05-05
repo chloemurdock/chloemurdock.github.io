@@ -46,11 +46,6 @@ defaults:
     values:
       permalink: /:basename
 
-# Collections
-collections:
-  threepagesaday:
-    output: true
-
 # Authors
 authors:
   Chloe:
