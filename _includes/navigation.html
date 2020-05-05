@@ -17,12 +17,13 @@
   {% else %}
     <h1 style="margin:0;" class="c-post__title">Chloe Murdock</h1>
   {% endif %}
+  
   <ul class='c-nav o-plain-list'>
       <li class='c-nav__item' role='presentation'>
           <a class='c-nav__link' href="/" aria-label="Articles page link">Articles</a>
       </li>
       {% for page in site.pages %}
-      {% unless page.name == '404.md' %}
+      {% unless page.name == '404.md' or page.dir contains 'tag' %}
         {% if page.title %}
           <li class='c-nav__item' role='presentation'>
             <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}' aria-label="{{ page.title }} page link">{{ page.title }}</a>
