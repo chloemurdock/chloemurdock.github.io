@@ -4,6 +4,7 @@ title: Snowboarding is rad, Skiing is sad
 featured: false
 author: Chloe Murdock
 image: '/images/snowboarding.webp'
+tags: Uncategorized
 ---
 
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**

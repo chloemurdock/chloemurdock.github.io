@@ -3,6 +3,7 @@ layout: post
 title: New year, new pool, very cool
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published in 2016 January issue of The Beacon magazine for Olentangy High School**

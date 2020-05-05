@@ -3,6 +3,7 @@ layout: post
 title: 2015 Olentangy HS Fall Sports Review
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published in 2015 September issue of The Beacon magazine for Olentangy High School**

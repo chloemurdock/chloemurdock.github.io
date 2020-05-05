@@ -3,6 +3,7 @@ layout: post
 title: The evolution of social media
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**

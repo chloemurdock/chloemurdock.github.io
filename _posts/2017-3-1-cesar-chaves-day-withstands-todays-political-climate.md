@@ -3,6 +3,7 @@ layout: post
 title: Cesar Chavez Day withstands today’s political climate
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published in 2017 March issue of The Beacon magazine for Olentangy High School**

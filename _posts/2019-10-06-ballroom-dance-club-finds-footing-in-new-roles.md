@@ -3,6 +3,7 @@ layout: post
 title: Ballroom dance club finds footing in new roles
 date: 2018-02-07T01:02:00.000Z
 image: /images/ballroom.jpg
+tags: Uncategorized
 ---
 Oxford, OHIO, USA—Mambo. Cha cha. Quickstep. Foxtrot. All ballroom dances involve a "leader," which is traditionally a man, who directs the "follower," traditionally a woman. To help others learn to dance -- regardless of gender identity -- through the ballroom dance club, first-year Brynne Menkhaus and graduate student Josh Schussler are learning to be both leaders and followers.
 

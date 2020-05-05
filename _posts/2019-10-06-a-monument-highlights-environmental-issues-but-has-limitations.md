@@ -3,6 +3,7 @@ layout: post
 title: 'A monument highlights environmental issues, but has limitations'
 date: 2019-07-06T00:33:00.000Z
 image: /images/newborn-ambienti.jpg
+tags: Uncategorized
 ---
 Prishtina, KOSOVO—The plastic Reclamation installation covering the Newborn monument was torn off last weekend to reveal the swirling designs of rivers, trees and recycling symbols once again. Newborn’s environment theme highlights an issue that is sometimes left as a last priority.
 

@@ -3,6 +3,7 @@ layout: post
 title: Feminism vs. Equalism
 featured: true
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **This is a full version of my letter from the editor originally published and cut down due to spacing issues in the March 2017 issue of The Beacon. This is a response to a letter to the editor from a student who did not agree with our feminism in-depth spread.**

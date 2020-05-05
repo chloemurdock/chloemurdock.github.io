@@ -4,6 +4,7 @@ title: More vegans raise forks
 featured: true
 author: Chloe Murdock
 image: '/images/about.jpeg'
+tags: Uncategorized
 ---
 
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**

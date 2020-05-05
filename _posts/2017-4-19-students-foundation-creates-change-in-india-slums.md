@@ -3,6 +3,7 @@ layout: post
 title: Student’s foundation creates change in India slums
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 
