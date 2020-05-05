@@ -23,4 +23,5 @@ fieldset {
  */
 dd, ol, ul {
   margin-left: $base-spacing-unit;
+  overflow-wrap: anywhere;
 }

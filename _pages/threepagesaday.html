@@ -1,0 +1,18 @@
+---
+layout: default
+title: Three Pages A Day
+permalink: /threepagesaday/
+---
+
+<div class="articlewrap">
+  <div class="grid">
+    {% for post in site.threepagesaday %}
+    <div class="item">
+      {% include threepagesaday-card.html %}
+    </div>
+    {% endfor %}
+  </div>
+
+  {% include pagination.html %}
+
+</div>
