@@ -3,6 +3,7 @@ layout: post
 title: A Medieval Club in No Man's Land
 date: 2018-11-14T01:14:00.000Z
 image: /images/medieval.jpg
+tags: Uncategorized
 ---
 Oxford, OHIO, USA—First-year Daniel Melson wanted to join something he, "could only do in college."
 

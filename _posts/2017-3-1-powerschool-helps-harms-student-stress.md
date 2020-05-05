@@ -3,6 +3,7 @@ layout: post
 title: Powerschool helps, harms student stress
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published in 2017 March issue of The Beacon magazine for Olentangy High School**

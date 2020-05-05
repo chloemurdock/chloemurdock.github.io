@@ -3,6 +3,7 @@ layout: post
 title: "Letter from the editor: TMSM's Spring 2020 issue, Disruption"
 date: 2020-04-28T14:15:00.000Z
 image: /images/dsc_3577-2.jpg
+tags: Uncategorized test doubletestie
 ---
 Dear reader,
 

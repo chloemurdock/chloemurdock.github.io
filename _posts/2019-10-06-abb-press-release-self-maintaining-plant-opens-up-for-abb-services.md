@@ -2,6 +2,7 @@
 layout: post
 title: 'ABB press release: Self-maintaining plant opens up for ABB services'
 date: 2018-06-13T17:18:00.000Z
+tags: Uncategorized
 ---
 ## U.S. cement plant replaces 10 gas analyzers for $107,447
 

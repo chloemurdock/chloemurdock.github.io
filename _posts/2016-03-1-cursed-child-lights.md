@@ -3,6 +3,7 @@ layout: post
 title: '"Cursed child" lights new wand this Summer'
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published in 2016 March issue of The Beacon magazine for Olentangy High School**

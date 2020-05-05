@@ -3,6 +3,7 @@ layout: post
 title: Health measured on a greater scale
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published in 2016 January issue of The Beacon magazine for Olentangy High School**

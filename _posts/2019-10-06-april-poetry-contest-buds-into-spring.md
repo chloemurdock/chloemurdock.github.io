@@ -2,6 +2,7 @@
 layout: post
 title: April poetry contest buds into spring
 date: 2018-04-03T23:57:00.000Z
+tags: Uncategorized
 ---
 Oxford, OHIO, USA—Learning is the continual/Change in which one/becomes an alloy/of the Entirety of the world/Beautiful university, where?
 

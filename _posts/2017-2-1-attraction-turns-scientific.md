@@ -3,6 +3,7 @@ layout: post
 title: Attraction turns scientific
 featured: true
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published as a cover article in the 2017 February issue of The Beacon magazine for Olentangy High School**

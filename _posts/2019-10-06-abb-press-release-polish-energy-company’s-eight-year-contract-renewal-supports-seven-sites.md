@@ -5,6 +5,7 @@ title: >-
   supports seven sites
 date: 2018-08-06T17:11:00.000Z
 image: /images/gdynia_12.jpg
+tags: Uncategorized
 ---
 Originally published on [abb.com](https://new.abb.com/news/detail/5887/pge-capital-group-renews-abb-care-adds-control-systems-services)
 

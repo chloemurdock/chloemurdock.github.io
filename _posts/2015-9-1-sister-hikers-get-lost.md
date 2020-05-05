@@ -3,6 +3,7 @@ layout: post
 title: Sister hikers get lost, then found
 featured: false
 author: Chloe Murdock
+tags: Uncategorized
 ---
 
 **Originally published in 2015 September issue of The Beacon magazine for Olentangy High School**
