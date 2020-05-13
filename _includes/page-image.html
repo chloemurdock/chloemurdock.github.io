@@ -1,6 +1,7 @@
 {% if page.image %}
 <img
   src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+  loading="lazy"
   class="c-post__image"
   data-src="{{ page.image | prepend: site.baseurl }}"
 />

@@ -13,7 +13,7 @@ permalink: /resources/
           {% for item in d.list %}
           <li class="item">
             <a class="item" target="_blank" href="{{ item.URL }}" rel="noopener">
-              <img class="item" alt="{{ item.URL }}" src="https://s2.googleusercontent.com/s2/favicons?domain_url={{ item.URL }}">
+              <img class="item" loading="lazy" alt="{{ item.URL }}" src="https://s2.googleusercontent.com/s2/favicons?domain_url={{ item.URL }}">
               {{ item.title }}
             </a>
           </li>
