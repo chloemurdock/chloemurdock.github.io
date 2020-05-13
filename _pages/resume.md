@@ -30,7 +30,7 @@ MAY 2017 - PRESENT
 
   [Oxford pantry inches toward $1M finish line with donations from Greek 5K](https://chloemurdock.com/2019/10/22/oxford-pantry-inches-toward-1m-finish-line-with-donations-from-greek-5k/)
 
-  [She's got options on Valentine's Day](<* <https://www.miamistudent.net/article/2019/02/shes-got-options-on-valentines-day>>)
+  [She's got options on Valentine's Day](https://www.miamistudent.net/article/2019/02/shes-got-options-on-valentines-day)
 * Write for culture section:
 
   [Kosovo. "Where is that?](https://www.miamistudent.net/article/2019/08/discovering-kosovo-great-coffee-better-people-and-a-tangled-history)"
