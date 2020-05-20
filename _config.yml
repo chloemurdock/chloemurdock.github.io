@@ -25,6 +25,7 @@ plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 include:
   - _pages
@@ -48,6 +49,7 @@ defaults:
       permalink: /:basename
 
 # Authors
+author: chloeannmurdock
 authors:
   Chloe:
     name: Chloe Murdock
@@ -55,4 +57,4 @@ authors:
     gravatar:         
     email:            
     website: https://chloemurdock.com
-    twitter_username: 
+    twitter_username: chloeannmurdock
