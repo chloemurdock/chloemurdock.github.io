@@ -3,7 +3,7 @@ layout: post
 title: How to shop and survive in the thrift store jungle
 featured: false
 author: Chloe Murdock
-date: 2020-05-22 15:58
+date: 2015-10-22 15:58
 tags: High school, thrifting
 ---
 
