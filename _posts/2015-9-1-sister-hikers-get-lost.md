@@ -4,7 +4,7 @@ title: Sister hikers get lost, then found
 featured: false
 author: Chloe Murdock
 date: 2015-09-22 16:05
-tags: high school, national news, lost sisters, hiking
+tags: high school, national news, outdoors, hiking
 ---
 
 **Originally published in 2015 September issue of The Beacon magazine for Olentangy High School**
