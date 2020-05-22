@@ -3,13 +3,14 @@ layout: post
 title: New year, new pool, very cool
 featured: false
 author: Chloe Murdock
-tags: Uncategorized
+date: 2016-01-22 16:25
+tags: satire, sports, swimming
 ---
-
 **Originally published in 2016 January issue of The Beacon magazine for Olentangy High School**
 
-sat·ire     ˈsaˌtī(ə)r/     noun
-the use of humor, irony, exaggeration, or ridicule to expose and criticize people’s stupidity or vices, particularly in the context of contemporary politics and other topical issues.
+**sat·ire     ˈsaˌtī(ə)r/     noun**
+
+The use of humor, irony, exaggeration, or ridicule to expose and criticize people’s stupidity or vices, particularly in the context of contemporary politics and other topical issues.
 
 Lewis Center, OH—Swimmers spent their first practice of the year on Monday, Dec. 4 in the **third-floor pool**, the latest sports renovation since the 2014 stadium turf installation.
 
@@ -38,8 +39,6 @@ Upperclassmen seem to view the phenomenon as a benefit rather than a concern.
 While the existence of the mysterious pool continues to be debated, the swim team faced off against Dublin Scioto Friday, Jan. 7—their first meet at the new location.
 
 Note: There is no third floor pool. Any mentions of the third-floor pool can be replaced with [Mount Carmel Fitness Center](http://www.mountcarmelhealth.com/) and still make sense.
-
-
 
 Q&A with Olentangy High School Dean of Students Brad Henry
 
