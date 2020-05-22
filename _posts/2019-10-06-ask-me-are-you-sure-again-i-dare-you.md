@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Ask me "Are you sure?" again, I dare you'
+title: Ask me "Are you sure?" again, I dare you
 date: 2018-11-07T01:22:00.000Z
-tags: Uncategorized
+tags: Opinion, feminism, sports, martial arts
 ---
 OPINION PIECE for The Miami Student newspaper
 
