@@ -3,10 +3,10 @@ layout: post
 title: Feminism vs. Equalism
 featured: true
 author: Chloe Murdock
-tags: Uncategorized
+date: 2017-03-10 16:43
+tags: high school, letter from the editor, opinion, feminism
 ---
-
-**This is a full version of my letter from the editor originally published and cut down due to spacing issues in the March 2017 issue of The Beacon. This is a response to a letter to the editor from a student who did not agree with our feminism in-depth spread.**
+**This is a full version of my letter from the editor, which was originally published and cut down due to spacing issues in the March 2017 issue of The Beacon. This is a response to a letter to the editor from a student who did not agree with our feminism in-depth spread.**
 
 As a Beacon editor and fellow student, thank you for your lively reply to our in-depth opinion article on feminism. However, there are a few errors in your response I need to point out.
 
@@ -26,6 +26,6 @@ In a perfect world, we would all be “equalists” as you say—but from what I
 
 Thank you again for your response, and I hope you and readers like you are further encouraged to create a dialogue about issues of contention like gender. Only then will injustices and evidence of progress be brought to light.
 
-***A rundown of the changing goals of the feminist movement in the United States: the right to vote with the 19th Amendment, discrimination in the workplace, Equal Rights Amendment, Roe v. Wade, to the present: intersectional feminism, which incorporates all factors of inequality like race, socioeconomic status, sexual identity, etc. into the present inequality of the sexes; fighting female genital mutilation at home and abroad; addressing rape culture (which also applies to men but is often overlooked) and general violence against women; LGBTQ+ rights; challenges of people of color who identify as women; women’s health issues; unrealistic expectations for both men and women in society…**
+**\*A rundown of the changing goals of the feminist movement in the United States: the right to vote with the 19th Amendment, discrimination in the workplace, Equal Rights Amendment, Roe v. Wade, to the present: intersectional feminism, which incorporates all factors of inequality like race, socioeconomic status, sexual identity, etc. into the present inequality of the sexes; fighting female genital mutilation at home and abroad; addressing rape culture (which also applies to men but is often overlooked) and general violence against women; LGBTQ+ rights; challenges of people of color who identify as women; women’s health issues; unrealistic expectations for both men and women in society…**
 
 Feminism is too complex to summarize in one blog post. Not all feminists or even all women agree on all issues (linked [here](http://www.gloriasteinem.com/) (Gloria Steinem) and [here](http://www.volkskrant.nl/boeken/ngozi-adichie-beyonce-s-feminism-isn-t-my-feminism~a4390684/) (Beyonce and Chimamanda Ngozi Adichie’s somewhat conflicting viewpoints on feminism) are women of influence who seem to identify with the traditionally left-leaning feminist movement, linked [here](http://www.syracuse.com/celebrity-news/index.ssf/2017/05/kara_mccullough_healthcare_feminism_miss_usa_2017.html) (Miss USA 2017 preferring to call herself an equalist), [here](http://www.makers.com/phyllis-schlafly) (Phyllis Schlafly), [here](http://www.theblaze.com/video/tomi-lahren-offers-a-clear-message-to-left-wing-feminists-this-is-what-real-women-look-like/) (Tomi Lahren) are examples of women of influence who distanced themselves from the word feminism, and linked here is the late [Frida Kahlo](https://www.nytimes.com/2015/05/10/style/frida-kahlo-is-having-a-moment.html?_r=0), a Mexican artist also revered as an unapologetic feminist icon, although an unorthodox one). Educate yourself to see where you stand, whether or not you intend to join the conversation.
