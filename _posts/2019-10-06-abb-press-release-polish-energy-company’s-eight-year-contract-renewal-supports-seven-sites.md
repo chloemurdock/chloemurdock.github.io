@@ -1,11 +1,10 @@
 ---
 layout: post
-title: >-
-  ABB press release: Polish energy company’s eight-year contract renewal
-  supports seven sites
+title: "ABB press release: Polish energy company’s eight-year contract renewal
+  supports seven sites"
 date: 2018-08-06T17:11:00.000Z
 image: /images/gdynia_12.jpg
-tags: Uncategorized
+tags: ABB internship
 ---
 Originally published on [abb.com](https://new.abb.com/news/detail/5887/pge-capital-group-renews-abb-care-adds-control-systems-services)
 
