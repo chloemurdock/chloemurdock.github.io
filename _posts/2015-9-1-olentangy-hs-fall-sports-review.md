@@ -4,7 +4,8 @@ title: 2015 Olentangy HS Fall Sports Review
 featured: false
 author: Chloe Murdock
 date: 2015-09-22 16:03
-tags: "high school, sports, golf, football, cross country, "
+tags: high school, sports, golf, football, cross country, volleyball, tennis,
+  field hockey, soccer
 ---
 **Originally published in 2015 September issue of The Beacon magazine for Olentangy High School**
 
