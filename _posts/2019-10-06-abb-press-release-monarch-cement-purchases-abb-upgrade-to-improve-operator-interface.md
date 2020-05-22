@@ -1,11 +1,10 @@
 ---
 layout: post
-title: >-
-  ABB press release: Monarch Cement purchases ABB upgrade to improve operator
-  interface
+title: "ABB press release: Monarch Cement purchases ABB upgrade to improve
+  operator interface"
 date: 2017-10-12T17:33:00.000Z
 image: /images/monarch-cement-logo.jpg
-tags: Uncategorized
+tags: ABB internship, picked up by industry news
 ---
 ## ABB upgrades cement manufacturer’s ABB Knowledge Manager and Laboratory Information Management System (LIMS)
 
