@@ -2,7 +2,7 @@
 layout: post
 title: Central Park Five member speaks on institutionalized racism
 date: 2018-04-11T00:25:00.000Z
-tags: Uncategorized
+tags: The Miami Student Newspaper, News section, event, racism
 ---
 Oxford, OHIO, USA—Yusef Salaam came to speak about his experiences in the criminal justice system in Armstrong Student Center last night, following the presentation of Ken Burns documentary, "The Central Park Five".
 
