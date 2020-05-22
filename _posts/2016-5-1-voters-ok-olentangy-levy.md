@@ -3,7 +3,8 @@ layout: post
 title: Voters OK Olentangy Levy
 featured: true
 author: Chloe Murdock
-tags: Uncategorized
+date: 2016-05-13 16:34
+tags: high school, local news
 ---
 
 **Originally published in 2016 May issue of The Beacon magazine for Olentangy High School**
