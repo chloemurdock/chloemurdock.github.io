@@ -3,7 +3,8 @@ layout: post
 title: Holidays draw out religious differences
 featured: false
 author: Chloe Murdock
-tags: Uncategorized
+date: 2016-12-09 16:28
+tags: Opinion, column, holidays, xenophobia
 ---
 
 **Originally published in 2016 December issue of The Beacon magazine for Olentangy High School**
