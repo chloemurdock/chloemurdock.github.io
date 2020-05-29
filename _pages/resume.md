@@ -6,10 +6,9 @@ permalink: /resume/
 Email me at [murdocc3@miamioh.edu](mailto:murdocc3@miamioh.edu) or view my [LinkedIn](http://www.linkedin.com/in/chloe-m-275197133)
 
 
+- - -
 
-# Experience
-
-
+## Experience
 
 - - -
 
@@ -123,9 +122,10 @@ Olentangy High School’s The Beacon magazine – Editor-in-Chief, Writer, Desig
 * [Sister hikers get lost, then found](https://chloemurdock.github.io/2015/09/01/sister-hikers-get-lost/)
 * [How to shop and survive in the thrift store jungle](https://chloemurdock.github.io/2015/10/01/How-to-shop-and-survive-in-the-thrift-store-jungle/)
 
-# Education
 
+- - -
 
+## Education
 
 - - -
 
@@ -137,9 +137,10 @@ AUGUST 2017 - ANTICIPATED GRADUATION: MAY 2021
 
 * 3.6 GPA, Writing Scholar, Honors student, Private ESL writing tutor
 
-# Awards
 
+- - -
 
+## Awards
 
 - - -
 

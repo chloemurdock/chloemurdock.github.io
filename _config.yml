@@ -50,6 +50,7 @@ defaults:
 
 # Authors
 author: chloeannmurdock
+
 authors:
   Chloe:
     name: Chloe Murdock
@@ -58,3 +59,15 @@ authors:
     email:            
     website: https://chloemurdock.com
     twitter_username: chloeannmurdock
+
+twitter:
+  username: chloeannmurdock
+  card: summary
+
+social:
+  name: Chloe Murdock
+  links:
+    - https://twitter.com/chloeannmurdock
+    - http://instagram.com/chloemurdockk
+    - https://www.facebook.com/chloe.murdock.716
+    - https://www.linkedin.com/in/chloe-m-275197133/
