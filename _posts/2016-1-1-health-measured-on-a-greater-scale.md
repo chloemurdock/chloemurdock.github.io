@@ -4,7 +4,7 @@ title: Health measured on a greater scale
 featured: false
 author: Chloe Murdock
 date: 2016-01-22 16:23
-tags: opinion, health
+tags: opinion health
 ---
 **Originally published in 2016 January issue of The Beacon magazine for Olentangy High School**
 

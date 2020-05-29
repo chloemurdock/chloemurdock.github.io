@@ -5,7 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2016-02-22 16:07
 image: /images/vermin.webp
-tags: politics, satire
+tags: politics satire
 ---
 **Originally published in 2016 February issue of The Beacon magazine for Olentangy High School**
 

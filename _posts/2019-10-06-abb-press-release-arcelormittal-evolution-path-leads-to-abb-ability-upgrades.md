@@ -3,7 +3,7 @@ layout: post
 title: "ABB press release: ArcelorMittal evolution path leads to ABB Ability upgrades"
 date: 2017-10-10T17:21:00.000Z
 image: /images/arcelormittal-logo.png
-tags: ABB internship
+tags: ABB-internship
 ---
 ## Longtime ABB steel customer orders improvement
 

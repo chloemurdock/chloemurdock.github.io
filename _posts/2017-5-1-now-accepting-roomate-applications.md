@@ -5,7 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2017-05-12 16:49
 image: /images/roomate-image.webp
-tags: high school, satire, college applications
+tags: high-school satire college-applications
 ---
 
 **Originally published in 2017 May issue of The Beacon magazine for Olentangy High School**

@@ -4,7 +4,7 @@ title: Sriram fulfills 2016 valedictorian dream
 featured: false
 author: Chloe Murdock
 date: 2016-05-13 16:31
-tags: high school, news, profile
+tags: high-school news profile
 ---
 
 **Originally published in 2016 May issue of The Beacon magazine for Olentangy High School**

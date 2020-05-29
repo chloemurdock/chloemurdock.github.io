@@ -5,7 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2015-12-10 16:00
 image: /images/snowboarding.webp
-tags: high school, snowboarding, opinion
+tags: high-school snowboarding opinion
 ---
 
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**

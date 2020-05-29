@@ -4,7 +4,7 @@ title: Spring-cleaning a worldwide phenomenon
 featured: false
 author: Chloe Murdock
 date: 2020-05-22 16:24
-tags: perspectives, international
+tags: Perspectives International
 ---
 
 **Originally published in 2016 March issue of The Beacon magazine for Olentangy High School**

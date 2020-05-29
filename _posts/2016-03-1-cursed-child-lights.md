@@ -4,7 +4,7 @@ title: '"Cursed child" lights new wand this Summer'
 featured: false
 author: Chloe Murdock
 date: 2016-03-22 16:08
-tags: high school, harry potter, jk rowling
+tags: high-school harry-potter jk-rowling
 ---
 
 **Originally published in 2016 March issue of The Beacon magazine for Olentangy High School**

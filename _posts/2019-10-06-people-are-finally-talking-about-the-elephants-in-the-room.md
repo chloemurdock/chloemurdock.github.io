@@ -3,7 +3,7 @@ layout: post
 title: People are finally talking about the Elephants in the Room
 date: 2018-09-19T00:05:00.000Z
 image: /images/elephants.jpg
-tags: The Miami Student newspaper, Culture section, profile, music
+tags: The-Miami-Student-newspaper Culture-section Profile music
 ---
 Oxford, OHIO, USA—Within a week of popping the question, "Hey, wanna start a band?" a group of people who knew each other from church and mutual friends were honing a sound -- one that meshes jazz, soul and pop. They call themselves Elephants in the Room.
 

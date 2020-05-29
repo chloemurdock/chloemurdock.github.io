@@ -3,7 +3,7 @@ layout: post
 title: Islamophobia in the 21st century
 date: 2016-01-21T17:41:00.000Z
 image: /images/ap100813024070.jpg
-tags: high school, islamophobia, discrimination
+tags: high-school islamophobia discrimination
 ---
 Originally published on [ohsbeacon.com](https://ohsbeacon.com/587/opinion/islamophobia-in-the-21st-century/)
 

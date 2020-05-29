@@ -4,7 +4,7 @@ title: Missing home and hot tortillas
 featured: false
 author: Chloe Murdock
 date: 2017-09-12 16:50
-tags: Creative nonfiction, Memoir, Tortillas in Ohio
+tags: Creative-nonfiction Memoir Tortillas-in-Ohio
 ---
 **An early draft of this was originally published in [The Miami Student](http://miamistudent.net/missing-home-and-hot-tortillas/) in September 2017**
 

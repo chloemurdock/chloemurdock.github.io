@@ -4,7 +4,7 @@ title: New year, new pool, very cool
 featured: false
 author: Chloe Murdock
 date: 2016-01-22 16:25
-tags: satire, sports, swimming, high school
+tags: satire sports swimming high-school
 ---
 **Originally published in 2016 January issue of The Beacon magazine for Olentangy High School**
 

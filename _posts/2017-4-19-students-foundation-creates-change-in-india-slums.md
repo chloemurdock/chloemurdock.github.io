@@ -4,7 +4,7 @@ title: Student’s foundation creates change in India slums
 featured: false
 author: Chloe Murdock
 date: 2017-03-22 16:47
-tags: high school, NGO, international, profile
+tags: high-school NGO international profile
 ---
 
 

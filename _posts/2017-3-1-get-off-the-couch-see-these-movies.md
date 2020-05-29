@@ -5,7 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2015-12-11 16:44
 image: /images/movies-image.webp
-tags: high school, entertainment, film critique
+tags: high-school entertainment film critique
 ---
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**
 

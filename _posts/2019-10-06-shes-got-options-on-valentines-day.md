@@ -2,7 +2,7 @@
 layout: post
 title: She's got options on Valentine's Day
 date: 2018-02-13T01:09:00.000Z
-tags: TMS newspaper, Culture section, profile, cover story
+tags: The-Miami-Student-Newspaper Culture-section profile cover-story
 ---
 Here is what you should know before you swipe right on Athena Scalzi: She's a creative writing major, a Capricorn, left-handed, thicker "than a bowl of oatmeal" and a "bit of a nihilist," according to her Tinder profile.
 

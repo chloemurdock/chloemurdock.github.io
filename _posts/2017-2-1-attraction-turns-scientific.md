@@ -4,7 +4,7 @@ title: Attraction turns scientific
 featured: true
 author: Chloe Murdock
 date: 2017-02-10 16:39
-tags: high school, cover story, psychology, science reporting
+tags: high-school cover-story psychology science-reporting
 ---
 
 **Originally published as a cover article in the 2017 February issue of The Beacon magazine for Olentangy High School**
