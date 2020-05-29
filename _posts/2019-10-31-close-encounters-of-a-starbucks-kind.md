@@ -3,7 +3,7 @@ layout: post
 title: Close encounters of a Starbucks kind
 date: 2019-10-29T09:00:00.000Z
 image: /images/COFFEE SHOP.jpg
-tags: Uncategorized
+tags: TMS Newspaper, Culture section, Notes of Nostalgia, observational writing
 ---
 In the spirit of the daily understaffed chaos witnessed in the campus Starbucks’ this year, here’s a look back at the former Starbucks attached to Maple Dining Hall. Maybe we’re nostalgic, but fall 2017 felt like a simpler time.
 

@@ -3,7 +3,7 @@ layout: post
 title: A Medieval Club in No Man's Land
 date: 2018-11-14T01:14:00.000Z
 image: /images/medieval.jpg
-tags: Uncategorized
+tags: The Miami Student newspaper, Culture section, clubs, profile
 ---
 Oxford, OHIO, USA—First-year Daniel Melson wanted to join something he, "could only do in college."
 
@@ -28,12 +28,6 @@ The Marche of the Unicorn used to be considered a land. Due to the current small
 It might not show up on an SCA map, but it still gets perks of the barony, or region: club members are covered by the barony insurance, and can ask medieval arts instructors outside of the club's specialties to teach a class.
 
 Other than sporadic SCA classes and workshops on the weekends, the club is gearing up for its grand tournament on April 13, which is a festival where the club hosts fighting tournaments, music circles and other arts and science classes.
-
-Enjoy what you're reading?
-
-Signup for our newsletter
-
-Email Address
 
 The medieval club operates like a fraternity that doesn't ask for dues, though many of the members at Monday practices graduated years ago.
 

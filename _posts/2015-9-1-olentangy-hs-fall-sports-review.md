@@ -3,9 +3,10 @@ layout: post
 title: 2015 Olentangy HS Fall Sports Review
 featured: false
 author: Chloe Murdock
-tags: Uncategorized
+date: 2015-09-22 16:03
+tags: high school, sports, golf, football, cross country, volleyball, tennis,
+  field hockey, soccer
 ---
-
 **Originally published in 2015 September issue of The Beacon magazine for Olentangy High School**
 
 **Boys Golf:** After players came up to par in OCC’s, the boys prepare to dominate in the Delaware County Cup.
@@ -24,15 +25,15 @@ Whalen coached the middle school cross country team for eight years, was on staf
 
 “He is really making an effort to understand the strengths and weaknesses of the team, to get us in optimal shape for districts and hopefully beyond,” Tyler Reed ‘17 said.
 
-Girls Cross Country: The 87-strong team placed second at Mt. Vernon. The exploding number of the team is double the challenge for captains and coaches, where new assistant coach Kaitlin Rever comes in.
+**Girls Cross Country:** The 87-strong team placed second at Mt. Vernon. The exploding number of the team is double the challenge for captains and coaches, where new assistant coach Kaitlin Rever comes in.
 
 “Size is a challenge, but top athletes only get better with more teammates challenging and pushing them forward,” Rever said.
 
 Rever, a 1990 Olentangy alumni with 20 years of coaching experience, has taken multiple teams to states.
 
-“Coach Rever is very supportive and encouraging,” Krescens K. ‘18 said.
+“Coach Rever is very supportive and encouraging,” Krescens Kok ‘18 said.
 
-Girls Volleyball: After losing their first two matches, all three teams won matches against Big Walnut Aug. 27 and Dublin Scioto Aug. 29.
+**Girls Volleyball:** After losing their first two matches, all three teams won matches against Big Walnut Aug. 27 and Dublin Scioto Aug. 29.
 
 “We had a bumpy start, but we are now playing well after our opening conference,” head coach Michelle Mimna said.
 
@@ -40,15 +41,15 @@ The Varsity team also beat Orange Sept. 2.
 
 “We’re expecting a good season,” Katelyn Petrycki ‘17 said.
 
-Girls Tennis:  2014 state quarter finalists Brianna Brdicka ‘16 and Kathleen J. ‘18 are serving aces and taking names. They are the first ever players of any OHS tennis team or individual to win the first Doubles Division of the Watterson Invitational, according to the school athletics website.
+**Girls Tennis:**  2014 state quarter finalists Brianna Brdicka ‘16 and Kathleen Jones ‘18 are serving aces and taking names. They are the first ever players of any OHS tennis team or individual to win the first Doubles Division of the Watterson Invitational, according to the school athletics website.
 
 “We don’t want to get overconfident, but we definitely hope to place at states,” Brdicka said.
 
-Girls Golf: Kara Raines ‘17 finished sixth out of 66 golfers at the Midwest Classic in Canton with a score of 82, with the team finishing ninth out of 18 teams in the tournament, head coach John Feasel said. Raines and Alexandra Cardi ‘17 are the players to watch for.
+**Girls Golf:** Kara Raines ‘17 finished sixth out of 66 golfers at the Midwest Classic in Canton with a score of 82, with the team finishing ninth out of 18 teams in the tournament, head coach John Feasel said. Raines and Alexandra Cardi ‘17 are the players to watch for.
 
 “They are two of the best golfers the team has ever seen, and they are only juniors,” Feasel said. “If they make it to districts it would be the first time in school history.”
 
-Girls Field Hockey: Varsity Captain Allison Martin ‘17 and Junior Varsity player Emma B. ‘18 each scored a goal on state champion Thomas Worthington Aug. 24, the first time in the school’s history.
+**Girls Field Hockey:** Varsity Captain Allison Martin ‘17 and Junior Varsity player Emma B. ‘18 each scored a goal on state champion Thomas Worthington Aug. 24, the first time in the school’s history.
 
 “It was refreshing to see the ball hit the back of the goal and know we are capable of scoring against a powerhouse team in our division,” Martin said.
 
@@ -56,7 +57,7 @@ Also a first, 14 seniors return to play this year, the highest retention rate ev
 
 “As long as they continue to push themselves to be better, anything is possible,” head coach Biz Brehm said.
 
-Boys Soccer: The Varsity team won 1-0 against Big Walnut Sept. 1 with a goal by Corey Sweet ‘17, cheered on by new assistant defensive coach Dan Ensign.
+**Boys Soccer:** The Varsity team won 1-0 against Big Walnut Sept. 1 with a goal by Corey Sweet ‘17, cheered on by new assistant defensive coach Dan Ensign.
 
 “He’s good at explaining tactics,” Ryan R. ‘18 said.
 
@@ -64,7 +65,7 @@ Despite a rough start to the season, Ensign still saw the team’s potential.
 
 “We had the pieces needed to make a great starting lineup, we just needed to sort out who plays what after so many graduating seniors last year,” Ensign said.
 
-Girls Soccer: Last season, the girls team won their first OCC Championship since 1999. They also took home First Regional Finalists, 12 individual awards, and an OCC Coach of the Year award for head coach Megan Kirsten.
+**Girls Soccer:** Last season, the girls team won their first OCC Championship since 1999. They also took home First Regional Finalists, 12 individual awards, and an OCC Coach of the Year award for head coach Megan Kirsten.
 
 “We’re prepared to live up to how we did last year,” Ireland Fallona ‘17 said.
 

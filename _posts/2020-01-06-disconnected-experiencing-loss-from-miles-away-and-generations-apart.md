@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Disconnected: Experiencing loss from miles away and generations apart'
+title: "Disconnected: Experiencing loss from miles away and generations apart"
 date: 2019-11-20T19:43:00.000Z
 image: /images/murdockheader.png
-tags: Uncategorized
+tags: TMSM, creative nonfiction, profile
 ---
 Charles Mullenix noticed he had missed calls just as his phone died. From his dad. From his mom. From his girlfriend, Grace Hiddleston, who was also a Miami senior at the time.
 

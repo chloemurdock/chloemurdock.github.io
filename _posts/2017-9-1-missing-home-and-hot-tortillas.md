@@ -3,9 +3,9 @@ layout: post
 title: Missing home and hot tortillas
 featured: false
 author: Chloe Murdock
-tags: Uncategorized
+date: 2017-09-12 16:50
+tags: Creative nonfiction, Memoir, Tortillas in Ohio
 ---
-
 **An early draft of this was originally published in [The Miami Student](http://miamistudent.net/missing-home-and-hot-tortillas/) in September 2017**
 
 “No, I should wait to visit. I’ve only been at school for a few days,” I say over the phone.
@@ -22,7 +22,7 @@ I open my fridge for the Mission brand tortillas graciously given to freshman st
 
 Mission tortillas taste fine when microwaved, but they don’t taste like home. I spit out the limp bite of flour, remembering how hot a fresh tortilla is when you snatch it off the pan with just your fingers. Homemade tortillas taste good even when you don’t have anything to stuff them with, even when they grow cold.
 
-My name sounds white, I look white and I am mostly white. I check “Caucasian” on the U.S. Census. But my great grandma Rodriguez greets the men in our family with an ecstatic “Papasito!” and kisses their cheek, and tells tales of the teachers in San Antonio who scorned her for her accent and her appearance. And my grandma wistfully recalls when she could speak fluent Spanish just as well as she remembers the recipes from her late Mexican restaurant, which closed before I was born.
+My name sounds white, I look white and I am white. I check “Caucasian” on the U.S. Census. But my great grandma Rodriguez greets the men in our family with an ecstatic “Papasito!” and kisses their cheek, and tells tales of the teachers in San Antonio who scorned her for her accent and her appearance. And my grandma wistfully recalls when she could speak fluent Spanish just as well as she remembers the recipes from her late Mexican restaurant, which closed before I was born.
 
 My heritage is part of my identity, even though I feel strange sharing it. I want to, but I also don’t want to lay claim to the experiences I don’t have. It gets awkward when a white girl reminisces about her grandma making mexican food for Thanksgiving, especially to someone who actually looks the part.
 

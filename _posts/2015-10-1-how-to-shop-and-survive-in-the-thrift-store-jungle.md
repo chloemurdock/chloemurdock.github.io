@@ -3,7 +3,8 @@ layout: post
 title: How to shop and survive in the thrift store jungle
 featured: false
 author: Chloe Murdock
-tags: Uncategorized
+date: 2015-10-22 15:58
+tags: High school, thrifting, how-to
 ---
 
 **Originally published in 2015 October issue of The Beacon magazine for Olentangy High School**

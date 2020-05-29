@@ -1,10 +1,9 @@
 ---
 layout: post
-title: >-
-  ABB press release: Indonesian oil and gas leader upgrades ABB Ability 800xA
-  feature
+title: "ABB press release: Indonesian oil and gas leader upgrades ABB Ability
+  800xA feature"
 date: 2017-10-12T17:29:00.000Z
-tags: Uncategorized
+tags: ABB internship
 ---
 Originally published on [abb.com](http://www04.abb.com/global/abbzh/abbzh251.nsf!OpenDatabase&db=/global/abbzh/abbzh250.nsf&v=553E&e=us&url=/global/seitp/seitp202.nsf/0/0AD3FA53B536C42EC12581860066A50B!OpenDocument)
 

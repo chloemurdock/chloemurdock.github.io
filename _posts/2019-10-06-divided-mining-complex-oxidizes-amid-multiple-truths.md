@@ -3,7 +3,7 @@ layout: post
 title: Divided mining complex oxidizes amid multiple truths
 date: 2019-07-06T00:36:00.000Z
 image: /images/img-7006.jpg
-tags: Uncategorized
+tags: Kosovo, KosovaLive, international, written while studying abroad
 ---
 Prishtina, KOSOVO—More than just a bridge on the Ibër/Ibri River splits Mitrovica, Kosovo.
 
