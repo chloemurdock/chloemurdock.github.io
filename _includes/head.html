@@ -10,6 +10,10 @@
 
   <meta name="ahrefs-site-verification" content="cdfe02e1e8a05e4ff05b25088bb723d7cd2cab01fba8a08223274bf41a12e4a3">
 
+  {% if page.robots == noindex %}
+  <meta name="robots" content="noindex">
+  {% endif %}
+
   <style>
     {% capture inlineCSS %}
       {% include app.scss %}
@@ -23,5 +27,7 @@
   {% if site.tags == "" %}
   {% include tag-collection.html %}
   {% endif %}
+
+
   {% seo %}
 </head>

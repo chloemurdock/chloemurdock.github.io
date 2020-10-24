@@ -13,7 +13,7 @@ No other season motivates those suffering from chronic disorganization like the 
 
 “We clean in the spring to get clutter out of the house, and start new for the season,” Emma W. ‘18 said.
 
-Whatever one’s personal motivations, the practice itself spans across cultures. The cleaning ritual of Khaneh-Tekani—or “shaking house”—is meant to prep the home for the Persian, Iranian and Zoroastrian New Year called Nowruz, according to [https://www.howstuffworks.com/](howstuffworks.com).
+Whatever one’s personal motivations, the practice itself spans across cultures. The cleaning ritual of Khaneh-Tekani—or “shaking house”—is meant to prep the home for the Persian, Iranian and Zoroastrian New Year called Nowruz, according to [howstuffworks.com](https://www.howstuffworks.com/).
 
 In its origins, Thailand’s festival Songkran was a time to clean and to show respect for elders, by pouring water used to clean Buddha statues onto them. This cleansing tradition has since modernized into a mass water gun fight in the streets, since temperatures can reach up to 100 degrees in the spring.
 
