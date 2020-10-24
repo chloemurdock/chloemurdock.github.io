@@ -47,6 +47,12 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename
+  -
+    scope:
+      path: "tag"
+    values:
+      sitemap:         false
+
 
 # Authors
 author: chloeannmurdock
