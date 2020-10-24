@@ -22,7 +22,7 @@ layout: default
 
         {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name }}" style="background-color: rgba(255,66,66,.1);
+        <a href="/tag/{{ tag_name | downcase }}/" style="background-color: rgba(255,66,66,.1);
         color: #FF4242;
         padding: 4px 8px;
         border-radius: 5px;">{{ tag_name }}</a>
@@ -37,7 +37,7 @@ layout: default
           <div class='o-grid__col o-grid__col--4-4-s o-grid__col--3-4-m'>
             <div class='c-tags'>
               {% for tag in page.tags %}
-                <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+                <a href='{{ site.baseurl }}/tag/{{ tag | downcase }}/'>{{ tag }}</a>
               {% endfor %}
             </div>
           </div>
