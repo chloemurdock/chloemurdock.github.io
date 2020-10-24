@@ -27,7 +27,7 @@ He dropped the gear.
 
 \*\**
 
-![](http://magazine.miamistudent.net/wp-content/uploads/2019/12/rachel-768x1024.jpg)
+<!-- ![](http://magazine.miamistudent.net/wp-content/uploads/2019/12/rachel-768x1024.jpg) -->
 
 ***“Can I call you back? I need a minute.”***
 
@@ -109,7 +109,7 @@ Martha had done enough. It was time for Rachel to step up.
 
 \*\**
 
-![](http://magazine.miamistudent.net/wp-content/uploads/2019/12/IMG-9890-1024x768.jpg)
+<!-- ![](http://magazine.miamistudent.net/wp-content/uploads/2019/12/IMG-9890-1024x768.jpg) -->
 
 ***“It’s difficult to care for the people you loved that no longer are the people that you loved.”***
 
