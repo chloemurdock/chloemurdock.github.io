@@ -11,7 +11,7 @@ tags: high-school harry-potter jk-rowling
 
 An eighth installment of the Harry Potter series comes to London’s Palace Theatre this summer in two parts, called “Cursed Child.”
 
-“It’s a Gothic theatre. There’s a majesty there, and it has this Hogwarts feel to it,” “Cursed Child” playwright Jack Thorne said via [https://www.wizardingworld.com/](pottermore.com).
+“It’s a Gothic theatre. There’s a majesty there, and it has this Hogwarts feel to it,” “Cursed Child” playwright Jack Thorne said via [pottermore.com](https://www.wizardingworld.com/).
 
 Thorne and Tony award-winning director John Tiffany collaborated with J.K. Rowling to create the play. They would be hard-pressed to say no.
 
@@ -21,7 +21,7 @@ Many rumors followed the announcement of “Cursed Child.” Rowling responded v
 
 [“Not a prequel. Not unearthly. Magical,” Rowling said on Twitter.](https://twitter.com/jk_rowling/status/703562900464640000?lang=en)
 
-The play stars a grown-up Harry Potter, according to [https://www.harrypottertheplay.com/](harrypottertheplay.com). An aging Potter, played by Jamie Parker, is dissatisfied with his Ministry of Magic desk job while his fame tortures youngest son, Albus.
+The play stars a grown-up Harry Potter, according to [harrypottertheplay.com](https://www.harrypottertheplay.com/). An aging Potter, played by Jamie Parker, is dissatisfied with his Ministry of Magic desk job while his fame tortures youngest son, Albus.
 
 Rowling also defended the decision to cast Olivier award-winner and black actress Noma Dumezweni as Hermione. The heroine’s race was never identified in the books, yet some fans are making a ruckus about it.
 

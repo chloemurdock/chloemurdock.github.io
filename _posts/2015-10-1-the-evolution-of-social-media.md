@@ -15,11 +15,11 @@ Early 1980s: The Bulletin Board System, or BBS, becomes popular with nerds and o
 
 Late 1980s: CompuServe, a communication system reserved for business purposes, is released to the public market. AOL is released not long after, with the first communities of members and member profiles.
 
-1995: [https://www.classmates.com/](classmates.com) enables users to find former classmates. Today, the site has over 57 million accounts, according to [https://www.digitaltrends.com/](digitaltrends.com).
+1995: [classmates.com](https://www.classmates.com/) enables users to find former classmates. Today, the site has over 57 million accounts, according to [digitaltrends.com](https://www.digitaltrends.com/).
 
-1997: [http://sixdegrees.com/](SixDegrees.com) launches, based on the six degrees of separation theory: a person is a mere six steps away from being connected to any other given person. In 2000, the site shuts down; the failure is attributed to the over-spamming of users to invite friends.
+1997: [SixDegrees.com](http://sixdegrees.com/) launches, based on the six degrees of separation theory: a person is a mere six steps away from being connected to any other given person. In 2000, the site shuts down; the failure is attributed to the over-spamming of users to invite friends.
 
-2002: [http://www.friendster.com/](Friendster.com) allows users to find friends in a similar matchmaking process to modern dating sites. When the social media aspect of the site lost considerable traffic, it focused on online games instead before shutting down in [2014](http://www.friendster.com/).
+2002: [Friendster.com](http://www.friendster.com/) allows users to find friends in a similar matchmaking process to modern dating sites. When the social media aspect of the site lost considerable traffic, it focused on online games instead before shutting down in [2014](http://www.friendster.com/).
 
 2003: LinkedIn and MySpace become popular. While MySpace fell from a household name to social networking for musicians and bands, LinkedIn continues to be a mainstream business networking tool.
 
@@ -27,6 +27,6 @@ Late 1980s: CompuServe, a communication system reserved for business purposes, i
 
 2007: Another FaceBook launch introduces the “Like” button on Facebook and Twitter, Facebook’s adopted sibling site. Google changes the social media game with Google+’s live video chat “hangouts,” and FaceBook scrambles to replicate this feature.
 
-2010-2015: Mobile-based apps such as Instagram, Snapchat and dating apps based on location rule the social media sphere – yet Facebook still reigns supreme with 1,490 million users, according to [https://www.statista.com/](statista.com).
+2010-2015: Mobile-based apps such as Instagram, Snapchat and dating apps based on location rule the social media sphere – yet Facebook still reigns supreme with 1,490 million users, according to [statista.com](https://www.statista.com/.
 
 Future: Virtual reality in social media may be in reach in a few years, with the Oculus virtual reality headset and Google Glasses already making gains in this area. Developers hope to someday immerse all five senses of users in experiencing games, live sports and even while speaking to friends in holographic form.
