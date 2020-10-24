@@ -157,4 +157,4 @@ His first memory of her was when she called him a “little shit” for breaking
 
 He hopes to never make the same mistake again.
 
-Originally published in [the spring 2019 issue of The Miami Student magazine](http://magazine.miamistudent.net/disconnected/)
+Originally published in [the spring 2019 issue of The Miami Student magazine](https://www.miamistudent.net/article/2019/11/disconnected)
