@@ -9,7 +9,7 @@ Human rights. Public health. Climate change. The novel coronavirus pandemic has 
 
 “(The pandemic) shines a spotlight on important problems that we have all been ignoring,” said Maureen Rovegno, director of religion at Chautauqua Institution. Rovegno organizes speakers for the Department of Religion’s Interfaith Lecture Series, and she cited renewed attention to the climate crisis and the Black Lives Matter movement as examples.
 
-Interfaith lecturers, according to Rovegno, often come from five different focuses (religious, theological, spiritual, ethical and humanitarian) and take an “angle of vision” based on the corresponding theme of the morning lectures. This season, Chautauqua’s Interfaith Lecture Series aims to shed light on the multiple, major historic events the world is facing through its weekly themes.
+Interfaith lecturers, according to Rovegno, often come from five different focuses (religious, theological, spiritual, ethical and humanitarian) and take an “angle of vision” based on the corresponding theme of the morning lectures. This season, Chautauqua’s Interfaith Lecture Series aims to shed light on major historic events the world is facing through its weekly themes.
 
 “It’s hard to imagine that any of our lectures would be the same if COVID-19 or Black Lives Matter (weren’t happening),” said Institution Vice President of Religion and Senior Pastor Gene Robinson.
 
