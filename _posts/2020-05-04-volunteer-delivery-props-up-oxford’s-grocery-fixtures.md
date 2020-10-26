@@ -3,13 +3,13 @@ layout: post
 title: Volunteer delivery props up Oxford’s grocery fixtures
 date: 2020-04-07T09:00:00.000Z
 image: /images/food-boxes.jpg
-tags: The-Miami-Student-Newspaper culture-section food-pantry coronavirus
+tags: The-Miami-Student-Newspaper food-pantry coronavirus
 ---
 *[Photo from Miami University's ShareFest this spring](https://www.miamioh.edu/news/top-stories/2020/04/mini-move-out-sharefest-food-donated.html)*
 
 Oxford’s sources for local or free groceries are turning into grocery delivery services to eliminate coronavirus contact points. To keep up, they are training additional volunteers.
 
-Larry Slocum, who organizes the[Oxford Farmers Market](http://oxfordfarmersmarket.com/), is keeping the market open at its normal hours on Tuesday evenings and Saturday mornings, armed with hand sanitizer and new 6-feet-apart social distancing rules. Additionally, he is setting up an online platform for customers to search for and contact farmers for delivery.
+Larry Slocum, who organizes the [Oxford Farmers Market](http://oxfordfarmersmarket.com/), is keeping the market open at its normal hours on Tuesday evenings and Saturday mornings, armed with hand sanitizer and new 6-feet-apart social distancing rules. Additionally, he is setting up an online platform for customers to search for and contact farmers for delivery.
 
 Slocum aims to launch the platform by the end of the week. He plans to hire paid delivery workers but will also accept volunteers who want to deliver groceries to the elderly and immunocompromised, who are most at risk of contracting the coronavirus.
 
