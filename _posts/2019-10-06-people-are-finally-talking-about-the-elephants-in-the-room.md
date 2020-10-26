@@ -29,13 +29,7 @@ While the final touches are being made on the album, the band is putting its own
 
 When covering a song, the band first tunes it to their own soul-and-jazz pop frequency. They slow down fast songs, and bolster slow songs with the trumpet or trombone. They practice until they trust each other to make their own individual riffs.
 
-Enjoy what you're reading?
-
-Signup for our newsletter
-
-Email Address
-
-"Anything we can do that makes people go, 'ooh!'-- we do that," Nurse said.
+"Anything we can do that makes people go, 'ooh!' — we do that," Nurse said.
 
 Sometimes the "ooh!" is carried by the lilt in Nurse's voice.
 
