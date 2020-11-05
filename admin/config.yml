@@ -4,6 +4,8 @@ backend:
   branch: master
   site_domain: chloemurdock.netlify.com
 
+# repo: chloemurdock/chloemurdock.github.io
+
 media_folder: "images" # Media files will be stored in the repo under images
 public_folder: "/images" # The src attribute for uploaded media will begin with /images
 
@@ -53,10 +55,18 @@ collections:
                   - {label: "Title", name: "title", widget: "string"}
                   - {label: "URL", name: "URL", widget: "string"}
 
-  - name: "settings" # Used in routes, e.g., /admin/collections/blog
-    label: "Settings" # Used in the UI
-    folder: "" # The path to the folder where the documents are stored
-    create: false # Allow users to create new documents in this collection
-    slug: "" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Description", name: "description", widget: "string"}
+  - label: "Settings"
+    name: "settings"
+    files:
+      - label: "Settings"
+        name: "about"
+        file: "config.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: "Description", name: "description", widget: "string"}
+              # - {label: Photo, name: photo, widget: image}
