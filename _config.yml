@@ -9,7 +9,7 @@
 title:              Chloe Murdock
 logo:               # Logo image URL
 email:              chloe.murdock@gmail.com
-description:        This is the homepage of Chloe Murdock, Intern and college student, majoring in journalism and international studies.
+description: This is the homepage of Chloe Murdock, Intern and college student, majoring in journalism and international studies.
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://chloemurdock.com' # The base hostname & protocol for your site
 twitter_username:   chloeannmurdock
