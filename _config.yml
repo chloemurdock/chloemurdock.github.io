@@ -1,75 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title:              Chloe Murdock
-logo:               # Logo image URL
-email:              chloe.murdock@gmail.com
-description: This is the homepage of Chloe Murdock, Intern and college student, majoring in journalism and international studies.
-baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://chloemurdock.com' # The base hostname & protocol for your site
-twitter_username:   chloeannmurdock
-instagram_username: chloemurdockk
-
-markdown:  kramdown
-permalink: pretty
-paginate:  12
-sass:
-  style: compressed
-
 plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-sitemap
   - jekyll-seo-tag
-
-include:
-  - _pages
-  - _headers
-
-exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-# Pages path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename
-  -
-    scope:
-      path: "tag"
-    values:
-      sitemap:         false
-
-
-# Authors
-author: chloeannmurdock
-
+twitter_username: chloeannmurdock
+tag_page_dir: tag
+instagram_username: chloemurdockk
 authors:
   Chloe:
     name: Chloe Murdock
-    bio: Intern and college student, majoring in journalism and international studies.
-    gravatar:         
-    email:            
+    bio: Intern and college student, majoring in journalism and international
+      studies.
+    gravatar: null
+    email: null
     website: https://chloemurdock.com
     twitter_username: chloeannmurdock
-
-twitter:
-  username: chloeannmurdock
-  card: summary
-
+include:
+  - _pages
+  - _headers
+author: chloeannmurdock
+logo: null
+permalink: pretty
 social:
   name: Chloe Murdock
   links:
@@ -77,3 +28,31 @@ social:
     - http://instagram.com/chloemurdockk
     - https://www.facebook.com/chloe.murdock.716
     - https://www.linkedin.com/in/chloe-m-275197133/
+sass:
+  style: compressed
+markdown: kramdown
+url: https://chloemurdock.com
+defaults:
+  - scope:
+      path: _pages
+    values:
+      permalink: /:basename
+  - scope:
+      path: tag
+    values:
+      sitemap: false
+twitter:
+  username: chloeannmurdock
+  card: summary
+tag_page_layout: tag_page
+paginate: 12
+tag_permalink_style: pretty
+title: Chloe Murdock
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+email: chloe.murdock@gmail.com
+description: This is the homepage of Chloe Murdock, Intern and college student,
+  majoring in journalism and international studies and I am dingus
+baseurl: ""
