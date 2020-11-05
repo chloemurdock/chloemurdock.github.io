@@ -60,7 +60,7 @@ collections:
     files:
       - label: "Settings"
         name: "about"
-        file: "config.yml"
+        file: "_config.yml"
         fields:
           - {label: "Description", name: "description", widget: "string"}
         # - {label: Photo, name: photo, widget: image}
