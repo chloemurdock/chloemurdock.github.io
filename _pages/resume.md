@@ -5,14 +5,17 @@ permalink: /resume/
 ---
 Email me at [murdocc3@miamioh.edu](mailto:murdocc3@miamioh.edu) or view my [LinkedIn](http://www.linkedin.com/in/chloe-m-275197133)
 
-
 - - -
 
 ## Experience
 
 - - -
 
+Chautauquan Daily, Remote—Summer Reporting Intern
 
+JUNE 2020 - AUGUST 2020
+
+* [Over 50 CHQ stories with my byline can be found here](https://chqdaily.com/?s=chloe+murdock)
 
 The Miami Student Publications, Oxford, Ohio, USA—Magazine Editor-in-Chief, Newspaper Writer
 
@@ -85,8 +88,6 @@ MAY 2017 - DECEMBER 2019
 
 * Wrote 11 press releases within the first three months of work with multi-step approval process
 
-
-
   * [Monarch Cement purchases ABB upgrade to improve operator interface](http://www.abb.com/cawp/seitp202/41e785445f004da8c1258154006c22c3.aspx)
 
     [MedcoEnergi renews ABB Oil and Gas Care](http://medcoenergi%20renews%20abb%20oil%20and%20gas%20care/)
@@ -107,8 +108,6 @@ Olentangy High School’s The Beacon magazine – Editor-in-Chief, Writer, Desig
 2015-2016 
 
 * [Sriram fulfills 2016 valedictorian dream](https://chloemurdock.github.io/2016/05/01/Sriram-fulfills-2016-validictorian-dream/)
-
-
 * [Voters OK 2016 Olentangy Levy](https://chloemurdock.github.io/2016/05/01/Voters-ok-olentangy-levy/)
 * [“Cursed Child” lights new wand](https://chloemurdock.github.io/2016/03/01/cursed-child-lights/)
 * [Spring-cleaning a worldwide phenomenon](https://chloemurdock.github.io/2016/03/01/spring-cleaning-a-worldwide-phenomenon/)
@@ -122,14 +121,11 @@ Olentangy High School’s The Beacon magazine – Editor-in-Chief, Writer, Desig
 * [Sister hikers get lost, then found](https://chloemurdock.github.io/2015/09/01/sister-hikers-get-lost/)
 * [How to shop and survive in the thrift store jungle](https://chloemurdock.github.io/2015/10/01/How-to-shop-and-survive-in-the-thrift-store-jungle/)
 
-
 - - -
 
 ## Education
 
 - - -
-
-
 
 Miami University, Oxford, Ohio, USA —Studying Journalism and International Studies
 
@@ -137,22 +133,17 @@ AUGUST 2017 - ANTICIPATED GRADUATION: MAY 2021
 
 * 3.6 GPA, Writing Scholar, Honors student, Private ESL writing tutor
 
-
 - - -
 
 ## Awards
 
 - - -
 
-
-
 James L. McCann Excellence in Journalism—From Ohio Scholastic Media Association
 
 2017
 
 * For excelling as co-editor-in-chief, writer and designer for The Beacon high school magazine
-
-
 
 “Superior” and “Excellent” ratings—From Ohio Scholastic Media Association
 
