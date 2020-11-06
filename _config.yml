@@ -53,6 +53,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 email: chloe.murdock@gmail.com
-description: This is the homepage of Chloe Murdock, Intern and college student,
-  majoring in journalism and international studies and I am dingus
+description: This is the homepage of Chloe Murdock. This site is her virtual
+  portfolio. Explore her resume and past work to see what she is capable of.
 baseurl: ""
