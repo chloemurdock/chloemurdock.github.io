@@ -7,10 +7,6 @@ tags: CHQ
 ---
 Reporters on any beat are going to write about death in a COVID-19 world, Columbia Journalism School’s Ari Goldman said, and he teaches his students how to do just that. Goldman said in a [Dart Center for Journalism and Trauma webinar](https://medium.com/columbiajourn/documenting-death-obituaries-in-the-time-of-coronavirus-6e914e2c0396) that understanding how to handle the subject matter of dying, and religious practices tied to it, is more important than ever.
 
-![](http://chqdaily.com/wp-content/uploads/2020/08/Goldman_Ari_080620-1-300x242.jpg)
-
-Goldman
-
 “Today, everyone is an obituary writer,” Goldman told his students. “Whether you cover fashion or business or the arts, you’re going to have to write an obituary.”
 
 Goldman’s lecture, [“From Church Stories to Obituaries, Journalists Need Religious Literacy,](https://assembly.chq.org/rebuilding-public-education/videos/from-church-stories-to-obituaries-journalists-need-religious-literacy)” will air at 2 p.m. EDT Thursday, Aug. 6, on the CHQ Assembly Video Platform as part of the Week Six Interfaith Lecture Series theme, “Lessons in the School House.” Audience members can submit questions through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal or on Twitter with #CHQ2020.
