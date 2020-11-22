@@ -8,10 +8,6 @@ tags: CHQ
 ---
 When Rabbi Sid Schwarz relays progressive Judaism for Week Eight’s Interfaith Friday, he said that he will also be balancing a millennia of Rabbinic commentary.
 
-[![Schwarz](https://chqdaily.com/wp-content/uploads/2020/08/Schwarz_Sid_082120-1-e1598005648420-219x300.jpg)](https://chqdaily.com/wp-content/uploads/2020/08/Schwarz_Sid_082120-1-e1598005648420.jpg)
-
-Schwarz
-
 “I stand on the shoulders of many,” Schwarz said.
 
 Schwarz will deliver his lecture “[The Creation Story and Humanity’s Homework: A Jewish Take](https://assembly.chq.org/reframing-the-constitution/videos/interfaith-friday-rabbi-sid-schwarz-2020)” at 2 p.m. EDT Friday, Aug. 21, on the CHQ Assembly Video Platform. This Week Eight Interfaith Friday lecture will describe the creation story from the perspective of progressive Judaism.
