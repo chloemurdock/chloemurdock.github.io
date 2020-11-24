@@ -1,110 +1,104 @@
 resources:
   - list:
-      - URL: 'http://www.tobias-elze.de/pdfsandwich/'
+      - URL: http://www.tobias-elze.de/pdfsandwich/
         title: pdfsandwich — scanned documents are no match for you
-      - URL: 'https://tabula.technology/'
+      - URL: https://tabula.technology/
         title: Tabula — Extract Tables from PDFs
-      - URL: 'https://www.google.com/earth/'
+      - URL: https://www.google.com/earth/
         title: Google Earth — Dynamic data maps
-      - URL: 'https://www.sourcemap.com/'
-        title: "sourcemap.com —\_supply chain mapping"
-      - URL: >-
-          https://www.mindmeister.com/?utm_source=google&utm_medium=cpc&utm_campaign=us_en_search&utm_content=mm&gclid=EAIaIQobChMInOiM98Tb5QIVgq_sCh2ElwxNEAAYASAAEgI6lvD_BwE
+      - URL: https://www.sourcemap.com/
+        title: sourcemap.com — supply chain mapping
+      - URL: https://www.mindmeister.com/?utm_source=google&utm_medium=cpc&utm_campaign=us_en_search&utm_content=mm&gclid=EAIaIQobChMInOiM98Tb5QIVgq_sCh2ElwxNEAAYASAAEgI6lvD_BwE
         title: mindmeister.com — mind mapping software
-      - URL: 'https://lukasmurdock.com/resources/'
-        title: 'lukasmurdock.com resources — links to UIX, marketing, branding tools'
-      - URL: 'https://toolbox.google.com/datasetsearch'
+      - URL: https://lukasmurdock.com/resources/
+        title: lukasmurdock.com resources — links to UIX, marketing, branding tools
+      - URL: https://toolbox.google.com/datasetsearch
         title: Google Dataset Search (Beta)
-      - URL: 'https://medialandscapes.org/'
+      - URL: https://medialandscapes.org/
         title: Media Landscapes
-      - URL: 'http://miamioh.edu/police/'
-        title: 'Miami University police records, logs, etc.'
-      - URL: 'https://www.shutterstock.com/blog/trends/2020-creative-trends'
+      - URL: http://miamioh.edu/police/
+        title: Miami University police records, logs, etc.
+      - URL: https://www.shutterstock.com/blog/trends/2020-creative-trends
         title: Shutterstock's 2020 creative trends
+      - title: How to mass-delete emails in Gmail
+        URL: https://www.thatsjournal.com/email-marketing/how-to-delete-all-read-and-unread-emails-from-tabs-in-gmail
     type: Links
   - list:
-      - URL: 'https://www.nytimes.com/'
+      - URL: https://www.nytimes.com/
         title: The New York Times
-      - URL: 'https://www.npr.org/'
+      - URL: https://www.npr.org/
         title: NPR
-      - URL: 'https://www.wsj.com/?mod=wsj_secondlogin_swsl17'
+      - URL: https://www.wsj.com/?mod=wsj_secondlogin_swsl17
         title: The Wall Street Journal
-      - URL: 'https://balkaninsight.com/kosovo-home/'
+      - URL: https://balkaninsight.com/kosovo-home/
         title: Balkan Insight
-      - URL: 'https://time.com/'
+      - URL: https://time.com/
         title: TIME magazine
-      - URL: 'https://longreads.com/'
+      - URL: https://longreads.com/
         title: Longreads
-      - URL: 'https://www.miamistudent.net/'
+      - URL: https://www.miamistudent.net/
         title: The Miami Student newspaper
-      - URL: 'http://magazine.miamistudent.net/'
+      - URL: http://magazine.miamistudent.net/
         title: The Miami Student magazine
     type: News
   - list:
-      - URL: 'https://www.mindtools.com/'
+      - URL: https://www.mindtools.com/
         title: mindtools.com — for productivity
-      - URL: >-
-          https://link.cfr.org/join/66n/signup&hash=2d4c5929e9e04cc42f5cd375fb8dcfb1
-        title: 'Council on Foreign Relations daily news brief — for the world, briefly'
-      - URL: 'https://www.nytimes.com/series/in-her-words'
+      - URL: https://link.cfr.org/join/66n/signup&hash=2d4c5929e9e04cc42f5cd375fb8dcfb1
+        title: Council on Foreign Relations daily news brief — for the world, briefly
+      - URL: https://www.nytimes.com/series/in-her-words
         title: NYT's In Her Words — for a gut check on gender
       - title: Black Belt Magazine — for a reminder to kick ass
-        URL: 'https://blackbeltmag.com/'
+        URL: https://blackbeltmag.com/
     type: Newsletters
   - list:
-      - URL: >-
-          https://www.nytimes.com/2018/03/28/obituaries/overlooked-yu-gwan-sun.html
+      - URL: https://www.nytimes.com/2018/03/28/obituaries/overlooked-yu-gwan-sun.html
         title: Yu Gwan-Sun
-      - URL: 'https://www.bl.uk/people/mary-shelley'
+      - URL: https://www.bl.uk/people/mary-shelley
         title: Mary Shelley
-      - URL: 'https://eastendwomensmuseum.org/blog/mary-frith'
+      - URL: https://eastendwomensmuseum.org/blog/mary-frith
         title: Mary Frith
-      - URL: >-
-          https://www.theparisreview.org/blog/2017/09/08/mary-frith-a-diamond-in-dog-shit/
+      - URL: https://www.theparisreview.org/blog/2017/09/08/mary-frith-a-diamond-in-dog-shit/
         title: More on Mary Frith
-      - URL: >-
-          https://www.google.com/search?q=las+adelitas&source=lnms&tbm=isch&sa=X&ved=0ahUKEwivja2YydvlAhUQXa0KHWxlDWQQ_AUIEigB&biw=1436&bih=705
+      - URL: https://www.google.com/search?q=las+adelitas&source=lnms&tbm=isch&sa=X&ved=0ahUKEwivja2YydvlAhUQXa0KHWxlDWQQ_AUIEigB&biw=1436&bih=705
         title: Las Adelitas
-      - URL: 'https://www.olympicchannel.com/en/athletes/detail/majlinda-kelmendi/'
+      - URL: https://www.olympicchannel.com/en/athletes/detail/majlinda-kelmendi/
         title: Majlinda Kelmendi
-      - URL: 'https://www.olympicchannel.com/en/athletes/detail/shaun-white/'
+      - URL: https://www.olympicchannel.com/en/athletes/detail/shaun-white/
         title: Shaun White
-      - URL: 'https://www.olympicchannel.com/en/athletes/detail/chloe-kim/'
+      - URL: https://www.olympicchannel.com/en/athletes/detail/chloe-kim/
         title: Chloe Kim
     type: People
   - list:
-      - URL: >-
-          https://www.nytimes.com/2019/10/03/reader-center/how-times-journalists-become-experts-on-a-subject.html
+      - URL: https://www.nytimes.com/2019/10/03/reader-center/how-times-journalists-become-experts-on-a-subject.html
         title: How Times Journalists Become Experts on a Subject
-      - URL: 'http://www.paulgraham.com/genius.html'
-        title: 'Blog: The Bus Ticket Theory of Genius'
+      - URL: http://www.paulgraham.com/genius.html
+        title: "Blog: The Bus Ticket Theory of Genius"
     type: Articles to return to
   - list:
-      - URL: >-
-          https://www.goodreads.com/book/show/1000.Millionaire_Women_Next_Door?ac=1&from_search=true&qid=LknA06lIzS&rank=1
-        title: >-
-          Millionaire Women Next Door: The Many Journeys of Successful American
-          Businesswomen — Thomas J. Stanley
-      - URL: 'https://www.goodreads.com/en/book/show/638846'
+      - URL: https://www.goodreads.com/book/show/1000.Millionaire_Women_Next_Door?ac=1&from_search=true&qid=LknA06lIzS&rank=1
+        title: "Millionaire Women Next Door: The Many Journeys of Successful American
+          Businesswomen — Thomas J. Stanley"
+      - URL: https://www.goodreads.com/en/book/show/638846
         title: On Speaking Well — Peggy Noonan
-      - URL: 'https://www.goodreads.com/book/show/3228917-outliers'
-        title: 'Outliers: The Story of Success — Malcolm Gladwell'
-      - URL: 'https://www.goodreads.com/book/show/40121378-atomic-habits'
+      - URL: https://www.goodreads.com/book/show/3228917-outliers
+        title: "Outliers: The Story of Success — Malcolm Gladwell"
+      - URL: https://www.goodreads.com/book/show/40121378-atomic-habits
         title: Atomic Habits — James Clear
-      - URL: 'https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl'
-        title: 'Anne Frank: The Diary of a Young Girl — Anne Frank'
-      - URL: 'https://www.goodreads.com/book/show/1617.Night'
+      - URL: https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl
+        title: "Anne Frank: The Diary of a Young Girl — Anne Frank"
+      - URL: https://www.goodreads.com/book/show/1617.Night
         title: Night — Elie Wiesel
     type: Support your local bookstore — Nonfiction
   - list:
-      - URL: 'https://www.goodreads.com/book/show/5129.Brave_New_World'
+      - URL: https://www.goodreads.com/book/show/5129.Brave_New_World
         title: Brave New World ⁠— Aldous Huxley
-      - URL: 'https://www.goodreads.com/book/show/9361589-the-night-circus'
+      - URL: https://www.goodreads.com/book/show/9361589-the-night-circus
         title: The Night Circus — Erin Morgenstern
-      - URL: 'https://www.goodreads.com/book/show/4667024-the-help'
+      - URL: https://www.goodreads.com/book/show/4667024-the-help
         title: The Help —Kathryn Stockett
-      - URL: 'https://www.goodreads.com/book/show/19063.The_Book_Thief'
+      - URL: https://www.goodreads.com/book/show/19063.The_Book_Thief
         title: The Book Thief — Marcus Zusak
-      - URL: 'https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale'
+      - URL: https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale
         title: The Handmaid's Tale — Margaret Atwood
     type: Support your local bookstore — Fiction
