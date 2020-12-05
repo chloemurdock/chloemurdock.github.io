@@ -41,15 +41,29 @@ resources:
       - URL: http://magazine.miamistudent.net/
         title: The Miami Student magazine
     type: News
+  - type: Podcasts to return to
+    list:
+      - title: "More Perfect: The Imperfect Plaintiffs"
+        URL: https://www.wnycstudios.org/podcasts/radiolab/articles/more-perfect-plaintiffs
+      - title: "More Perfect: Sex Appeal"
+        URL: https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/sex-appeal
+      - title: "More Perfect: Enemy of Mankind"
+        URL: https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/enemy-of-mankind
+      - title: "Throughline NPR: How We Vote"
+        URL: https://www.npr.org/2020/10/02/919532786/how-we-vote
+      - title: "Throughline NPR - Reframing History: The Commentator"
+        URL: https://www.npr.org/2020/08/05/899435905/reframing-history-the-commentator
+      - title: "Throughline NPR: There's Something About Mary"
+        URL: https://www.npr.org/2020/06/23/882115755/theres-something-about-mary
+      - title: "Throughline NPR: Public Universal Friend"
+        URL: https://www.npr.org/2020/03/04/812092399/public-universal-friend
+      - title: "Throughline NPR: She Got Next"
+        URL: https://www.npr.org/2020/02/05/803043954/she-got-next
   - list:
-      - URL: https://www.mindtools.com/
-        title: mindtools.com — for productivity
       - URL: https://link.cfr.org/join/66n/signup&hash=2d4c5929e9e04cc42f5cd375fb8dcfb1
         title: Council on Foreign Relations daily news brief — for the world, briefly
       - URL: https://www.nytimes.com/series/in-her-words
         title: NYT's In Her Words — for a gut check on gender
-      - title: Black Belt Magazine — for a reminder to kick ass
-        URL: https://blackbeltmag.com/
     type: Newsletters
   - list:
       - URL: https://www.nytimes.com/2018/03/28/obituaries/overlooked-yu-gwan-sun.html
@@ -68,6 +82,8 @@ resources:
         title: Shaun White
       - URL: https://www.olympicchannel.com/en/athletes/detail/chloe-kim/
         title: Chloe Kim
+      - title: Lindy Alexander
+        URL: https://thefreelancersyear.com/
     type: People
   - list:
       - URL: https://www.nytimes.com/2019/10/03/reader-center/how-times-journalists-become-experts-on-a-subject.html
@@ -76,29 +92,36 @@ resources:
         title: "Blog: The Bus Ticket Theory of Genius"
     type: Articles to return to
   - list:
+      - title: "Out on the Wire: Uncovering the Secrets of Radio's New Masters of Story
+          with Ira Glass — Jessica Abel"
+        URL: https://www.goodreads.com/en/book/show/23742836-out-on-the-wire
+      - URL: https://www.goodreads.com/book/show/3228917-outliers
+        title: "Outliers: The Story of Success — Malcolm Gladwell"
+      - URL: https://www.goodreads.com/book/show/40121378-atomic-habits
+        title: Atomic Habits — James Clear
       - URL: https://www.goodreads.com/book/show/1000.Millionaire_Women_Next_Door?ac=1&from_search=true&qid=LknA06lIzS&rank=1
         title: "Millionaire Women Next Door: The Many Journeys of Successful American
           Businesswomen — Thomas J. Stanley"
       - URL: https://www.goodreads.com/en/book/show/638846
         title: On Speaking Well — Peggy Noonan
-      - URL: https://www.goodreads.com/book/show/3228917-outliers
-        title: "Outliers: The Story of Success — Malcolm Gladwell"
-      - URL: https://www.goodreads.com/book/show/40121378-atomic-habits
-        title: Atomic Habits — James Clear
       - URL: https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl
         title: "Anne Frank: The Diary of a Young Girl — Anne Frank"
       - URL: https://www.goodreads.com/book/show/1617.Night
         title: Night — Elie Wiesel
     type: Support your local bookstore — Nonfiction
   - list:
-      - URL: https://www.goodreads.com/book/show/5129.Brave_New_World
-        title: Brave New World ⁠— Aldous Huxley
-      - URL: https://www.goodreads.com/book/show/9361589-the-night-circus
-        title: The Night Circus — Erin Morgenstern
-      - URL: https://www.goodreads.com/book/show/4667024-the-help
-        title: The Help —Kathryn Stockett
-      - URL: https://www.goodreads.com/book/show/19063.The_Book_Thief
-        title: The Book Thief — Marcus Zusak
+      - title: The Vanishing Half — Brit Bennet
+        URL: https://www.goodreads.com/book/show/51791252-the-vanishing-half
       - URL: https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale
         title: The Handmaid's Tale — Margaret Atwood
+      - URL: https://www.goodreads.com/book/show/19063.The_Book_Thief
+        title: The Book Thief — Marcus Zusak
+      - URL: https://www.goodreads.com/book/show/9361589-the-night-circus
+        title: The Night Circus — Erin Morgenstern
+      - title: The Last Nude — Ellis Avery
+        URL: https://www.goodreads.com/book/show/10836810-the-last-nude?ac=1&from_search=true&qid=SH39giJl6b&rank=1
+      - URL: https://www.goodreads.com/book/show/5129.Brave_New_World
+        title: Brave New World ⁠— Aldous Huxley
+      - title: The Teahouse Fire — Ellis Avery
+        URL: https://www.goodreads.com/book/show/47633.The_Teahouse_Fire
     type: Support your local bookstore — Fiction
