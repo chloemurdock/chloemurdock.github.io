@@ -38,7 +38,7 @@ resources:
         title: Longreads
       - URL: https://www.miamistudent.net/
         title: The Miami Student newspaper
-      - URL: http://magazine.miamistudent.net/
+      - URL: https://miamistudentmag.webflow.io/
         title: The Miami Student magazine
     type: News
   - type: Podcasts to return to
