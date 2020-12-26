@@ -3,24 +3,25 @@ layout: post
 title: Michael Martin of the Haudenosaunees extends the story of Sky Woman on
   Interfaith Friday
 date: 2020-08-03 04:33
-image: /images/screen-shot-2020-11-22-at-4.33.57-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.33.57-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
-Details in the story of creation depend on who is telling it among the [Haudenosaunee people](https://www.haudenosauneeconfederacy.com/who-we-are/) — comprised of the Senecas, Oneidas, Mohawks, Cuyahogas, Onondagas and the Tuscaroras. Michael Martin, an Onondaga who was named faithkeeper for his Onondaga Beaver clan in 2016, [gave Chautauqua his version](https://assembly.chq.org/the-womens-vote-centennial-and-beyond/videos/interfaith-friday-haudenosaunee) of the story for Week Five’s Interfaith Friday.
+Details in the story of creation depend on who is telling it among the [Haudenosaunee people](https://www.haudenosauneeconfederacy.com/who-we-are/) — comprised of the Senecas, Oneidas, Mohawks, Cuyahogas, Onondagas and the Tuscaroras. Michael Martin, an Onondaga who was named faithkeeper for his Onondaga Beaver clan in 2016, [gave Chautauqua his version](https://assembly.chq.org/the-womens-vote-centennial-and-beyond/videos/interfaith-friday-haudenosaunee) of the story for Week Five’s Interfaith Friday.
 
 The story of creation is passed down strictly through oral storytelling.
 
 “The point of oral interpretation, the beauty of it, is that it’s supposed to stay alive in terms of the current context of things, too — in terms of how people utilize this information, or how they’re supposed to,” Martin said.
 
-Institution Vice President of Religion and Senior Pastor Gene Robinson joined him in conversation on the [CHQ Assembly Video Platform](https://assembly.chq.org/) at 2 p.m. EDT Friday, July 31. Martin answered questions from the audience, who submitted questions through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal and on Twitter with #CHQ2020.
+Institution Vice President of Religion and Senior Pastor Gene Robinson joined him in conversation on the [CHQ Assembly Video Platform](https://assembly.chq.org/) at 2 p.m. EDT Friday, July 31. Martin answered questions from the audience, who submitted questions through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal and on Twitter with #CHQ2020.
 
-Martin is also executive director of the [Native American Community Services of Erie and Niagara Counties](http://www.nacswny.org/). But when his clan mother tapped him for the role of faithkeeper for his clan, his family, Martin said he felt ill-prepared.
+Martin is also executive director of the [Native American Community Services of Erie and Niagara Counties](http://www.nacswny.org/). But when his clan mother tapped him for the role of faithkeeper for his clan, his family, Martin said he felt ill-prepared.
 
 Robinson said this was a shared experience for many faith leaders.
 
 “Those who feel called to that never feel up to the job,” Robinson said.
 
-Martin started where [Beth Roach left off in the creation story of Sky Woman](https://chqdaily.com/2020/07/from-seeds-beth-roach-sprouts-stories-of-creation-history-and-nature/) in her Interfaith Lecture Series talk in Week One of the Chautauqua season. In Martin’s version, Sky Woman fell from the sky and landed on a turtle’s back. She gave birth to a daughter, and the daughter later gave birth to twin boys. She gave birth to the second son through her armpit, and died.
+Martin started where [Beth Roach left off in the creation story of Sky Woman](https://chqdaily.com/2020/07/from-seeds-beth-roach-sprouts-stories-of-creation-history-and-nature/) in her Interfaith Lecture Series talk in Week One of the Chautauqua season. In Martin’s version, Sky Woman fell from the sky and landed on a turtle’s back. She gave birth to a daughter, and the daughter later gave birth to twin boys. She gave birth to the second son through her armpit, and died.
 
 Corn, beans and squash, known as the Three Sisters, bloomed from her grave. The three crops are still grown at the same time, richening the soil so they all grow stronger together.
 
@@ -44,9 +45,9 @@ No part of Earth is ignored in the Thanksgiving address. People, Mother Earth, w
 
 While there are differences in interpretation in the delivery of the story of creation between people and tribes, which Martin said have each suffered different traumas, a peacekeeper once served as a messenger between the various tribes. He traveled to each tribe and called for the strongest warrior to break an arrow, which they would do with ease. But when asked to break five arrows bound together, it became impossible. This peacekeeper proved to each tribe that like the arrows, the tribes were stronger together, and he united the tribes once again under what was called the Great Law of Peace.
 
-Martin said he sees the laws of the Haudenosaunees echoed throughout the U.S. founding fathers’ ideologies and the Constitution. He equated the council of Clan Mothers to the U.S. Supreme Court, the older brother tribes as the Senate, and the younger brothers — including his tribe, the Onondagas — as the House of Representatives.
+Martin said he sees the laws of the Haudenosaunees echoed throughout the U.S. founding fathers’ ideologies and the Constitution. He equated the council of Clan Mothers to the U.S. Supreme Court, the older brother tribes as the Senate, and the younger brothers — including his tribe, the Onondagas — as the House of Representatives.
 
-In the Great Law of Peace, the call for unity did not stop with the Nations. It extended to all people. Even now in meetings, the Haudenosaunees refer to the United States as their “white brothers.”
+In the Great Law of Peace, the call for unity did not stop with the Nations. It extended to all people. Even now in meetings, the Haudenosaunees refer to the United States as their “white brothers.”
 
 This deepens the betrayal of European colonists during the initial settlement of North America.
 

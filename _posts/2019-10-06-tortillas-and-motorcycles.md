@@ -4,6 +4,7 @@ title: "TORTILLAS AND MOTORCYCLES: MY FAMILY, ITS MEMORIES AND THE OPINIONS IN
   BETWEEN"
 date: 2018-04-03T17:39:00.000Z
 tags: The-Miami-Student-Magazine creative-nonfiction memoir political Tortillas-in-Ohio
+category: the-miami-student
 ---
 Originally published in The Miami Student magazine 
 

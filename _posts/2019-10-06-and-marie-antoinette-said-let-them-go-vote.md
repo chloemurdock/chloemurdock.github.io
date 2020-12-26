@@ -3,6 +3,7 @@ layout: post
 title: And Marie Antoinette said, "let them go vote!"
 date: 2018-11-21T01:18:00.000Z
 tags: The-Miami-Student-Newspaper Opinion
+category: the-miami-student-newspaper
 ---
 OPINION COLUMN originally published in [The Miami Student newspaper](https://www.miamistudent.net/article/2018/11/and-marie-antoinette-said-let-them-go-vote)
 

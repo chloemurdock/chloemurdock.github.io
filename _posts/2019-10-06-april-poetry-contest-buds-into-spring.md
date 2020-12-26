@@ -3,6 +3,7 @@ layout: post
 title: April poetry contest buds into spring
 date: 2018-04-03T23:57:00.000Z
 tags: The-Miami-Student-Newspaper Culture-section event
+category: the-miami-student
 ---
 Learning is the continual
 

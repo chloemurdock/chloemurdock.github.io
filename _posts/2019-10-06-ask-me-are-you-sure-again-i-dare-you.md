@@ -3,6 +3,7 @@ layout: post
 title: Ask me "Are you sure?" again, I dare you
 date: 2018-11-07T01:22:00.000Z
 tags: Opinion feminism sports martial-arts
+category: the-miami-student
 ---
 OPINION PIECE for The Miami Student newspaper
 

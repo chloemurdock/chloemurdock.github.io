@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: Resume
-permalink: /resume/
+permalink: /resume
 ---
-Email me at [murdocc3@miamioh.edu](mailto:murdocc3@miamioh.edu) or view my [LinkedIn](http://www.linkedin.com/in/chloe-m-275197133)
+Email me at [murdocc3@miamioh.edu](mailto:murdocc3@miamioh.edu) or view my [LinkedIn](https://www.linkedin.com/in/chloe-m-275197133/)
 
 - - -
 
@@ -92,7 +92,7 @@ MAY 2017 - DECEMBER 2019
 
     [MedcoEnergi renews ABB Oil and Gas Care](http://medcoenergi%20renews%20abb%20oil%20and%20gas%20care/)
 
-    [ArcelorMittal evolution path leads to ABB Ability upgrades](http://www.abb.co.in/cawp/seitp202/3f90f076010a97a6c125818600649f83.aspx)
+    [ArcelorMittal evolution path leads to ABB Ability upgrades](https://new.abb.com/news/detail/51486/arcelormittal-evolution-path-leads-to-abb-ability-upgrades)
 
     [Self-maintaining plant opens up for ABB services](http://www.abb.com/cawp/seitp202/fc80eb99040d282bc12582ab0063d059.aspx)
 
@@ -107,19 +107,19 @@ Olentangy High School’s The Beacon magazine – Editor-in-Chief, Writer, Desig
 
 2015-2016 
 
-* [Sriram fulfills 2016 valedictorian dream](https://chloemurdock.github.io/2016/05/01/Sriram-fulfills-2016-validictorian-dream/)
-* [Voters OK 2016 Olentangy Levy](https://chloemurdock.github.io/2016/05/01/Voters-ok-olentangy-levy/)
-* [“Cursed Child” lights new wand](https://chloemurdock.github.io/2016/03/01/cursed-child-lights/)
-* [Spring-cleaning a worldwide phenomenon](https://chloemurdock.github.io/2016/03/01/spring-cleaning-a-worldwide-phenomenon/)
-* [10 reasons to vote for Vermin Supreme! in 2016](https://chloemurdock.github.io/2016/02/01/10-Reasons-to-vote-for-Vermin-Supreme/)
-* [Health measured on a greater scale](https://chloemurdock.github.io/2016/01/01/Health-measured-on-a-greater-scale/)
-* [New year, new pool, very cool (satire)](https://chloemurdock.github.io/2016/01/01/New-year-new-pool-very-coolmd/)
-* [Snowboarding is rad, skiing is sad](https://chloemurdock.github.io/2015/12/01/Snowboarding-is-rad-skiing-is-sad/)
-* [More vegans raise forks](https://chloemurdock.github.io/2015/12/01/more-vegans-raise-forks/)
-* [The evolution of social media](https://chloemurdock.github.io/2015/10/01/The-evolution-of-social-media/)
-* [2015 Olentangy High School Fall Sports Review](https://chloemurdock.github.io/2015/09/01/Olentangy-HS-fall-sports-review/)
-* [Sister hikers get lost, then found](https://chloemurdock.github.io/2015/09/01/sister-hikers-get-lost/)
-* [How to shop and survive in the thrift store jungle](https://chloemurdock.github.io/2015/10/01/How-to-shop-and-survive-in-the-thrift-store-jungle/)
+* [Sriram fulfills 2016 valedictorian dream](/2016/05/13/sriram-fulfills-2016-validictorian-dream/)
+* [Voters OK 2016 Olentangy Levy](/2016/05/13/voters-ok-olentangy-levy/)
+* [“Cursed Child” lights new wand](/2016/03/22/cursed-child-lights/)
+* [Spring-cleaning a worldwide phenomenon](/2016/03/22/spring-cleaning-a-worldwide-phenomenon/)
+* [10 reasons to vote for Vermin Supreme! in 2016](/2016/02/22/10-reasons-to-vote-for-vermin-supreme/)
+* [Health measured on a greater scale](/2016/01/22/health-measured-on-a-greater-scale/)
+* [New year, new pool, very cool (satire)](/2016/01/22/new-year-new-pool-very-coolmd/)
+* [Snowboarding is rad, skiing is sad](/2015/12/10/snowboarding-is-rad-skiing-is-sad/)
+* [More vegans raise forks](/2015/12/10/more-vegans-raise-forks/)
+* [The evolution of social media](/2015/12/10/the-evolution-of-social-media/)
+* [2015 Olentangy High School Fall Sports Review](/2015/09/22/olentangy-hs-fall-sports-review/)
+* [Sister hikers get lost, then found](/2015/09/22/sister-hikers-get-lost/)
+* [How to shop and survive in the thrift store jungle](/2015/10/22/how-to-shop-and-survive-in-the-thrift-store-jungle/)
 
 - - -
 

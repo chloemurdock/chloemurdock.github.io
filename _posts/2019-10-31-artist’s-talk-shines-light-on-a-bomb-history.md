@@ -2,8 +2,9 @@
 layout: post
 title: Artist’s talk shines light on A-bomb history
 date: 2019-08-11T03:43:00.000Z
-image: /images/kei-ito.jpg
+image: /assets/images/posts/kei-ito.jpg
 tags: The-Miami-Student-Newspaper Culture-section event art profile
+category: the-miami-student
 ---
 [Migiwa Orimo](https://migiwaorimo.com/home.html) spends a lot of her time wading through censored government documents and digging into yellowed archives for her art projects. The artist navigates cultural gaps in memory and will discuss this phenomenon during her talk on campus this Thursday, Sept. 12, titled "Gaps + Slippage + A Realm of Disjunction."
 

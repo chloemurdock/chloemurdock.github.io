@@ -3,16 +3,17 @@ layout: post
 title: Hazon’s Rabbi Sid Schwarz calls for humans to take up responsibility for
   creating a better world on Interfaith Friday
 date: 2020-08-24 04:00
-image: /images/screen-shot-2020-11-22-at-4.00.30-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.00.30-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 Before he began his Interfaith Friday lecture, Rabbi Sid Schwarz said his take on progressive Judaism was one of many.
 
-“No one should be so arrogant as to think that their interpretation is the only interpretation and the intent of the Biblical text,” Schwarz said. “What I now offer is *a* Jewish take, because there is no such thing as *the* Jewish take. And don’t let anyone tell you otherwise.”
+“No one should be so arrogant as to think that their interpretation is the only interpretation and the intent of the Biblical text,” Schwarz said. “What I now offer is *a* Jewish take, because there is no such thing as *the* Jewish take. And don’t let anyone tell you otherwise.”
 
 Schwarz gave his Week Eight lecture “[The Creation Story and Humanity’s Homework: A Jewish Take](https://assembly.chq.org/reframing-the-constitution/videos/interfaith-friday-rabbi-sid-schwarz-2020)” at 2 p.m. EDT Friday, Aug. 21, on the CHQ Assembly Video Platform. Vice President of Religion and Senior Pastor Gene Robinson joined him in a subsequent Q-and-A.
 
-Schwarz has served as a rabbi for 40 years. Prior to Schwarz’s time as a senior fellow at the nonprofit Hazon, he founded and led PANIM: The Institute for Jewish Leadership and Values, and [organized a historic protest against the former Soviet Union’s treatment of its Jewish citizens](https://chqdaily.com/2020/08/rabbi-sid-schwarz-still-relies-on-old-history-to-describe-creation-within-progressive-judaism-on-interfaith-friday/). He said that the understanding of creation for Jewish people is multifaceted.
+Schwarz has served as a rabbi for 40 years. Prior to Schwarz’s time as a senior fellow at the nonprofit Hazon, he founded and led PANIM: The Institute for Jewish Leadership and Values, and [organized a historic protest against the former Soviet Union’s treatment of its Jewish citizens](https://chqdaily.com/2020/08/rabbi-sid-schwarz-still-relies-on-old-history-to-describe-creation-within-progressive-judaism-on-interfaith-friday/). He said that the understanding of creation for Jewish people is multifaceted.
 
 “For Jews, interpreting the texts of the opening chapters of Genesis, or any passages in the Bible, are closer to one of those ‘Choose Your Own Adventure’ books that you might have bought for your kids,” Schwarz said.
 

@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2016-05-13 16:31
 tags: high-school news profile
+category: the-beacon
 ---
 
 **Originally published in 2016 May issue of The Beacon magazine for Olentangy High School**

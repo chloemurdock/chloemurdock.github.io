@@ -3,8 +3,9 @@ layout: post
 title: Rabbi Sid Schwarz still relies on old history to describe creation within
   progressive Judaism on Interfaith Friday
 date: 2020-08-21 04:01
-image: /images/screen-shot-2020-11-22-at-4.02.10-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.02.10-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 When Rabbi Sid Schwarz relays progressive Judaism for Week Eight’s Interfaith Friday, he said that he will also be balancing a millennia of Rabbinic commentary.
 
@@ -14,7 +15,7 @@ Schwarz will deliver his lecture “[The Creation Story and Humanity’s Homewor
 
 Schwarz is a senior fellow at Hazon, a Jewish organization based in New York. He also founded PANIM: The Institute for Jewish Leadership and Values, and led the institute for its first 21 years.
 
-Schwarz has attended the last five seasons of Chautauqua’s summers. He previously [spoke at Chautauqua in a 2017 conversation with broadcast journalist Bill Moyers on Jewish megatrends](https://chqdaily.com/2017/07/rabbi-schwarz-encourages-audience-talk-millennial-community-formation/) during the week on “A Crisis of Faith?”
+Schwarz has attended the last five seasons of Chautauqua’s summers. He previously [spoke at Chautauqua in a 2017 conversation with broadcast journalist Bill Moyers on Jewish megatrends](https://chqdaily.com/2017/07/rabbi-schwarz-encourages-audience-talk-millennial-community-formation/) during the week on “A Crisis of Faith?”
 
 Schwarz said he sees the Bible as a Rorschach test. There are core traditions that embrace the Hebrew Bible, but an individual reading these stories does so through the context of their own religious journey.
 
@@ -30,7 +31,7 @@ By 1987, Schwarz had become a rabbi and joined the Jewish Communication Relation
 
 Schwarz was the one who organized the protest. They had planned for 25,000 to participate. When he filed the form that legitimized the march, Schwarz said they expected 50,000 people, in order to get the attention of the media in advance of the protest. Instead, a quarter of a million people arrived at the protest and broke down public transportation.
 
-It was covered on the front page of every major news publication. [After this protest, every time Reagan met with Gorbachev, Reagan would pull out a list of names of Soviet Jews who had been persecuted](https://www.npr.org/templates/story/story.php?storyId=130936993). The protest was the catalyst for what Schwarz calls the “second exodus” of Jewish people who migrated to Israel.
+It was covered on the front page of every major news publication. [After this protest, every time Reagan met with Gorbachev, Reagan would pull out a list of names of Soviet Jews who had been persecuted](https://www.npr.org/templates/story/story.php?storyId=130936993). The protest was the catalyst for what Schwarz calls the “second exodus” of Jewish people who migrated to Israel.
 
 Schwarz’s Interfaith Friday lecture represents a history with a heavy weight alongside Judaism’s creation story. He plans to detail two different images of God presented in Jewish texts.
 

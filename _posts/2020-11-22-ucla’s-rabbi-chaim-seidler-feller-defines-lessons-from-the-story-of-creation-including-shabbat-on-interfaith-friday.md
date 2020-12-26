@@ -3,18 +3,19 @@ layout: post
 title: UCLA’s Rabbi Chaim Seidler-Feller defines lessons from the story of
   creation, including shabbat, on Interfaith Friday
 date: 2020-08-10 04:22
-image: /images/screen-shot-2020-11-22-at-4.22.35-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.22.35-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 The story of creation in the first Book of Genesis is not science, Rabbi Chaim Seidler-Feller said. That doesn’t mean it should be discounted.
 
 “It’s a religious teaching that proposes to inject meaning and value into existence,” Seidler-Feller said.
 
-Quoting mystics, Seidler-Feller [described Orthodox Judaism’s perspective on creation for Week Six’s Interfaith Friday](https://assembly.chq.org/videos/interfaith-friday-orthodox-judaism) at 2 p.m. EDT on Friday, Aug. 7. Vice President of Religion and Senior Pastor Gene Robinson joined him in a live conversation. Robinson addressed audience questions, submitted through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal and on Twitter with #CHQ2020, and his own.
+Quoting mystics, Seidler-Feller [described Orthodox Judaism’s perspective on creation for Week Six’s Interfaith Friday](https://assembly.chq.org/videos/interfaith-friday-orthodox-judaism) at 2 p.m. EDT on Friday, Aug. 7. Vice President of Religion and Senior Pastor Gene Robinson joined him in a live conversation. Robinson addressed audience questions, submitted through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal and on Twitter with #CHQ2020, and his own.
 
-Seidler-Feller is director emeritus of the Yitzhak Rabin Hillel Center for Jewish Life at UCLA, where he has served as executive director for 40 years. He was the founding director of the Hartman Fellowship for Campus Professionals and a founding member of Americans for Peace Now. Seidler-Feller still serves as a faculty member at the Shalom Hartman Institute North America and the Wexner Heritage Foundation. He also served as a rabbinic consultant for Barbra Streisand in the 1983 film “Yentl.”
+Seidler-Feller is director emeritus of the Yitzhak Rabin Hillel Center for Jewish Life at UCLA, where he has served as executive director for 40 years. He was the founding director of the Hartman Fellowship for Campus Professionals and a founding member of Americans for Peace Now. Seidler-Feller still serves as a faculty member at the Shalom Hartman Institute North America and the Wexner Heritage Foundation. He also served as a rabbinic consultant for Barbra Streisand in the 1983 film “Yentl.”
 
-In his lecture, Seidler-Feller quoted 15th-century Spanish rabbi [Isaac Arama](https://www.sefaria.org/person/Isaac%20ben%20Moses%20Arama) who wrote, “If the Torah was a science book, I have better and more comprehensive books of science on my shelf.”
+In his lecture, Seidler-Feller quoted 15th-century Spanish rabbi [Isaac Arama](https://www.sefaria.org/person/Isaac%20ben%20Moses%20Arama) who wrote, “If the Torah was a science book, I have better and more comprehensive books of science on my shelf.”
 
 “In other words, why would anyone want to reduce a tome of challenging, transformative, immoving and edifying — and sometimes troubling — ideas into a text full of scientific data and historic facts?” Seidler-Feller said. “The Bible answers the question of, ‘Why? And for what purpose?’”
 
@@ -22,7 +23,7 @@ The Book of Genesis outlines that nature, while humans are tasked with overseein
 
 It also calls for equality. When a master kills his slave, he has murdered a fellow image of God. And there is a noun in Chapter 2 in Genesis, usually translated as “rib,” that is later translated in Exodus as “side,” which suggests that God split Adam in two to produce Eve as an equal female, rather than being fashioned from a rib. Seidler-Feller said that this introduces sexual equality as a religious revelation.
 
-Seidler-Feller also said that some Jews have chosen to become vegetarian because of two quotes. Chapter 1 of Genesis reads, “See I give you every seed-bearing plant that is upon all the earth, and every tree that you see bearing fruit. They shall be yours.” In other words, humans should avoid the killing of God’s creatures. 
+Seidler-Feller also said that some Jews have chosen to become vegetarian because of two quotes. Chapter 1 of Genesis reads, “See I give you every seed-bearing plant that is upon all the earth, and every tree that you see bearing fruit. They shall be yours.” In other words, humans should avoid the killing of God’s creatures. 
 
 And in Chapter 11, Isaiah said, “The wolf shall lie down with the calf. The beast and prey, together with the little boy to herd them. The calf shall graze, their young shall lie down together and the lion, like the ox, shall eat straw.”
 

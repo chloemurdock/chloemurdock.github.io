@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<!-- recipe post-content -->
+<div class="post-content">
+  
+  {% if page.image %}
+  <div>
+    <img src="{{ page.image }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+    <!-- ingredients -->
+    <div>
+      <p>Preparation time: {{ page.preptime }} minutes</p>
+      <p>Cooking time: {{ page.cooktime }} minutes</p>
+    </div>
+    <!-- ingredients -->
+
+    <!-- ingredients -->
+    <div>
+      <h2>Ingredients</h2>
+       <ul>
+          {% for ingredient in page.ingredients %}
+          
+          <li itemprop="ingredients">{{ ingredient }}</li>
+          {% endfor %}
+       </ul>
+    </div>
+    <!-- ingredients -->
+  
+    <!-- instructions -->
+    <div itemprop="recipeInstructions">
+      <h2>Instructions</h2>
+      <ol>
+        <li>{{ page.instructions | join: '</li> <li>' }}</li>
+      </ol>
+    </div>
+    <!-- instructions -->
+  </div>
+  
+  {% if page.prepmins or page.cookmins %}
+    <dl>
+      {% if page.prepmins %}<dt>Preparation time</dt><dd>{{ page.prepmins }} mins</dd>{% endif %}
+      {% if page.cookmins %}<dt>Cooking time</dt><dd>{{ page.cookmins }} mins</dd>{% endif %}
+    </dl>
+  {% endif %}
+  <!-- recipe post-content -->
+
+  {{content}}

@@ -1,85 +1,29 @@
-<footer class="c-footer">
-  <div class="o-grid">
-    <div class="o-grid__col o-grid__col--full">
-      <ul class="o-plain-list c-social-nav u-text-center">
-        {% if site.twitter_username %}
-        <li class="c-social-nav__item">
-          <a
-            href="https://www.twitter.com/{{ site.twitter_username }}"
-            target="_blank"
-            aria-label="twitter account link"
-            rel="noopener"
-          >
-            <span
-              class="c-social-nav__icon"
-              data-icon="ei-sc-twitter"
-              data-size="s"
-            ></span>
-          </a>
-        </li>
-        {% endif %} {% if site.instagram_username %}
-        <li class="c-social-nav__item">
-          <a
-            href="https://instagram.com/{{ site.instagram_username }}"
-            target="_blank"
-            aria-label="instagram account link"
-            rel="noopener"
-          >
-            <span
-              class="c-social-nav__icon"
-              data-icon="ei-sc-instagram"
-              data-size="s"
-            ></span>
-          </a>
-        </li>
-        {% endif %} {% if site.github_username %}
-        <li class="c-social-nav__item">
-          <a
-            href="https://www.github.com/{{ site.github_username }}"
-            target="_blank"
-            rel="noopener"
-          >
-            <span
-              class="c-social-nav__icon"
-              data-icon="ei-sc-github"
-              data-size="s"
-            ></span>
-          </a>
-        </li>
-        {% endif %} {% if site.email %}
-        <li class="c-social-nav__item">
-          <a
-            href="mailto:{{ site.email }}"
-            target="_blank"
-            aria-label="send email to chloe"
-            rel="noopener"
-          >
-            <span
-              class="c-social-nav__icon"
-              data-icon="ei-envelope"
-              data-size="s"
-            ></span>
-          </a>
-        </li>
-        {% endif %}
-      </ul>
-
-      <div class="u-text-center">
-        <span class="u-font-small u-font-sans-serif"
-          >Copyright &copy; {{ site.time | date: '%Y' }} {{ site.title }}</span
-        >
-      </div>
+<footer>
+    <!-- <div>
+        <p>Thanks for reading!</p>
+        <span>© 2020-present Chloe Murdock. All Rights Reserved.</span>
     </div>
-  </div>
+    <nav>
+        <a href="/" class="selected">Work</a>
+        <a href="/about">About</a>
+        <a href="/resources">Resources</a>
+        <a href="/resume">Resume</a>
+        <a href="/podcast">Podcast</a>
+        </nav> -->
+        <div class="row">
+            <div class="col col--one-half">
+                <p>Thanks for reading!</p>
+                <span>© 2020-present Chloe Murdock. All Rights Reserved.</span>
+            </div>
+            <div class="col col--one-half">
+                <nav>
+                    <a href="/" class="selected whiteText">Work</a>
+                    <a href="/about" class="whiteText">About</a>
+                    <a href="/resources" class="whiteText">Resources</a>
+                    <a href="/resume" class="whiteText">Resume</a>
+                    <a href="/podcast" class="whiteText">Podcast</a>
+                </nav>
+            </div>
+        </div>
 </footer>
-<script>
-  function init() {
-    var imgDefer = document.getElementsByTagName("img");
-    for (var i = 0; i < imgDefer.length; i++) {
-      if (imgDefer[i].getAttribute("data-src")) {
-        imgDefer[i].setAttribute("src", imgDefer[i].getAttribute("data-src"));
-      }
-    }
-  }
-  window.onload = init;
-</script>
+<script src="/assets/scripts/main.js"></script>

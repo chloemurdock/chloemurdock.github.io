@@ -2,8 +2,9 @@
 layout: post
 title: “OxVegas forever” group chat buoys 150+ students through quarantine
 date: 2020-04-14T09:00:00.000Z
-image: /images/groupme.jpg
+image: /assets/images/posts/groupme.jpg
 tags: The-Miami-Student-Newspaper Culture-section coronavirus
+category: the-miami-student
 ---
 Four days after classes went online, an unofficial [Miami GroupMe chat](https://web.groupme.com/chats) with 156 members and counting was born. Here are some out-of-context highlights from the chat:
 

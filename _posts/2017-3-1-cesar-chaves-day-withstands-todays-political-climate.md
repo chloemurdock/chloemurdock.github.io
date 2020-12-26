@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2017-03-31 16:41
 tags: high-school politics history
+category: the-beacon
 ---
 
 **Originally published in 2017 March issue of The Beacon magazine for Olentangy High School**

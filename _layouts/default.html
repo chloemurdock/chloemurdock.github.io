@@ -1,34 +1,27 @@
 <!DOCTYPE html>
 <html lang='en'>
 
-{% include head.html %}
+  <head>{% include head.html %}</head>
 
-<body>
+<body class="pagebody">
 
-    <div>
+
+    {% include analytics.html %}
     {% include header.html %}
-    <div class="main">
+
+
+  <main>
+    {% if page.subtitle %}
+      <h1>{{ page.title }}</h1>
+      <h2>{{ page.subtitle }}</h2>
+    {% else %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+
     {{ content }}
-    
+  </main>
+
     {% include footer.html %}
-    </div>
-  </div>
-
-  <script src="{{ '/js/jquery-3.4.1.min.js' | prepend: site.baseurl }}">            </script>
-  <script src="{{ '/js/lazysizes.min.js' | prepend: site.baseurl }}"> async=""      </script>
-  <script src="{{ '/js/app.js' | prepend: site.baseurl }}">                         </script>
-  <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">              </script>
-
-  <!-- <script src="{{ '/js/masonry.pkgd.min.js' | prepend: site.baseurl }}">            </script>
-  <script src="{{ '/js/imagesloaded.pkgd.min.js' | prepend: site.baseurl }}">       </script>
-  <script src="{{ '/js/jquery.viewportchecker.min.js' | prepend: site.baseurl }}">  </script>
-  <script src="{{ '/js/jquery.ghostHunter.min.js' | prepend: site.baseurl }}">      </script>
-
-  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">              </script> -->
-
-
-
-
 
 </body>
 

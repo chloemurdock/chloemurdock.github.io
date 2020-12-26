@@ -4,8 +4,9 @@ title: 10 Reasons to Vote for Vermin Supreme! in 2016
 featured: false
 author: Chloe Murdock
 date: 2016-02-22 16:07
-image: /images/vermin.webp
+image: /assets/images/posts/vermin.webp
 tags: politics satire
+category: the-beacon
 ---
 **Originally published in 2016 February issue of The Beacon magazine for Olentangy High School**
 

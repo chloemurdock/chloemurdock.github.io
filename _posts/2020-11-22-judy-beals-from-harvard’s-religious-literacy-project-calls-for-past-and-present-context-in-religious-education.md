@@ -3,22 +3,23 @@ layout: post
 title: Judy Beals from Harvard’s Religious Literacy Project calls for past and
   present context in religious education
 date: 2020-08-05 04:32
-image: /images/screen-shot-2020-11-22-at-4.32.33-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.32.33-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 Judy Beals’ favorite quote from former Secretary of State Madeleine Albright is also an antithesis to Beals’ pitch for injecting religion into cultural context.
 
-“Diplomats in my era were taught not to invite trouble, and no subject seemed more inherently treacherous than religion,” [Albright said](https://www.pbs.org/wnet/religionandethics/2006/05/19/may-19-2006-madeleine-albright-extended-intreview/2838/).
+“Diplomats in my era were taught not to invite trouble, and no subject seemed more inherently treacherous than religion,” [Albright said](https://www.pbs.org/wnet/religionandethics/2006/05/19/may-19-2006-madeleine-albright-extended-intreview/2838/).
 
-But Beals brought up several case studies that she said indicated a need for expanded interfaith religious education: the U.S. government’s lack of understanding of Islam spurred the post-9/11 invasion of Iraq; the international community failed to understand the significance of burial practices in West Africa, which caused an isolated Ebola virus to go global; and [most Americans learn about religion not from courses, but from movies and TV shows](https://www.pewforum.org/2019/07/23/what-americans-know-about-religion/).
+But Beals brought up several case studies that she said indicated a need for expanded interfaith religious education: the U.S. government’s lack of understanding of Islam spurred the post-9/11 invasion of Iraq; the international community failed to understand the significance of burial practices in West Africa, which caused an isolated Ebola virus to go global; and [most Americans learn about religion not from courses, but from movies and TV shows](https://www.pewforum.org/2019/07/23/what-americans-know-about-religion/).
 
 “We need to teach religion in schools, but not in the way you think,” Beals said.
 
 Beals proposed teaching religion along with nuanced cultural context in her lecture, “[Teaching Religion Through New Eyes](https://assembly.chq.org/rebuilding-public-education/videos/teaching-religion-through-new-eyes),” at 2 p.m. EDT Monday, Aug. 3.
 
-Beals’ lecture launched Week Six of the Interfaith Lecture Series theme, “Lessons in the School House.” Chautauquans submitted questions during the livestream on the CHQ Assembly Video Platform, through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal or on Twitter with #CHQ2020. Vice President for Religion and Senior Pastor Gene Robinson joined Beals to deliver questions in a subsequent Q-and-A.
+Beals’ lecture launched Week Six of the Interfaith Lecture Series theme, “Lessons in the School House.” Chautauquans submitted questions during the livestream on the CHQ Assembly Video Platform, through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal or on Twitter with #CHQ2020. Vice President for Religion and Senior Pastor Gene Robinson joined Beals to deliver questions in a subsequent Q-and-A.
 
-Beals is an associate director for [Harvard’s Religious Literacy Project](https://rlp.hds.harvard.edu/) and is also an experienced human and civil rights attorney, former legislative aide in the U.S. Senate, a former state Assistant Attorney General and a nonprofit CEO.
+Beals is an associate director for [Harvard’s Religious Literacy Project](https://rlp.hds.harvard.edu/) and is also an experienced human and civil rights attorney, former legislative aide in the U.S. Senate, a former state Assistant Attorney General and a nonprofit CEO.
 
 Mainstream religion courses teach religions as if they are unchanging since inception, Beals said. While learning the basic doctrines, rituals, myths and symbols is still necessary — 66% of Americans in a study knew that the first book in the Bible was the Book of Genesis, but much less that the Dalai Lama was a Buddhist figure — religious education needs to touch on how religions affected past and present events.
 
@@ -44,7 +45,7 @@ And it doesn’t end after a Mass, Shabbat or meditation concludes. It leaks int
 
 “For the practicing and the non-practicing alike, religious stories and allegories — think of the Good Samaritan, the golden rule, Mara and the Buddha, so many others — these are powerful influences of how people respond to adversity in their lives,” Beals said.
 
-COVID-19, Beals said, is one such example of [people looking to faith institutions](https://news.gallup.com/opinion/polling-matters/307619/religion-covid-virus.aspx) for guidance. Some churches are operating as health care sites while others have become “super spreaders” for the virus. 
+COVID-19, Beals said, is one such example of [people looking to faith institutions](https://news.gallup.com/opinion/polling-matters/307619/religion-covid-virus.aspx) for guidance. Some churches are operating as health care sites while others have become “super spreaders” for the virus. 
 
 “We see a range of responses from faith communities to public health advice around public gatherings and so on. And we see that evolving and changing all of the time,” Beals said. “And frankly, I think religious services and practices will be forever changed by the coronavirus.”
 

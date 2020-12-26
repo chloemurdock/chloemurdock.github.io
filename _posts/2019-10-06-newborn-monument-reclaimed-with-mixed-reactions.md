@@ -2,8 +2,9 @@
 layout: post
 title: Newborn monument reclaimed with mixed reactions
 date: 2019-06-21T00:28:00.000Z
-image: /images/newborn.jpg
+image: /assets/images/posts/newborn.jpg
 tags: Kosovo KosovaLive Newborn-sign Written-while-studying-abroad
+category: kosovalive
 ---
 Pristina, KOSOVO—The Newborn monument’s Reclamation generated a storm of public discourse after the creator and U.S. journalist Lauren Peace installed it on Friday, June 7.
 

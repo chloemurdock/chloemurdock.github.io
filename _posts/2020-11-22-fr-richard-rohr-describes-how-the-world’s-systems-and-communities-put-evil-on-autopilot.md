@@ -3,8 +3,9 @@ layout: post
 title: Fr. Richard Rohr describes how the world’s systems and communities put
   evil on autopilot
 date: 2020-08-19 04:07
-image: /images/screen-shot-2020-11-22-at-4.07.28-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.07.28-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 The world puts evil on autopilot.
 
@@ -12,7 +13,7 @@ The world puts evil on autopilot.
 
 In his second lecture of the Interfaith Lecture Series’ Week Eight theme of “Reframing Our Journey: A Week with Fr. Richard Rohr, OFM,” at 2 p.m. EDT on Tuesday, Aug. 18, Rohr described how the world enables evil.
 
-The day before, [Rohr gave his keynote lecture](https://assembly.chq.org/reframing-the-constitution/videos/fr-richard-rohr-monday-2020) which framed the facets of evil he describes in his book, *What Do We Do With Evil?: The World, the Flesh, and the Devil.* The book serves as an accompanying work that explains the social character of evil that he mentioned in his previous book, *Falling Upwards*.
+The day before, [Rohr gave his keynote lecture](https://assembly.chq.org/reframing-the-constitution/videos/fr-richard-rohr-monday-2020) which framed the facets of evil he describes in his book, *What Do We Do With Evil?: The World, the Flesh, and the Devil.* The book serves as an accompanying work that explains the social character of evil that he mentioned in his previous book, *Falling Upwards*.
 
 Rohr said that religions have localized sin on the flesh of the individual. Though there is agency within the conscious individual who refuses to cooperate with evil when they recognize it, the world perpetuates evil by determining it as acceptable. And the environment someone is born into, based on factors including their gender, race, culture and the people who raise them, shapes how they move in the world.
 

@@ -1,37 +1,39 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Chloe Murdock
+email: chloe.murdock@gmail.com
+description: This is the homepage of Chloe Murdock.<br>This site is her virtual portfolio.<br>Explore her resume and past work to see what she is capable of.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chloemurdock.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ""
+homepageText: >
+    I’m Chloe Murdock<br>
+    This is my portfolio<br>
+    Sit back and enjoy
+
+# Build settings
+
 plugins:
-  - jekyll-paginate
-  - jekyll/tagging
-  - jekyll-sitemap
-  - jekyll-seo-tag
-twitter_username: chloeannmurdock
-tag_page_dir: tag
-instagram_username: chloemurdockk
-authors:
-  Chloe:
-    name: Chloe Murdock
-    bio: Intern and college student, majoring in journalism and international
-      studies.
-    gravatar: null
-    email: null
-    website: https://chloemurdock.com
-    twitter_username: chloeannmurdock
-include:
-  - _pages
-  - _headers
-author: chloeannmurdock
-logo: null
-permalink: pretty
-social:
-  name: Chloe Murdock
-  links:
-    - https://twitter.com/chloeannmurdock
-    - http://instagram.com/chloemurdockk
-    - https://www.facebook.com/chloe.murdock.716
-    - https://www.linkedin.com/in/chloe-m-275197133/
-sass:
-  style: compressed
-markdown: kramdown
-url: https://chloemurdock.com
+  - jekyll-feed
+
 defaults:
   - scope:
       path: _pages
@@ -41,18 +43,70 @@ defaults:
       path: tag
     values:
       sitemap: false
-twitter:
-  username: chloeannmurdock
-  card: summary
-tag_page_layout: tag_page
-paginate: 12
-tag_permalink_style: pretty
-title: Chloe Murdock
+
+# feed:
+#   collections:
+#     - recipes
+
+authors:
+  Chloe:
+    name: Chloe Murdock
+    bio: Intern and college student, majoring in journalism and international
+      studies.
+    gravatar: null
+    email: null
+    website: https://chloemurdock.com
+    twitter_username: chloeannmurdock
+
+collections:
+  categories:
+    output: true
+    sort_by: order
+
+social:
+  name: Chloe Murdock
+  links:
+    - https://twitter.com/chloeannmurdock
+    - http://instagram.com/chloemurdockk
+    - https://www.facebook.com/chloe.murdock.716
+    - https://www.linkedin.com/in/chloe-m-275197133/
+
+include:
+  - _pages
+  - _headers
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "categories" # a collection in your site, in plural form
+    values:
+      layout: "post"
+      permalink: /work/:title/
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # a collection in your site, in plural form
+    values:
+      layout: "post"
+      permalink: /:year/:month/:day/:title
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+
 exclude:
-  - vendor
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
   - Gemfile
   - Gemfile.lock
-email: chloe.murdock@gmail.com
-description: This is the homepage of Chloe Murdock. This site is her virtual
-  portfolio. Explore her resume and past work to see what she is capable of.
-baseurl: ""
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

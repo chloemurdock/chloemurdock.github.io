@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2016-01-22 16:25
 tags: satire sports swimming high-school
+category: the-beacon
 ---
 **Originally published in 2016 January issue of The Beacon magazine for Olentangy High School**
 

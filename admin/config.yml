@@ -1,40 +1,63 @@
 backend:
-  name: github
+  name: test-repo
   repo: chloemurdock/chloemurdock.github.io
   branch: master
-  site_domain: chloemurdock.netlify.com
+  site_domain: chloemurdock.com
 
+# name: github
 # repo: chloemurdock/chloemurdock.github.io
 
-media_folder: "images" # Media files will be stored in the repo under images
-public_folder: "/images" # The src attribute for uploaded media will begin with /images
+media_folder: "/assets/images/" # Media files will be stored in the repo under images
+public_folder: "/assets/images/" # The src attribute for uploaded media will begin with /images
 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+  - name: 'pages'
+    label: 'Pages'
+    editor:
+      preview: false
+    files:
+      - label: 'Home'
+        name: 'home'
+        file: 'index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: 'Resume'
+        name: 'resume'
+        file: 'resume.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', default: 'Resume' }
+          - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "work" # Used in routes, e.g., /admin/collections/blog
+    label: "Work" # Used in the UI
     folder: "_posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Category", name: "category", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime", dateFormat: 'YYYY-MM-DD', timeFormat: 'HH:mm', format: 'YYYY-MM-DD HH:mm'}
-      - {label: "Image", name: "image", widget: "image", required: false, hint: 'Use tinypng.com before uploading!'}
+      - {label: "Image", name: "image", widget: "image", required: false, hint: 'Use tinypng.com before uploading!', media_folder: "/assets/images/posts", public_folder: "/assets/images/posts"}
       - {label: "Tags", name: "tags", widget: "string", hint: 'Tags are separated by spaces!'}
       - {label: "Body", name: "body", widget: "markdown"}
-
-  - name: "pages" # Used in routes, e.g., /admin/collections/blog
-    label: "Pages" # Used in the UI
-    folder: "_pages/" # The path to the folder where the documents are stored
+      
+  - name: "categories" # Used in routes, e.g., /admin/collections/blog
+    label: "Categories" # Used in the UI
+    folder: "_categories/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{label}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "category"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      #- {label: "Publish Date", name: "date", widget: "datetime"}
-      # - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Role", name: "role", widget: "string"}
+      - {label: "Time in position", name: "timeInPosition", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Order on homepage", name: "order", widget: "number"}
+      - {label: "Date", name: "date", widget: "datetime", dateFormat: 'YYYY-MM-DD', format: 'YYYY-MM-DD'}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "hidden", default: "{% assign categorySlugged = page.title | slugify %}{% include category.html %}"}
 
   - name: "data"
     label: "Data"
@@ -63,4 +86,3 @@ collections:
         file: "/_config.yml"
         fields:
           - {label: "Description", name: "description", widget: "string"}
-        # - {label: Photo, name: photo, widget: image}

@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2015-09-22 16:03
 tags: high-school sports golf football cross-country volleyball tennis field-hockey soccer
+category: the-beacon
 ---
 **Originally published in 2015 September issue of The Beacon magazine for Olentangy High School**
 

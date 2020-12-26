@@ -2,8 +2,9 @@
 layout: post
 title: Volunteer delivery props up Oxford’s grocery fixtures
 date: 2020-04-07T09:00:00.000Z
-image: /images/food-boxes.jpg
+image: /assets/images/posts/food-boxes.jpg
 tags: The-Miami-Student-Newspaper food-pantry coronavirus
+category: the-miami-student
 ---
 *[Photo from Miami University's ShareFest this spring](https://www.miamioh.edu/news/top-stories/2020/04/mini-move-out-sharefest-food-donated.html)*
 

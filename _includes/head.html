@@ -1,33 +1,29 @@
-<head>
-  <meta charset='utf-8'>
-  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-  <meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% if page.index == 'noindex' %}<meta name="robots" content="noindex">{% endif %}
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#774069">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 
-  <!-- <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> -->
-  <!-- <meta name='description' content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"> -->
-  <link rel='canonical' href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel='alternate' type='application/rss+xml' title='{{ site.title }}' href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
-
-  <meta name="ahrefs-site-verification" content="cdfe02e1e8a05e4ff05b25088bb723d7cd2cab01fba8a08223274bf41a12e4a3">
-
-  {% if page.robots == noindex %}
-  <meta name="robots" content="noindex">
-  {% endif %}
-
-  <style>
-    {% capture inlineCSS %}
-      {% include app.scss %}
-    {% endcapture %}
-    {{ inlineCSS | scssify }}
-  </style>
-  <script>
-    var base_url = {{ site.baseurl | jsonify }};
-  </script>
-  <link rel="stylesheet" type="text/css" href="/style.css">
-  {% if site.tags == "" %}
-  {% include tag-collection.html %}
-  {% endif %}
-
-
-  {% seo %}
-</head>
+<link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+<link rel='canonical' href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | downcase}}">
+<meta name="author" content="Chloe Murdock" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{page.title}}" />
+<meta property="og:description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}" />
+<meta property="og:url" content="{{page.url | prepend: site.url }}" />
+<meta property="og:site_name" content="{{site.title}}" />
+<meta property="og:image" content="{% if page.image %}{{site.url}}/images/posts/{{page.image}}{% else %}{{'/assets/images/posts/dsc_3577-2.jpg'| prepend: site.url }}{% endif %}" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:image" content="{% if page.image %}{{site.url}}/assets/images/posts/{{page.image}}{% else %}{{'/assets/images/posts/dsc_3577-2.jpg'| prepend: site.url }}{% endif %}" />
+<meta property="twitter:title" content="{{page.title}}" />
+<meta name="twitter:site" content="@chloeannmurdock" />
+<meta name="twitter:creator" content="@chloeannmurdock" />
+{% include schema.html %}

@@ -3,22 +3,23 @@ layout: post
 title: Bishop Minerva Carcaño calls for community with the words of Martin
   Luther King, Jr.
 date: 2020-08-25 03:58
-image: /images/screen-shot-2020-11-22-at-3.58.52-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-3.58.52-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
-[Bishop Minerva Carcaño](https://chqdaily.com/2020/08/bishop-minerva-carcano-to-start-last-week-of-interfaith-lectures-with-talk-on-the-need-for-beloved-community/) said amidst U.S.-caused inequality in the country and abroad, reaching out to help vulnerable people to bring into communities is an antidote.
+[Bishop Minerva Carcaño](https://chqdaily.com/2020/08/bishop-minerva-carcano-to-start-last-week-of-interfaith-lectures-with-talk-on-the-need-for-beloved-community/) said amidst U.S.-caused inequality in the country and abroad, reaching out to help vulnerable people to bring into communities is an antidote.
 
-“We must agree to strive to love one another as we are loved by God, our creator, remembering that we all yearn for the same thing — belonging in a beloved community,” Carcaño said.
+“We must agree to strive to love one another as we are loved by God, our creator, remembering that we all yearn for the same thing — belonging in a beloved community,” Carcaño said.
 
-Carcaño gave her lecture at 2 p.m. EDT on Monday, Aug. 24. Titled “The World We Need — Belonging in Beloved Community,” the discussion on the [CHQ Assembly Video Platform](https://assembly.chq.org/the-future-we-want-the-world-we-need/videos/bishop-minerva-carcano-2020) kicked off Week Nine’s Interfaith Lecture Series theme, “The Future We Want, the World We Need.” 
+Carcaño gave her lecture at 2 p.m. EDT on Monday, Aug. 24. Titled “The World We Need — Belonging in Beloved Community,” the discussion on the [CHQ Assembly Video Platform](https://assembly.chq.org/the-future-we-want-the-world-we-need/videos/bishop-minerva-carcano-2020) kicked off Week Nine’s Interfaith Lecture Series theme, “The Future We Want, the World We Need.” 
 
 Carcaño is the bishop of the United Methodist Church’s California-Nevada Conference and an immigration rights advocate. In 2004, she became the first Hispanic woman to be elected into UMC leadership. Her lecture was pre-recorded from her office in Sacramento, California, where fires caused by lightning have ravaged the state and displaced people from their homes indefinitely. Carcaño urged people to donate to the Red Cross or to funds organized by respective religious bodies.
 
-Carcaño said that in her role on the board of the [California Endowment](https://www.calendow.org/our-story/), the largest health foundation in the state, a fellow board member and college student, Lupe, reached out to collaborate on working for the health and well-being of all Californians. While working together over the last few months, Carcaño found that she and Lupe had many similarities. Each have immigrant roots in the border regions of the United States, have experienced extreme poverty, and imagine a better world. But while Carcaño sees the world from the perspective of someone preparing to retire comfortably in a few years, Lupe sees life in two-year increments as a Deferred Action for Childhood Arrivals student who has to reapply to stay in the country every two years.
+Carcaño said that in her role on the board of the [California Endowment](https://www.calendow.org/our-story/), the largest health foundation in the state, a fellow board member and college student, Lupe, reached out to collaborate on working for the health and well-being of all Californians. While working together over the last few months, Carcaño found that she and Lupe had many similarities. Each have immigrant roots in the border regions of the United States, have experienced extreme poverty, and imagine a better world. But while Carcaño sees the world from the perspective of someone preparing to retire comfortably in a few years, Lupe sees life in two-year increments as a Deferred Action for Childhood Arrivals student who has to reapply to stay in the country every two years.
 
 “DACA is just one more sign of the brokenness of our immigration policies in this country, and of our racism and xenophobic nationalism,” Carcaño said.
 
-Carcaño said that [the ICE detention camps of undocumented immigrants started not with current U.S. President Donald Trump, but with the former U.S. President Barack Obama](https://www.snopes.com/fact-check/obama-build-cages-immigrants/).
+Carcaño said that [the ICE detention camps of undocumented immigrants started not with current U.S. President Donald Trump, but with the former U.S. President Barack Obama](https://www.snopes.com/fact-check/obama-build-cages-immigrants/).
 
 “President Trump has carried out the most recent atrocities, but he did not establish these practices,” Carcaño said. “They began under the Obama administration. We have been allowing the destruction of the world we need for too long.”
 
@@ -34,15 +35,15 @@ She remembered how one child who started to cry when he entered the facility lat
 
 While thinking about the theme for this week that looks toward the future, Carcaño drew inspiration from the words of the Rev. Martin Luther King, Jr.
 
-“… the end is reconciliation; the end is redemption; the end is the creation of the beloved community,” King wrote. “It is this type of spirit and this type of love that can transform opposers into friends.”
+“… the end is reconciliation; the end is redemption; the end is the creation of the beloved community,” King wrote. “It is this type of spirit and this type of love that can transform opposers into friends.”
 
-King said the necessary fight against racism, war and economic injustice was “a revolution of values.” He not only advocated for racial justice within the United States, but was also against war and the United States’ exploitation of young countries, including through the North American Free Trade Agreement and the Central American Free Trade Agreement — exploitation which Carcaño said is the root cause of migration that continues today.
+King said the necessary fight against racism, war and economic injustice was “a revolution of values.” He not only advocated for racial justice within the United States, but was also against war and the United States’ exploitation of young countries, including through the North American Free Trade Agreement and the Central American Free Trade Agreement — exploitation which Carcaño said is the root cause of migration that continues today.
 
 In 1967, King spoke out against the Vietnam War in front of 3,000 people in Riverside Church in New York City. He said, “A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual death.”
 
 “King challenged the assumptions of the inevitability of war, stating unequivocally … that war and its effects of death, homelessness, destroyed families and communities, increased hatred and violence, and physically and emotionally disabled and disfigured soldiers could not be reconciled with wisdom, with justice or love,” Carcaño said. “War could not be reconciled with the virtues of wisdom, justice or love then, and it cannot be reconciled with these virtues now.”
 
-Carcaño said that this is still evident, not only in wars that the United States participates in abroad, but in its internal wars. [More money is funneled into the school-to-prison pipeline than educating children](https://www.aclu.org/issues/juvenile-justice/school-prison-pipeline). [Private prisons of undocumented people who make billions are simultaneously blocking the legalization of immigration](https://www.nytimes.com/2018/10/01/us/prisons-immigration-detention.html).
+Carcaño said that this is still evident, not only in wars that the United States participates in abroad, but in its internal wars. [More money is funneled into the school-to-prison pipeline than educating children](https://www.aclu.org/issues/juvenile-justice/school-prison-pipeline). [Private prisons of undocumented people who make billions are simultaneously blocking the legalization of immigration](https://www.nytimes.com/2018/10/01/us/prisons-immigration-detention.html).
 
 [And police have disproportionately arrested Black people](https://abcnews.go.com/US/abc-news-analysis-police-arrests-nationwide-reveals-stark/story?id=71188546). Carcaño listed just a few names of Black people who died at the hands of police. George Floyd allegedly used a counterfeit $20 bill before the eight-minute video of his death went viral. Breonna Taylor, 26, was killed while sleeping in her home when police tracked down a suspect to the wrong house. Atatiana Jefferson, 28, was taking care of her 8-year-old nephew when police came to the door. Stephon Clark, from Sacramento, California, was a 22-year-old killed in his grandmother’s backyard while holding his phone. Botham Jean was 26 when he was eating ice cream on a sofa.
 

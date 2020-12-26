@@ -2,12 +2,13 @@
 layout: post
 title: "ABB press release: ArcelorMittal evolution path leads to ABB Ability upgrades"
 date: 2017-10-10T17:21:00.000Z
-image: /images/arcelormittal-logo.png
+image: /assets/images/posts/arcelormittal-logo.png
 tags: ABB-internship
+category: abb
 ---
 ## Longtime ABB steel customer orders improvement
 
-Originally published on [abb.com](http://www.abb.co.in/cawp/seitp202/3f90f076010a97a6c125818600649f83.aspx)
+Originally published on [abb.com](https://new.abb.com/news/detail/51486/arcelormittal-evolution-path-leads-to-abb-ability-upgrades)
 
 Westerville, OHIO, USA—ABB received an order from ArcelorMittal Long Products Canada, a steel producer in Contrecoeur, Quebec, Canada, to upgrade their ABB AbilityTM System 800xA Human Machine Interface (HMI) in their profile mill to system version 6.0 with AC400 connect. ABB will also retrofit some of their DC Drives.
 

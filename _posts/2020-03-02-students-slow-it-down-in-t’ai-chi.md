@@ -2,8 +2,9 @@
 layout: post
 title: Students slow it down in t’ai chi
 date: 2020-02-25T20:50:00.000Z
-image: /images/tai-chi.jpg
+image: /assets/images/posts/tai-chi.jpg
 tags: The-Miami-Student-Newspaper Culture-section international profile
+category: the-miami-student
 ---
 Fifteen students move as if their limbs are cutting through water in front of the mirror of the Phillips Hall dance studio. Controlled, slow movements follow the trickling notes of music.
 

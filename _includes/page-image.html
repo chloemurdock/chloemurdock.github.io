@@ -1,9 +1,0 @@
-{% if page.image %}
-<img
-  src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-  loading="lazy"
-  class="c-post__image"
-  data-src="{{ page.image | prepend: site.baseurl }}"
-/>
-<!-- <img src='{{ page.image | prepend: site.baseurl }}' class='c-post__image' alt='{{ page.title }}' data-src='{{ page.image | prepend: site.baseurl }}' class="lazyload"> -->
-{% endif %}

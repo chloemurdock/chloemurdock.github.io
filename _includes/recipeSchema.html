@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "{{page.title}}",
+    "image": [
+      "{{ site.url }}{{page.image}}"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Sabrina Sadr"
+    },
+    "datePublished": "{{ page.date }}",
+    "description": "{{ page.description }}",
+    {% if page.preptime or page.cooktime %}
+    {% if page.preptime %}"prepTime": "PT{{ page.preptime }}M",{% endif %}
+    {% if page.cooktime %}"cookTime": "PT{{ page.cooktime }}M",{% endif %}
+    {% if page.preptime or page.cooktime %}"totalTime": "PT{{ page.preptime | plus: page.cooktime }}M",{% endif %}
+    {% endif %}
+    "keywords": "cake for a party, coffee",
+    "recipeYield": "{{ page.servings }}",
+    "recipeCategory": "{{ page.category }}",
+    "recipeCuisine": "{{ page.cuisine }}",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "{{ page.calories }} calories"
+    },
+    "recipeIngredient": [
+    {% for ingredient in page.ingredients %}
+      "{{ ingredient }}"{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+      ],
+    "recipeInstructions": [
+      {% for instruction in page.instructions %}
+      {
+          "@type": "HowToStep",
+          "text": "{{ instruction }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }

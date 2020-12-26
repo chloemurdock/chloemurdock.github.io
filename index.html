@@ -1,51 +1,30 @@
 ---
-layout: default
-image: https://chloemurdock.com/images/dsc_3577-2.jpg
+layout: home
 ---
 
-<div class="articlewrap">
-  <div class="grid">
-    {% for post in paginator.posts %}
-    <div class="item">
-      {% include post-card.html %}
-    </div>
-    {% endfor %}
-  </div>
-
-  {% include pagination.html %}
-
-
-
-  <!-- <script>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.min.js"></script>
-
-function resizeGridItem(item){
-  grid = document.getElementsByClassName("grid")[0];
-  rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-  rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
-  rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
-    item.style.gridRowEnd = "span "+rowSpan;
-}
-
-function resizeAllGridItems(){
-  allItems = document.getElementsByClassName("item");
-  for(x=0;x<allItems.length;x++){
-    resizeGridItem(allItems[x]);
-  }
-}
-
-function resizeInstance(instance){
-	item = instance.elements[0];
-  resizeGridItem(item);
-}
-
-window.onload = resizeAllGridItems();
-window.addEventListener("resize", resizeAllGridItems);
-
-allItems = document.getElementsByClassName("item");
-for(x=0;x<allItems.length;x++){
-  imagesLoaded( allItems[x], resizeInstance);
-}
-</script> -->
+<div>
+    <h1 class="heroHeader">{{site.homepageText}}</h1>
 </div>
+
+
+{% for category in site.categories %}
+{% assign sorted = site.posts | where: "category" , category.title %}
+<div class="postCard">
+    <a href="{{category.url}}">
+        <div>
+            <img src="{{category.image}}">
+        </div>
+    </a>
+    <div class="row">
+        <div class="col col--one-half">
+            <h2>{{category.title}}</h2>
+            <h3>{{category.role}}</h3>
+            <h4>{{category.timeInPosition}}</h4>
+        </div>
+        <div class="col col--one-half">
+            <p>{{category.description}}</p>
+            <p class="align-right"><a href="{{category.url}}">View Work from {{category.title}} →</a></p>
+        </div>
+    </div>
+</div>
+{% endfor %}

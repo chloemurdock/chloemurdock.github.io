@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2015-12-10 15:59
 tags: high-school vegan perspectives
+category: the-beacon
 ---
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**
 

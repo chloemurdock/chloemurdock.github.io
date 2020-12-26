@@ -3,34 +3,35 @@ layout: post
 title: Author Kent Nerburn relays what he has learned and unlearned from telling
   the stories of Native Americans
 date: 2020-08-14 04:16
-image: /images/screen-shot-2020-11-22-at-4.17.01-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.17.01-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
-Before [Kent Nerburn](https://chqdaily.com/2020/08/author-kent-nerburn-to-share-wisdom-gained-from-years-of-working-with-native-americans-for-interfaith-lecture/) became an author, he was a wood sculptor. He changed his career after being hired in northern Minnesota to help high school students conduct a two-year oral history project interviewing Red Lake Ojibwe elders in 1988.
+Before [Kent Nerburn](https://chqdaily.com/2020/08/author-kent-nerburn-to-share-wisdom-gained-from-years-of-working-with-native-americans-for-interfaith-lecture/) became an author, he was a wood sculptor. He changed his career after being hired in northern Minnesota to help high school students conduct a two-year oral history project interviewing Red Lake Ojibwe elders in 1988.
 
 “I soon realized that I was in the presence of a way of living and believing that had a depth unlike any I had experienced in my typical American way of growing up,” Nerburn said. “And it was a way that perfectly fit my hunger for a spirituality that honored the mystery and life, but did not demand exclusivity or divide people between insiders and outsiders.”
 
-After being struck by the suppressed history and worldview the Ojibwe elders described, he has written 17 books on the Ojibwe, Lakota and Nez Perce tribes. Nerburn’s lecture, “[Quiet Voices, Important Truths: Life Lessons from the Native Way](https://assembly.chq.org/the-science-of-us/videos/quiet-voices-important-truths-life-lessons-from-the-native-way),” was released at 2 p.m. EDT Wednesday, Aug. 12, on the [CHQ Assembly Video Platform](https://assembly.chq.org/).
+After being struck by the suppressed history and worldview the Ojibwe elders described, he has written 17 books on the Ojibwe, Lakota and Nez Perce tribes. Nerburn’s lecture, “[Quiet Voices, Important Truths: Life Lessons from the Native Way](https://assembly.chq.org/the-science-of-us/videos/quiet-voices-important-truths-life-lessons-from-the-native-way),” was released at 2 p.m. EDT Wednesday, Aug. 12, on the [CHQ Assembly Video Platform](https://assembly.chq.org/).
 
 Nerburn recorded his lecture from his Oregon home, as part of Week Seven’s Interfaith Lecture Series theme, “The Spirituality of Us.” He reflected on his career switch and lessons he has learned from listening to and writing about Native American history, culture and spirituality.
 
-When Nerburn was still a wood sculptor, he felt almost guilty for carving his ideas into trees. To him, it felt like he was imposing ideas onto something with a living soul. And for many Native Americans, there is a life force in trees. Nerburn said the Iroquois have carved masks from live trees so the spirit of the tree is imbued in the mask. Some tribes on the northwest coast of British Columbia carve faces in trees and then let the faces change as the tree grows.
+When Nerburn was still a wood sculptor, he felt almost guilty for carving his ideas into trees. To him, it felt like he was imposing ideas onto something with a living soul. And for many Native Americans, there is a life force in trees. Nerburn said the Iroquois have carved masks from live trees so the spirit of the tree is imbued in the mask. Some tribes on the northwest coast of British Columbia carve faces in trees and then let the faces change as the tree grows.
 
 Nerburn’s work collecting and sharing Native stories for the past 30 years isn’t done, which means he’s not done learning, either.
 
 “There are so many stories I could tell, and so many stories I am still learning,” Nerburn said.
 
-He first came across the work of Native philosophers and leaders while working with the Ojibwe students in 1988. He quoted [Dakota philosopher Ohiyesa, also known as Charles Eastman](https://www.legendsofamerica.com/na-charleseastman/):
+He first came across the work of Native philosophers and leaders while working with the Ojibwe students in 1988. He quoted [Dakota philosopher Ohiyesa, also known as Charles Eastman](https://www.legendsofamerica.com/na-charleseastman/):
 
 “We have always preferred to believe that the spirit of God is not breathed into humans alone, but that the whole created universe shares in the immortal perfection of its maker,” Eastman wrote. “We believe that the spirit pervades all creation and that every creature possesses a soul of some degree, though not necessarily a soul conscious of itself. … We see no need for the setting apart of one day and seven as a holy day. For to us, all days belong to God.”
 
-Nerburn found his purpose in listening to and sharing the stories and lessons from Native people, opening a door for the rest of the world to learn with him from Native American perspectives and life lessons he details in his work. In his lecture, he read two sections from his book *[Voices in the Stones: Life Lessons from the Native Way](https://www.chautauquabookstore.com/book/9781608683901)*.
+Nerburn found his purpose in listening to and sharing the stories and lessons from Native people, opening a door for the rest of the world to learn with him from Native American perspectives and life lessons he details in his work. In his lecture, he read two sections from his book *[Voices in the Stones: Life Lessons from the Native Way](https://www.chautauquabookstore.com/book/9781608683901)*.
 
-In one section, “Stones for the Sweat: All People Should Be Made to Feel Needed,” he described a Nez Perce man’s account of his ancestor [Nez Perce leader Chief Joseph](https://kentnerburn.com/my-favorite-review-of-chief-joseph/#:~:text=His%20most%20potent%20weapon%20was,in%20the%20national%20historical%20consciousness.%E2%80%9D). The man also described responsibilities for children and elders when he was a child. While children were tasked with braiding horse bridles, elders made community decisions based on their breadth of life experiences.
+In one section, “Stones for the Sweat: All People Should Be Made to Feel Needed,” he described a Nez Perce man’s account of his ancestor [Nez Perce leader Chief Joseph](https://kentnerburn.com/my-favorite-review-of-chief-joseph/#:~:text=His%20most%20potent%20weapon%20was,in%20the%20national%20historical%20consciousness.%E2%80%9D). The man also described responsibilities for children and elders when he was a child. While children were tasked with braiding horse bridles, elders made community decisions based on their breadth of life experiences.
 
 “It granted them an unassailable status and responsibility that belonged to them and no one else,” Nerburn read.
 
-In the second section, “The Old Man in the Café: Spirit is Present in All of Creation,” Nerburn described his chance encounter in a café with a Native man who in his youth had been forcibly sent to the [Fort Totten Indian Boarding School](https://www.ndstudies.gov/gr8/content/unit-iii-waves-development-1861-1920/lesson-3-building-communities/topic-2-schools/section-5-indian-boarding-schools), which Nerburn was researching at the time. The U.S. government created schools like Fort Totten to forcibly assimilate Native American children.
+In the second section, “The Old Man in the Café: Spirit is Present in All of Creation,” Nerburn described his chance encounter in a café with a Native man who in his youth had been forcibly sent to the [Fort Totten Indian Boarding School](https://www.ndstudies.gov/gr8/content/unit-iii-waves-development-1861-1920/lesson-3-building-communities/topic-2-schools/section-5-indian-boarding-schools), which Nerburn was researching at the time. The U.S. government created schools like Fort Totten to forcibly assimilate Native American children.
 
 “I learned Good English,” the man said to Nerburn. “I learned Good Christian. But I am no longer myself.”
 

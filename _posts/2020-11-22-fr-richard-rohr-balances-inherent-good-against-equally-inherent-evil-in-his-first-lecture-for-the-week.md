@@ -3,8 +3,9 @@ layout: post
 title: Fr. Richard Rohr balances inherent good against equally inherent evil in
   his first lecture for the week
 date: 2020-08-18 04:08
-image: /images/screen-shot-2020-11-22-at-4.08.59-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.08.59-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 Fr. Richard Rohr said that most religions don’t know what to do with evil — and within Christianity, both God and humans are complicit in evil.
 
@@ -12,11 +13,11 @@ Fr. Richard Rohr said that most religions don’t know what to do with evil — 
 
 Rohr delivered his first lecture for the week at 2 p.m. EDT Monday, Aug. 17, titled “[What Do We Do With Evil?](https://assembly.chq.org/reframing-the-constitution/videos/fr-richard-rohr-monday-2020)”
 
-This lecture served as a background for his lectures later this week. Week Eight of the Interfaith Lecture Series, titled “Reframing Our Journey,” reflects on Rohr’s book, *What Do We Do With Evil?: The World, The Flesh and The Devil*.
+This lecture served as a background for his lectures later this week. Week Eight of the Interfaith Lecture Series, titled “Reframing Our Journey,” reflects on Rohr’s book, *What Do We Do With Evil?: The World, The Flesh and The Devil*.
 
-Rohr, from his home in Albuquerque, New Mexico, said that true evil is distinct from sin. True evil, Rohr said, is found in how humans corrupt the planet and politics. And COVID-19 has exacerbated existing evil. Rohr said the way in which COVID-19 has allowed ample time to be distracted from evil allows evil to flourish. When people are removed from meaning and direction in their life for an extended period of time in quarantine, [rates of mental illness, depression and suicide](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm) have increased.
+Rohr, from his home in Albuquerque, New Mexico, said that true evil is distinct from sin. True evil, Rohr said, is found in how humans corrupt the planet and politics. And COVID-19 has exacerbated existing evil. Rohr said the way in which COVID-19 has allowed ample time to be distracted from evil allows evil to flourish. When people are removed from meaning and direction in their life for an extended period of time in quarantine, [rates of mental illness, depression and suicide](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm) have increased.
 
-Before 1054, when there was still one single strain of Christianity, the first thousand years of Christianity’s existence relied on the assumption that there are three sources of evil: the world, the flesh and the devil. While God is not in this short list, God did create them. 
+Before 1054, when there was still one single strain of Christianity, the first thousand years of Christianity’s existence relied on the assumption that there are three sources of evil: the world, the flesh and the devil. While God is not in this short list, God did create them. 
 
 Rohr is a Franciscan priest serving the New Mexico province, as well as a Christian mystic. For the last 50 years, he has served as a priest and ecumenical teacher in 46 countries. From traveling in his career, he noticed that every place, regardless whether it had a Catholic or non-sectarian Christian base, struggled with discerning true evil from sin.
 
@@ -24,7 +25,7 @@ For example, both Judaism and Christianity uphold the 10 Commandments. These com
 
 “It doesn’t teach you how to be a person in a loving relationship with your partner,” Rohr said. “It doesn’t teach you how to be forgiving and affectionate. … It’s just getting us started by teaching us some impulse controls, … to limit the ego, to cut off the arrogance of the ego.”
 
-Referring to [Ken Wilbur’s four stages of human development](https://www.institute4learning.com/2020/02/05/the-stages-of-life-according-to-ken-wilber/), Rohr said that most religions are stuck in the first stage of creating values that outline a stark contrast between good and evil. Only 10% of people reach the third stage where they wake up and overcome the feeling of separateness from others and the world. Even less people reach the stage of showing up, where a person stops worrying about their own salvation and can focus on giving to other people.
+Referring to [Ken Wilbur’s four stages of human development](https://www.institute4learning.com/2020/02/05/the-stages-of-life-according-to-ken-wilber/), Rohr said that most religions are stuck in the first stage of creating values that outline a stark contrast between good and evil. Only 10% of people reach the third stage where they wake up and overcome the feeling of separateness from others and the world. Even less people reach the stage of showing up, where a person stops worrying about their own salvation and can focus on giving to other people.
 
 Rohr listed World War I, World War II, the Holocaust, ongoing racism that has been unchecked for most of history, sexism and homophobia as the true roots of evil.
 
@@ -44,7 +45,7 @@ Rohr said the first chapter of his book focuses on how minor sins overpower coll
 
 “This confusion of sin taking the place of real evil is why I think we got bored with the notion of evil, and ended up with the immense evils of the 20th century at every level,” Rohr said.
 
-The National Memorial for Peace and Justice, a museum in Montgomery, Alabama, dedicated to [lynching victims,](https://museumandmemorial.eji.org/) lists Black people who were lynched in counties — in places defined by their citizens’ Christian values — across the United States.
+The National Memorial for Peace and Justice, a museum in Montgomery, Alabama, dedicated to [lynching victims,](https://museumandmemorial.eji.org/) lists Black people who were lynched in counties — in places defined by their citizens’ Christian values — across the United States.
 
 “You have the list of all the names of the Black people who were lynched and hung publicly, (events where) I’m told people applauded,” Rohr said.
 

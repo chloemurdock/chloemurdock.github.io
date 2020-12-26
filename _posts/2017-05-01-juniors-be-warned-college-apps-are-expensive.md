@@ -4,8 +4,9 @@ title: "Juniors be warned: college apps are expensive"
 featured: false
 author: Chloe Murdock
 date: 2017-05-12 16:35
-image: /images/college-apps-are-expensive.png
+image: /assets/images/posts/college-apps-are-expensive.png
 tags: opinion high-school higher-education finance
+category: the-beacon
 ---
 
 **Originally published in 2017 May issue of The Beacon magazine for Olentangy High School**

@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2017-03-24 16:46
 tags: high-school news perspectives
+category: the-beacon
 ---
 
 **Originally published in 2017 March issue of The Beacon magazine for Olentangy High School**

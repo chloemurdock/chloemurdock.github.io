@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2015-09-22 16:05
 tags: High-school national-news outdoors hiking
+category: the-beacon
 ---
 
 **Originally published in 2015 September issue of The Beacon magazine for Olentangy High School**

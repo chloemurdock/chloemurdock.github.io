@@ -2,8 +2,9 @@
 layout: post
 title: A Medieval Club in No Man's Land
 date: 2018-11-14T01:14:00.000Z
-image: /images/medieval.jpg
+image: /assets/images/posts/medieval.jpg
 tags: The-Miami-Student-Newspaper Culture-section clubs profile
+category: the-miami-student
 ---
 Oxford, OHIO, USA—First-year Daniel Melson wanted to join something he, "could only do in college."
 

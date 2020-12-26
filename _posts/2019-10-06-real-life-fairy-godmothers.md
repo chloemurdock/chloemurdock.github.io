@@ -2,8 +2,9 @@
 layout: post
 title: Real-life fairy godmothers
 date: 2018-12-04T18:36:00.000Z
-image: /images/chloe_staff_student_interactions-minvert-1280x640.jpg
+image: /assets/images/posts/chloe_staff_student_interactions-minvert-1280x640.jpg
 tags: The-Miami-Student-Magazine profile workers creative-nonfiction
+category: the-miami-student
 ---
 Oxford, OHIO, UNITED STATES—A student once approached Vonda Reynolds with an odd question: Did Vonda want a cat?
 

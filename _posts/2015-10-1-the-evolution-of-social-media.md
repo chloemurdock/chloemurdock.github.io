@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2015-12-10 15:59
 tags: High-school social-media timeline
+category: the-beacon
 ---
 
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**
@@ -19,7 +20,7 @@ Late 1980s: CompuServe, a communication system reserved for business purposes, i
 
 1997: [SixDegrees.com](http://sixdegrees.com/) launches, based on the six degrees of separation theory: a person is a mere six steps away from being connected to any other given person. In 2000, the site shuts down; the failure is attributed to the over-spamming of users to invite friends.
 
-2002: [Friendster.com](http://www.friendster.com/) allows users to find friends in a similar matchmaking process to modern dating sites. When the social media aspect of the site lost considerable traffic, it focused on online games instead before shutting down in [2014](http://www.friendster.com/).
+2002: [Friendster.com](https://en.wikipedia.org/wiki/Friendster) allows users to find friends in a similar matchmaking process to modern dating sites. When the social media aspect of the site lost considerable traffic, it focused on online games instead before shutting down in [2014](https://en.wikipedia.org/wiki/Friendster).
 
 2003: LinkedIn and MySpace become popular. While MySpace fell from a household name to social networking for musicians and bands, LinkedIn continues to be a mainstream business networking tool.
 

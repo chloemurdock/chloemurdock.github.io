@@ -2,16 +2,17 @@
 layout: post
 title: Rabbi Naomi Levy says religious verses can uplift and unite the oppressed
 date: 2020-08-13 04:19
-image: /images/screen-shot-2020-11-22-at-4.19.40-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.19.40-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 Is religion the opiate of the masses, as Karl Marx said? Rabbi Naomi Levy doesn’t think so.
 
 “Religion can wake you up to your power,” Levy told her virtual lecture audience at 2 p.m. EDT Tuesday, Aug. 11. “It can spark uprisings. It can inspire revolutions. It can heal your soul. … The Bible is a dangerous book to anyone who wants to keep you down.”
 
-Levy pre-recorded her lecture, “[We Are All Reflections of the ONE: Bridging Distances Between Souls](https://assembly.chq.org/the-science-of-us/videos/we-are-all-reflections-of-the-one-bridging-distances-between-souls)” in the backyard of her home in Venice Beach, California. The discussion aligned with the Interfaith Lecture Series theme for Week Seven, “The Spirituality of Us.”
+Levy pre-recorded her lecture, “[We Are All Reflections of the ONE: Bridging Distances Between Souls](https://assembly.chq.org/the-science-of-us/videos/we-are-all-reflections-of-the-one-bridging-distances-between-souls)” in the backyard of her home in Venice Beach, California. The discussion aligned with the Interfaith Lecture Series theme for Week Seven, “The Spirituality of Us.”
 
-Levy is the founder of Nashuva, a Los Angeles-based outreach community for unaffiliated Jews. After graduating from The Jewish Theological Seminary’s Rabbinical School in the first class of women in its history, she became the first female conservative rabbi to lead a congregation on the West Coast. Levy has written four bestselling books, including her 2017 book *Einstein and the Rabbi: Searching for the Soul*, and through Nashuva she released an album of prayers this summer, “Heaven on Earth: Songs of the Soul.”
+Levy is the founder of Nashuva, a Los Angeles-based outreach community for unaffiliated Jews. After graduating from The Jewish Theological Seminary’s Rabbinical School in the first class of women in its history, she became the first female conservative rabbi to lead a congregation on the West Coast. Levy has written four bestselling books, including her 2017 book *Einstein and the Rabbi: Searching for the Soul*, and through Nashuva she released an album of prayers this summer, “Heaven on Earth: Songs of the Soul.”
 
 When visiting the Museum of the Bible after a Washington D.C. conference she attended in 2019, Levy discovered a version of the Bible that missionaries used specifically for enslaved people. Published in 1807, the Slave Bible was intended to not only “save” enslaved people from the religions that they grew up with, but to oppress them and prevent them from rising up against their masters.
 
@@ -27,7 +28,7 @@ Not found.
 
 “As we’ve been soul-searching the history of racism and injustice done to the Black community, this Slave Bible stands as a massive spiritual injustice of the highest order,” Levy said. “First, it’s an attempt to muzzle God, to put your hand over God’s mouth.”
 
-For Levy, the power of the Book of Psalms is in [Natan Sharansky’s](https://www.timesofisrael.com/natan-sharansky-gives-tips-for-quarantine-based-on-soviet-gulag/) reliance on it during his nine-year imprisonment in the former Soviet Union. In 1977, Sharansky was a Zionist activist who represented Jewish people in the Soviet Union who wanted to leave and move to Israel. The KGB sent him to a gulag for alleged high treason.
+For Levy, the power of the Book of Psalms is in [Natan Sharansky’s](https://www.timesofisrael.com/natan-sharansky-gives-tips-for-quarantine-based-on-soviet-gulag/) reliance on it during his nine-year imprisonment in the former Soviet Union. In 1977, Sharansky was a Zionist activist who represented Jewish people in the Soviet Union who wanted to leave and move to Israel. The KGB sent him to a gulag for alleged high treason.
 
 He was at first sentenced to 13 years in prison. Throughout that time, in the United States, Levy and other Jewish people protested his imprisonment as well as the Soviet Union’s treatment of Jews, who were forced to practice their religion, language and culture in secret.
 

@@ -4,8 +4,9 @@ title: Haikus to summarize senior year
 featured: false
 author: Chloe Murdock
 date: 2016-05-13 16:29
-image: /images/haikus.webp
+image: /assets/images/posts/haikus.webp
 tags: high-school poems satire
+category: the-beacon
 ---
 **Originally published in 2016 May issue of The Beacon magazine for Olentangy High School**
 

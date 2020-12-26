@@ -2,8 +2,9 @@
 layout: post
 title: Oxford pantry inches toward $1M finish line with donations from Greek 5K
 date: 2019-10-22T13:00:00.000Z
-image: /images/sororun.jpg
+image: /assets/images/posts/sororun.jpg
 tags: The-Miami-Student-Newspaper news-section food-pantry
+category: the-miami-student
 ---
 The race started not with a bang, but with a classic “On your marks, get set, go!” from junior Claire Drew, Panhellenic Council’s vice president for service and philanthropy. 
 

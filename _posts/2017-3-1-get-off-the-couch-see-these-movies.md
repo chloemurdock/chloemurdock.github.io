@@ -4,12 +4,13 @@ title: Get off the couch, see these movies
 featured: false
 author: Chloe Murdock
 date: 2015-12-11 16:44
-image: /images/movies-image.webp
+image: /assets/images/posts/movies-image.webp
 tags: high-school entertainment film critique
+category: the-beacon
 ---
 **Originally published in 2015 December issue of The Beacon magazine for Olentangy High School**
 
-![Before-I-Fall](/images/posts/before-i-fall.jpg){:class="img-responsive"}
+![Before-I-Fall](/assets/images/posts/before-i-fall.jpg){:class="img-responsive"}
 
 **"[Before I Fall](https://www.youtube.com/watch?v=q3Zyy4ZXegE)" (PG-13)** — three-point-five stars out of five
 
@@ -17,7 +18,7 @@ A popular girl lives the same day over and over after experiencing a tragedy and
 
 Concession recommendation: Pregame for this serious “Mean Girls”-esque movie with the latest seasonal Starbucks drink, then get basic white girl concessions: a small cherry ICEE and a box candy of your choice.
 
-![Get-Out-Movie](/images/posts/get-out.png){:class="img-responsive"}
+![Get-Out-Movie](/assets/images/posts/get-out.png){:class="img-responsive"}
 
 **"[Get Out](https://www.youtube.com/watch?v=sRfnevzM9kQ)" (R)** — five stars out of five
 
@@ -25,7 +26,7 @@ Chris’ girlfriend takes him to her white parents’ plantation house, where hi
 
 Concession recommendation: Stress eat all your popcorn in the first scene so you don’t jump during a scary moment later and spill it everywhere.
 
-![Logan-Movie](/images/posts/logan-movie.webp){:class="img-responsive"}
+![Logan-Movie](/assets/images/posts/logan-movie.webp){:class="img-responsive"}
 
 **"[Logan](https://www.youtube.com/watch?v=Div0iP65aZo)" (R)** — four stars out of five
 
@@ -33,7 +34,7 @@ Aging Wolverine and Professor Xavier drive across the country with Hispanic muta
 
 Concession recommendation: Superheroes go big or go home, and so should you with the large drink and popcorn combo.
 
-![John-Wick-2](/images/posts/john-wick-2-movie.webp){:class="img-responsive"}
+![John-Wick-2](/assets/images/posts/john-wick-2-movie.webp){:class="img-responsive"}
 
 **"[John Wick Chapter Two](https://www.youtube.com/watch?v=ChpLV9AMqm4)" (R)** — two stars out of five
 

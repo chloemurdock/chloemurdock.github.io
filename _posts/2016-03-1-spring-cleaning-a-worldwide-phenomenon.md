@@ -5,6 +5,7 @@ featured: false
 author: Chloe Murdock
 date: 2016-03-22 16:24
 tags: Perspectives International
+category: the-beacon
 ---
 
 **Originally published in 2016 March issue of The Beacon magazine for Olentangy High School**

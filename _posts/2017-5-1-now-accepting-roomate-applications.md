@@ -4,8 +4,9 @@ title: Now accepting roommate applications
 featured: false
 author: Chloe Murdock
 date: 2017-05-12 16:49
-image: /images/roomate-image.webp
+image: /assets/images/posts/roomate-image.webp
 tags: high-school satire college-applications
+category: the-beacon
 ---
 
 **Originally published in 2017 May issue of The Beacon magazine for Olentangy High School**

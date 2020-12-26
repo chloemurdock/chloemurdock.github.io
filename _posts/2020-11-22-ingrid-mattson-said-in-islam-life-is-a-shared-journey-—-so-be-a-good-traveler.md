@@ -2,16 +2,17 @@
 layout: post
 title: Ingrid Mattson said in Islam, life is a shared journey — so be a good traveler
 date: 2020-08-16 04:15
-image: /images/screen-shot-2020-11-22-at-4.15.34-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.15.34-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
-“Be in this world as if you are a traveler” is a teaching from Islam prophet Muhammad. [In her lecture](https://assembly.chq.org/the-science-of-us/videos/be-in-this-world-as-if-you-are-a-traveler) of the same name, [Ingrid Mattson](https://chqdaily.com/2020/08/islamic-society-of-north-america-president-ingrid-mattson-to-bridge-differences-in-religions-communities-in-interfaith-lecture/) explored what it means from an Islamic perspective for people to be spiritually united.
+“Be in this world as if you are a traveler” is a teaching from Islam prophet Muhammad. [In her lecture](https://assembly.chq.org/the-science-of-us/videos/be-in-this-world-as-if-you-are-a-traveler) of the same name, [Ingrid Mattson](https://chqdaily.com/2020/08/islamic-society-of-north-america-president-ingrid-mattson-to-bridge-differences-in-religions-communities-in-interfaith-lecture/) explored what it means from an Islamic perspective for people to be spiritually united.
 
-Her lecture was broadcast at 2 p.m. EDT Thursday, Aug. 13, on the [CHQ Assembly Video Platform](https://assembly.chq.org/the-science-of-us/videos/be-in-this-world-as-if-you-are-a-traveler). Recorded in Mattson’s home in London, Ontario, her lecture aligned with the Interfaith Lecture Series theme for Week Seven, “The Spirituality of Us.”
+Her lecture was broadcast at 2 p.m. EDT Thursday, Aug. 13, on the [CHQ Assembly Video Platform](https://assembly.chq.org/the-science-of-us/videos/be-in-this-world-as-if-you-are-a-traveler). Recorded in Mattson’s home in London, Ontario, her lecture aligned with the Interfaith Lecture Series theme for Week Seven, “The Spirituality of Us.”
 
-Mattson is the president of the Islamic Society of North America. She also serves as the London and Windsor Community Chair in Islamic Studies at Huron University College, the oldest affiliate college of Western University in Canada.
+Mattson is the president of the Islamic Society of North America. She also serves as the London and Windsor Community Chair in Islamic Studies at Huron University College, the oldest affiliate college of Western University in Canada.
 
-In July, Mattson said she was struck by an *Architectural Digest* article that recommended [41 design shows available on streaming services](https://www.architecturaldigest.com/story/design-shows-to-binge-over-the-holidays). It demonstrated a new shared interest in not only spending time at home, but investing in the home and family. 
+In July, Mattson said she was struck by an *Architectural Digest* article that recommended [41 design shows available on streaming services](https://www.architecturaldigest.com/story/design-shows-to-binge-over-the-holidays). It demonstrated a new shared interest in not only spending time at home, but investing in the home and family. 
 
 Mattson said that while there was an existing desire for consuming the latest products, this energy has been redirected into the home. Breadmakers. Swing sets. Swimming pools. Gardens.
 
@@ -31,7 +32,7 @@ While the pandemic continues, Mattson said people who were previously defined by
 
 “Until the lockdown, many of us found it unremarkable that we could frequent malls and amusement parks, restaurants and music venues. The privileged were taking the world as their oyster, taking cruises, safaris, study tours, sporting holidays, trips to the beach,” Mattson said. “And before the lockdown, the world’s disadvantaged were struggling to flee their homes, to escape political oppression and violent occupation, to move to higher ground, or to find a source of water as climate change has rendered their homes unlivable.”
 
-For the displaced, Mattson said the pandemic has exacerbated their conditions. And prior to the pandemic, the United States had been gradually closing its borders to others who seek to migrate or flee their home countries while simultaneously strong-arming other countries to allow U.S. intervention. Now, U.S. citizens are seeing [their international travel options contract](https://www.travelandleisure.com/travel-news/where-can-americans-travel-right-now-a-country-by-country-guide) as COVID-19 continues to spread in the United States.
+For the displaced, Mattson said the pandemic has exacerbated their conditions. And prior to the pandemic, the United States had been gradually closing its borders to others who seek to migrate or flee their home countries while simultaneously strong-arming other countries to allow U.S. intervention. Now, U.S. citizens are seeing [their international travel options contract](https://www.travelandleisure.com/travel-news/where-can-americans-travel-right-now-a-country-by-country-guide) as COVID-19 continues to spread in the United States.
 
 “So many of us in the Western world feel entitled to have both a national home that is ours, from which others are locked out, and the right to exploit the rest of the world,” Mattson said. “We demand that other nations remove their barriers to what we want. We should be able to exploit their markets, their natural resources, and we should be able to carry our ideologies and culture to their people without restriction.”
 
@@ -55,11 +56,11 @@ Returning to Muhammad’s teaching on moving through the world as a traveler, Ma
 
 “There are so many people who would like to move to safety or like us, who like to explore human culture through education, or the natural world through travel. But their paths are blocked by barriers placed by others,” Mattson said. “To remove a branch, to make the path smoother, to clear it, is an act of charity.”
 
-Mattson said in the 2012 documentary [“Never Sorry,” about artist and activist Ai Weiwei](http://www.aiweiweineversorry.com/), a group of cats lived in Weiwei’s Beijing studio. To go outside, a cat had to jump up and hit a lever to open the door. Only one cat was ever successful in hitting the lever after a few tries. When he did, instead of turning and closing the door, he left it open for all the other cats to follow him out each day.
+Mattson said in the 2012 documentary [“Never Sorry,” about artist and activist Ai Weiwei](http://www.aiweiweineversorry.com/), a group of cats lived in Weiwei’s Beijing studio. To go outside, a cat had to jump up and hit a lever to open the door. Only one cat was ever successful in hitting the lever after a few tries. When he did, instead of turning and closing the door, he left it open for all the other cats to follow him out each day.
 
 “Cats, unlike people, never close the door after them,” Weiwei said.
 
-Weiwei has since focused his work on human migration. In 2017, he made the documentary [“Human Flow](https://www.humanflow.com/).”
+Weiwei has since focused his work on human migration. In 2017, he made the documentary [“Human Flow](https://www.humanflow.com/).”
 
 “(Migrants, refugees and asylum seekers) are blocked from the natural flow of human beings that has occurred since humans were first on this earth,” Mattson said. “And we know that for a fact. From archaeology, from looking at where human beings are across the world, we know that human beings have been in movement from the beginning. And now we have this situation where we have hard barriers and people can’t move anymore.”
 
@@ -69,7 +70,7 @@ Mattson said the pandemic has kept everyone stuck in place, but nationalists and
 
 Nations have a “mythic, fabricated ‘us,’” which some of its people build a purpose onto identities that can be hateful.
 
-“I say it’s fictional because [a quick genetic test](https://www.scientificamerican.com/article/white-nationalists-are-flocking-to-genetic-ancestry-tests-with-surprising-results/) would probably prove that a lot of people’s claims are incorrect,” Mattson said.
+“I say it’s fictional because [a quick genetic test](https://www.scientificamerican.com/article/white-nationalists-are-flocking-to-genetic-ancestry-tests-with-surprising-results/) would probably prove that a lot of people’s claims are incorrect,” Mattson said.
 
 Culture also constantly changes, yet Mattson said no one can resist attaching meaning to these identities.
 
@@ -85,7 +86,7 @@ The Qur’an stands in contrast to the empires of Babylonians, Sasanians, Sumeri
 
 The children of Adam, humans, can return to the original source of goodness for unity. Mattson said that people connect to others to access this on Earth, whether at a place of worship or a musical experience.
 
-People are born into specific times and specific places, which Mattson said makes people both similar and different at the same time. And the diversity of people is celebrated in the Qur’an. 
+People are born into specific times and specific places, which Mattson said makes people both similar and different at the same time. And the diversity of people is celebrated in the Qur’an. 
 
 “Our very diversity is the starting point for knowledge in ourselves and others,” Mattson said, and uncovering the history of humanity and movement of people leads back to the common origin of the divine.
 

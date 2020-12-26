@@ -2,8 +2,9 @@
 layout: post
 title: Kosovo. "Where is that?"*
 date: 2019-09-25T18:53:00.000Z
-image: /images/peje.png
+image: /assets/images/posts/peje.png
 tags: The-Miami-Student-Newspaper travel-section Kosovo
+category: the-miami-student
 ---
 The country was a big, black box of uncertainty to my family and friends before I landed in the capital city of Pristina last May. At times I simply said, “It’s in eastern Europe,” and the conversation ended.
 

@@ -1,0 +1,34 @@
+<div class="postCard">
+    <div class="margin-y">
+        <div class="row">
+            <div class="col col--one-half">
+                <h1 class="postCard--header">{{page.title}}</h1>
+                <h3 >{{page.role}}</h3>
+                <h4>{{page.timeInPosition}}</h4>
+            </div>
+            <div class="col col--one-half">
+                <p>{{page.description}}</p>
+            </div>
+        </div>
+    </div>
+    <div>
+        <img src="{{page.image}}">
+    </div>
+</div>
+    
+  
+  <br/>
+  
+  <div class="articlewrap">
+    <div class="grid">
+      {% for post in site.posts %}
+      {% if post.category contains categorySlugged %}
+      <div class="item">
+        
+        {% include postCard.html %}
+  
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>

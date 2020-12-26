@@ -7,7 +7,7 @@ resources:
       - URL: https://www.google.com/earth/
         title: Google Earth — Dynamic data maps
       - URL: https://www.sourcemap.com/
-        title: sourcemap.com — supply chain mapping
+        title: sourcemap.com — supply chain mapping
       - URL: https://www.mindmeister.com/?utm_source=google&utm_medium=cpc&utm_campaign=us_en_search&utm_content=mm&gclid=EAIaIQobChMInOiM98Tb5QIVgq_sCh2ElwxNEAAYASAAEgI6lvD_BwE
         title: mindmeister.com — mind mapping software
       - URL: https://lukasmurdock.com/resources/

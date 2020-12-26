@@ -3,16 +3,17 @@ layout: post
 title: Linda K Wertheimer digs into Jewish childhood and cross-country student
   interviews and finds clear need for religious literacy education
 date: 2020-08-02 04:24
-image: /images/screen-shot-2020-11-22-at-4.25.20-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.25.20-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 On the day of the Chabad of Poway synagogue shooting on April 27, 2019, the late Lori Gilbert Kaye was there to sing the mourner’s kaddish in honor of her late mother.
 
 “(The shooter) killed someone who could’ve been me,” Linda K. Wertheimer said. “I am a Jew. I go to the temple every morning to sing the mourner’s kaddish.”
 
-Wertheimer gave her lecture, “[From Fear to Hope: Childhood Experiences with Anti-Semitism/How to Teach Respect](https://assembly.chq.org/interfaith-lecture-series/videos/from-fear-to-hope-childhood-experiences-with-anti-semitism-spark-investigation-of-how-to-teach-respect-for-all-faiths),” as part of Week Six’s Interfaith Lecture Series theme, “Lessons in the School House.” After the lecture, which took place on Wednesday, Aug. 5, on the CHQ Assembly Video Platform, Wertheimer answered questions from Vice President of Religion and Senior Pastor Gene Robinson, who delivered questions through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal and on Twitter with #CHQ2020.
+Wertheimer gave her lecture, “[From Fear to Hope: Childhood Experiences with Anti-Semitism/How to Teach Respect](https://assembly.chq.org/interfaith-lecture-series/videos/from-fear-to-hope-childhood-experiences-with-anti-semitism-spark-investigation-of-how-to-teach-respect-for-all-faiths),” as part of Week Six’s Interfaith Lecture Series theme, “Lessons in the School House.” After the lecture, which took place on Wednesday, Aug. 5, on the CHQ Assembly Video Platform, Wertheimer answered questions from Vice President of Religion and Senior Pastor Gene Robinson, who delivered questions through the *[www.questions.chq.org](http://www.questions.chq.org/)* portal and on Twitter with #CHQ2020.
 
-In 2017, Wertheimer was a writer-in-residence for a week at Chautauqua, but her earliest memory on the grounds is visiting with her parents to see Margaret Mead speak. Wertheimer is a veteran journalist, essayist and award-winning education writer. Her lecture pulled from personal experiences and cross-country reporting on religion in schools for her book, [*Faith Ed: Teaching about Religion in an Age of Intolerance*.](https://www.chautauquabookstore.com/book/9780807055274)
+In 2017, Wertheimer was a writer-in-residence for a week at Chautauqua, but her earliest memory on the grounds is visiting with her parents to see Margaret Mead speak. Wertheimer is a veteran journalist, essayist and award-winning education writer. Her lecture pulled from personal experiences and cross-country reporting on religion in schools for her book, [*Faith Ed: Teaching about Religion in an Age of Intolerance*.](https://www.chautauquabookstore.com/book/9780807055274)
 
 “I know when it comes to religious bigotry, Jews are not the only target,” Wertheimer said. “Muslims, Sikhs and Hindus have also faced harassment because they are often seen as the Other in our predominantly Christian country.”
 
@@ -66,11 +67,11 @@ In her interviews with people who opposed classes like the one at Wellesley, she
 
 Most objected to Islam in particular being taught. Controversy erupted in Lumberton, Texas, when teacher Sharon Peters’ geography lesson included trying on a burka, and in Tampa, Florida, when protests continued a month after Imam Hassan Shibly, who is also a lawyer, was a guest speaker for a religion course.
 
-In Modesto, part of the Bible Belt of California, high school students are required to take a world religions course to graduate. While it’s never been very controversial, the occasional Evangelical Christian family or atheist student does object, but most comply. 
+In Modesto, part of the Bible Belt of California, high school students are required to take a world religions course to graduate. While it’s never been very controversial, the occasional Evangelical Christian family or atheist student does object, but most comply. 
 
 One 14-year-old Pentecostal Christian student in the course was taught in church to shun religious idols — the Modesto teacher lined her windowsill with statues from different religions — and to fear other religions. But she also wanted to get an A in the course. When Wertheimer interviewed her a decade later, the student was no longer so afraid of other religions.
 
-On the day of the Tree of Life Synagogue shooting, Wertheimer was hesitant to explain it to her 10-year-old son Simon. A few years before, his dad had read *My Grandfather Has a Tattoo* to Simon before telling him about Simon’s paternal grandmother, who survived the Holocaust and lost her parents and brother to the Nazis.
+On the day of the Tree of Life Synagogue shooting, Wertheimer was hesitant to explain it to her 10-year-old son Simon. A few years before, his dad had read *My Grandfather Has a Tattoo* to Simon before telling him about Simon’s paternal grandmother, who survived the Holocaust and lost her parents and brother to the Nazis.
 
 Wertheimer and her husband want Simon to understand his role in repairing the world, but Simon is now in seventh grade and has gone without religious course offerings.
 

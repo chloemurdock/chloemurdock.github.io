@@ -2,8 +2,9 @@
 layout: post
 title: History in the making underpins Interfaith Lecture Series
 date: 2020-06-27 12:55
-image: /images/screen-shot-2020-06-29-at-12.58.20-pm.png
+image: /assets/images/posts/screen-shot-2020-06-29-at-12.58.20-pm.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 Human rights. Public health. Climate change. The novel coronavirus pandemic has exacerbated and exposed these issues.
 

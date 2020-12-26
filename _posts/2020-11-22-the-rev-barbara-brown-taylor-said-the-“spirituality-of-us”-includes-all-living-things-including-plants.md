@@ -3,8 +3,9 @@ layout: post
 title: The Rev. Barbara Brown Taylor said the “spirituality of us” includes all
   living things, including plants
 date: 2020-08-12 04:20
-image: /images/screen-shot-2020-11-22-at-4.21.01-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-4.21.01-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 Whether a person joins a 12-step Alcoholics Anonymous program or a social movement, whether they start a family or a nonprofit, whether they speak to people or trees, the Rev. Barbara Brown Taylor said that while not everyone believes in a god, it is harder to live without the sacredness found in a group.
 
@@ -14,7 +15,7 @@ No Q-and-A followed the lecture due to internet connection issues, since Taylor 
 
 “It was just a living example of how we’re all in this together,” Robinson said.
 
-This was not Taylor’s first time speaking for the Interfaith Lecture Series. Taylor is an Episcopal priest, religions professor, and *New York Times* bestselling author who has also served as chaplain of the week five times at Chautauqua, and who in 2014 was a recipient of the President’s Medal. Instead of speaking in the Hall of Philosophy this year, Taylor pre-recorded her lecture in the hall of her ironing room.
+This was not Taylor’s first time speaking for the Interfaith Lecture Series. Taylor is an Episcopal priest, religions professor, and *New York Times* bestselling author who has also served as chaplain of the week five times at Chautauqua, and who in 2014 was a recipient of the President’s Medal. Instead of speaking in the Hall of Philosophy this year, Taylor pre-recorded her lecture in the hall of her ironing room.
 
 > Her testimony helped me realize that a spirituality of ‘us’ isn’t a luxury item for people who have all their basic needs handled,” Taylor said. “It’s a lifeline for people whose single-propeller modes of being have sputtered at alarming heights, leaving them with nothing but the sound of wind whistling in their ears.”
 
@@ -50,7 +51,7 @@ Now, in the country, Ed has plenty of room. Taylor said people often ask her if 
 
 “I guess you could decide that a spirituality of us ought to rise above that somehow, or try to change it,” Taylor said. “Right now, I’m just trying to see my own predation and keep it in check.”
 
-The Bible also states that God loves the stranger as much as the tribe. Deuteronomy calls for not only the orphan and the widow to be taken in and cared for, but also the  able-bodied stranger.
+The Bible also states that God loves the stranger as much as the tribe. Deuteronomy calls for not only the orphan and the widow to be taken in and cared for, but also the  able-bodied stranger.
 
 “It’s because the stranger doesn’t have anyone,” Taylor said. “Like the widow and the orphan, the stranger’s kinship bonds are hanging by a thread. … So the divine arm goes out and draws the stranger in, commanding the tribe to see the likeness, not the difference.”
 
@@ -66,7 +67,7 @@ However, Taylor said that religious exclusivity has instilled a fear in some fol
 
 “That’s why I’ve settled for blood and bones as what makes us, ‘us,’” Taylor said.
 
-But to include plants in “us,” she said she settles on “life” as a good definition. While searching years ago for a new creation story that encompassed all others from a scientific view, she found her answer in bone composition. Astrophysicist [Neil DeGrasse Tyson said that the chemical elements of bones and all life came from literal stardust](https://www.huffpost.com/entry/neil-degrasse-tyson-origins-atomic-elements-bodies_n_3117063).
+But to include plants in “us,” she said she settles on “life” as a good definition. While searching years ago for a new creation story that encompassed all others from a scientific view, she found her answer in bone composition. Astrophysicist [Neil DeGrasse Tyson said that the chemical elements of bones and all life came from literal stardust](https://www.huffpost.com/entry/neil-degrasse-tyson-origins-atomic-elements-bodies_n_3117063).
 
 “When I take in this 14-billion-year-old history, which has more good guesses in it than facts, one of the more stunning reveals is that in us, the universe has become conscious of itself,” Taylor said.
 

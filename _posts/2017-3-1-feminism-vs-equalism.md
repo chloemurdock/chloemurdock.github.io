@@ -5,6 +5,7 @@ featured: true
 author: Chloe Murdock
 date: 2017-03-10 16:43
 tags: high-school letter-from-the-editor opinion feminism
+category: the-beacon
 ---
 **This is a full version of my letter from the editor, which was originally published and cut down due to spacing issues in the March 2017 issue of The Beacon. This is a response to a letter to the editor from a student who did not agree with our feminism in-depth spread.**
 

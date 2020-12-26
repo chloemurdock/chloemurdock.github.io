@@ -2,8 +2,9 @@
 layout: post
 title: Dr. Robert J. Wicks touches on burnout, resiliency and how to kindle self care
 date: 2020-08-29 09:00
-image: /images/screen-shot-2020-11-22-at-3.50.16-am.png
+image: /assets/images/posts/screen-shot-2020-11-22-at-3.50.16-am.png
 tags: CHQ
+category: the-chautauquan-daily
 ---
 A computer screen separated clinical psychologist Dr. Robert J. Wicks and his audience, but it didn’t phase him. From his Pennsylvania home, he looked at the camera and spoke directly to people experiencing secondary stress and burnout in ministry roles and as physicians, nurses, educators, counselors, psychiatrists, psychologists, social workers and “people like yourselves.”
 
@@ -11,7 +12,7 @@ His second expertise is resiliency psychology and spirituality, “which is desi
 
 At 2 p.m. EDT Thursday, Aug. 27, Wicks discussed the ways he has guided people as a psychologist and consultant bent toward the spiritual in self-care and resiliency — and how people can put these in practice — in his lecture titled “Night Call: Embracing Compassion and Hope in a Troubled World.”
 
-His lecture marked the end of the 2020 season’s Interfaith Lecture Series, and the Week Nine theme of “The Future We Want, The World We Need.” Wicks is also a recipient of the Holy Cross *Pro Ecclesia et Pontifice*, the highest honor from the Pope for service to the Catholic Church. In his lecture, Wicks discussed topics from his most recent book *[Night Call: Embracing Compassion and Hope in a Troubled World](https://www.chautauquabookstore.com/book/9780190669638)*. It touches on secondary stress and burnout in roles of both physical and emotional service to others and how a person can deepen their inner life.
+His lecture marked the end of the 2020 season’s Interfaith Lecture Series, and the Week Nine theme of “The Future We Want, The World We Need.” Wicks is also a recipient of the Holy Cross *Pro Ecclesia et Pontifice*, the highest honor from the Pope for service to the Catholic Church. In his lecture, Wicks discussed topics from his most recent book *[Night Call: Embracing Compassion and Hope in a Troubled World](https://www.chautauquabookstore.com/book/9780190669638)*. It touches on secondary stress and burnout in roles of both physical and emotional service to others and how a person can deepen their inner life.
 
 He recited a quote from Nobel Peace Prize winner Albert Schweitzer: “I don’t know what your destiny will be, but one thing I know: The only ones among you who will be really happy are those who will have sought and found how to serve.”
 
@@ -23,11 +24,11 @@ Wicks expanded his lecture at Chautauqua to talk about burnout.
 
 “The seeds of compassion and the seeds of burnout are the same seeds,” Wicks said. “Everyone who cares needs to be concerned, not just professional helpers and healers. It’s my belief that for every spiritually committed, compassionate person experiencing significant stress, there’s at least a dozen of us experiencing at least some form of spiritual and psychological burnout.”
 
-Wicks observes guilt when working with nurses and physicians because they can’t save everyone, and in the case of COVID-19, [hospitals often don’t have enough equipment to accommodate the high volume of patients](https://www.npr.org/2020/04/21/839522355/why-hospitals-still-dont-have-enough-supplies-to-test-for-covid-19). Health care workers also worried about infecting their family.
+Wicks observes guilt when working with nurses and physicians because they can’t save everyone, and in the case of COVID-19, [hospitals often don’t have enough equipment to accommodate the high volume of patients](https://www.npr.org/2020/04/21/839522355/why-hospitals-still-dont-have-enough-supplies-to-test-for-covid-19). Health care workers also worried about infecting their family.
 
-“Most often, stress is a development rather than a cataclysmic event,” Wicks said. 
+“Most often, stress is a development rather than a cataclysmic event,” Wicks said. 
 
-After giving a talk in South Africa about his book *Perspective*, a woman approached him and said she couldn’t keep going as a social worker who specializes in helping women who have been sexually and physically abused. The women, who were often poor single moms, had to take off work to go to court. Then the often-male judge would look at the documents and cancel the court date, and would say to make another appointment. The social worker saw herself as a failure.
+After giving a talk in South Africa about his book *Perspective*, a woman approached him and said she couldn’t keep going as a social worker who specializes in helping women who have been sexually and physically abused. The women, who were often poor single moms, had to take off work to go to court. Then the often-male judge would look at the documents and cancel the court date, and would say to make another appointment. The social worker saw herself as a failure.
 
 But Wicks said that she was there for these women when no one else was.
 
@@ -41,7 +42,7 @@ When Wicks worked with surgical residents, he started with telling them that the
 
 “Maybe not through malpractice, but certainly through mispractice, because it is impossible to be at an A-level 100% of the time,” Wicks said. “But commitment is expected of us.”
 
-Wicks described Rabbi Tarfon as a contemporary of Jesus, and quoted him as  saying: “The day is short, the work is great, the labors are sluggish and the wages aren’t high and the master of the house is insistent. It is not our duty to finish the work, but you are not free to neglect it.”
+Wicks described Rabbi Tarfon as a contemporary of Jesus, and quoted him as  saying: “The day is short, the work is great, the labors are sluggish and the wages aren’t high and the master of the house is insistent. It is not our duty to finish the work, but you are not free to neglect it.”
 
 In terms of addressing wounds with God, Wicks said it was important to attribute them correctly.
 
