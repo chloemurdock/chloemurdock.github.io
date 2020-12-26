@@ -88,3 +88,5 @@ collections:
         file: "/_config.yml"
         fields:
           - {label: "Description", name: "description", widget: "string"}
+          - {label: "Homepage Text", name: "homepageText", widget: "string"}
+          - {label: "Footer Text", name: "footerText", widget: "string"}
