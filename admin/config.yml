@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: github
   repo: chloemurdock/chloemurdock.github.io
   branch: master
   site_domain: chloemurdock.com
