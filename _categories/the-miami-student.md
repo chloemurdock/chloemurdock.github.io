@@ -2,7 +2,7 @@
 showInNav: true
 color: "#4A5568"
 layout: category
-title: The Miami Student
+title: The Miami Student media
 role: Magazine Editor-in-Chief, Newspaper Writer
 timeInPosition: 2017 - Present
 description: Established in 1826, TMS is the oldest college newspaper west of
