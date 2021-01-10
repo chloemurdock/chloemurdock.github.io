@@ -90,6 +90,9 @@ resources:
         title: How Times Journalists Become Experts on a Subject
       - URL: http://www.paulgraham.com/genius.html
         title: "Blog: The Bus Ticket Theory of Genius"
+      - title: '"We Didn’t Know How to Promote a Podcast. So Here’s All We Learned" —
+          from Buffer'
+        URL: https://buffer.com/library/promote-a-podcast/
     type: Articles to return to
   - list:
       - title: "Out on the Wire: Uncovering the Secrets of Radio's New Masters of Story
