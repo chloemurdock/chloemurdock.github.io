@@ -22,6 +22,8 @@ resources:
         title: Shutterstock's 2020 creative trends
       - title: How to mass-delete emails in Gmail
         URL: https://www.thatsjournal.com/email-marketing/how-to-delete-all-read-and-unread-emails-from-tabs-in-gmail
+      - title: NPR schedule
+        URL: https://www.wyso.org/schedule#weekly-schedule
     type: Links
   - list:
       - URL: https://www.nytimes.com/
