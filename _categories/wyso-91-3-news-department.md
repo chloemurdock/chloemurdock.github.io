@@ -8,6 +8,6 @@ description: Drafting news copy that hosts read live in between segments |
   play on-air | Pitched donations live on-air during Spring Fundraising Drive
 order: 7
 date: 2021-03-15
-image: /assets/images/wyso.jpeg
+image: /assets/images/wyso-hero.png
 ---
 {% assign categorySlugged = page.title | slugify %}{% include category.html %}
