@@ -30,6 +30,8 @@ resources:
         title: The New York Times
       - URL: https://www.npr.org/
         title: NPR
+      - title: 91.3 WYSO
+        URL: https://www.wyso.org/
       - URL: https://www.wsj.com/?mod=wsj_secondlogin_swsl17
         title: The Wall Street Journal
       - URL: https://balkaninsight.com/kosovo-home/
@@ -100,10 +102,10 @@ resources:
       - title: "Out on the Wire: Uncovering the Secrets of Radio's New Masters of Story
           with Ira Glass — Jessica Abel"
         URL: https://www.goodreads.com/en/book/show/23742836-out-on-the-wire
-      - URL: https://www.goodreads.com/book/show/3228917-outliers
-        title: "Outliers: The Story of Success — Malcolm Gladwell"
       - URL: https://www.goodreads.com/book/show/40121378-atomic-habits
         title: Atomic Habits — James Clear
+      - URL: https://www.goodreads.com/book/show/3228917-outliers
+        title: "Outliers: The Story of Success — Malcolm Gladwell"
       - URL: https://www.goodreads.com/book/show/1000.Millionaire_Women_Next_Door?ac=1&from_search=true&qid=LknA06lIzS&rank=1
         title: "Millionaire Women Next Door: The Many Journeys of Successful American
           Businesswomen — Thomas J. Stanley"
@@ -111,8 +113,6 @@ resources:
         title: On Speaking Well — Peggy Noonan
       - URL: https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl
         title: "Anne Frank: The Diary of a Young Girl — Anne Frank"
-      - URL: https://www.goodreads.com/book/show/1617.Night
-        title: Night — Elie Wiesel
     type: Support your local bookstore — Nonfiction
   - list:
       - title: The Vanishing Half — Brit Bennet
