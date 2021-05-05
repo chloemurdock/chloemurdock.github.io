@@ -4,7 +4,7 @@ title: Switch to Federal Funding Narrows Free-For-All Vaccinations in Oxford
 category: WYSO 91.3 News Department
 date: 2021-03-29 22:22
 image: /assets/images/posts/oxford-vax-site.png
-tags: COVID-19
+tags: WYSO 91.3 News Department
 ---
 CAPTION: A line of people in Oxford, Ohio, wraps around the parking lot of a vaccination site located at Talawanda Middle School on March 17. Before the vaccine provider, Primary Health Solutions, restricted its vaccine rollout to its underserved patients, people of varying age and health were showing up to the site without an appointment.
 
