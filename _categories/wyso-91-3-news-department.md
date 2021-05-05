@@ -1,6 +1,6 @@
 ---
 layout: category
-title: WYSO 91.3 News Department
+title: 91.3 WYSO News Department
 role: Production Assistant
 timeInPosition: February 2021 - Present
 description: WYSO is the NPR news station in Greater Dayton, Ohio. I have been
