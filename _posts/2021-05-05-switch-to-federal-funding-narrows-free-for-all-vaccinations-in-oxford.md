@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switch to Federal Funding Narrows Free-For-All Vaccinations in Oxford
-category: WYSO 91.3 News Department
+category: 91-3-wyso-News-Department
 date: 2021-03-29 22:22
 image: /assets/images/posts/oxford-vax-site.png
 tags: WYSO 91.3 News Department
