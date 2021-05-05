@@ -3,12 +3,11 @@ layout: category
 title: WYSO 91.3 News Department
 role: Production Assistant
 timeInPosition: February 2021 - Present
-description: Interviewing sources remotely using Skype, ZenCastr, and phone and
-  in person with field recording equipment | Editing together voices for vox pop
-  stories, drafting cut & copy stories and clipping soundbites of sources to
-  play on-air | Drafting news copy that hosts read live in between segments |
-  Adding context to Grove webpages of audio stories | Pitched donating to public
-  radio live on-air during Spring Fundraising Drive
+description: WYSO is the NPR news station in Greater Dayton, Ohio. I have been
+  writing reader copy, cut & copies, vox pops and original reporting stories for
+  the news department. I also re-format audio stories into web stories to post
+  on NPR's Grove site and have gained experience with field recording equipment
+  and Hindenburg audio editing software.
 order: 1
 date: 2021-03-15
 image: /assets/images/wyso-hero.png
