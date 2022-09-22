@@ -8,7 +8,7 @@ description: Crafting articles covering state legal news and law firm business
   monthly POWER List honorees | Maintaining a network of sources virtually and
   in person and ensuring that the publication is serving its intended audience |
   Copyediting and proofreading the weekly publication and special sections
-order: -23
+order: 6
 date: 2022-09-21
 image: /assets/images/mlm_social_logo-1.webp
 ---
