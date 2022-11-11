@@ -4,7 +4,7 @@ color: "#4A5568"
 layout: category
 title: The Miami Student
 role: Magazine Editor-in-Chief, Newspaper Writer
-timeInPosition: 2017 - Present
+timeInPosition: 2017 - 2021
 description: Established in 1826, TMS is the oldest college newspaper west of
   the Alleghenies. My work at TMS involved writing and editing long-form
   creative nonfiction stories for the magazine. I also contributed a variety of
