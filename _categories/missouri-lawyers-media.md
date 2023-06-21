@@ -2,7 +2,7 @@
 layout: category
 title: Missouri Lawyers Media
 role: Staff Reporter
-timeInPosition: August 2021 - Present
+timeInPosition: August 2021 - April 2023
 description: Missouri Lawyers Media provides legal news for the Missouri legal community.
 order: 1
 date: 2022-09-21
