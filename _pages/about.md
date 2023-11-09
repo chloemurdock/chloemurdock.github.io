@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-image: /assets/images/posts/snowboarding.webp
+image: /assets/images/posts/profile.jpg
 permalink: /about
 ---
 Stories set facts on fire. I light up authors’ stories as a developmental editor. And as a digital marketing consultant, I light up the personal brands of authors and other small business owners so more people can find their stories online.
