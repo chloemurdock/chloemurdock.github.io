@@ -15,20 +15,18 @@
         <img src="{{page.image}}">
     </div>
 </div>
-    
-  
+
+
   <br/>
-  <p>{{page.title | slugify}}</p>
-<p>hello</p>
-  
+
   <div class="articlewrap">
     <div class="grid">
       {% for post in site.posts %}
       {% if post.category contains categorySlugged %}
       <div class="item">
-        
+
         {% include postCard.html %}
-  
+
       </div>
       {% endif %}
       {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Chloe Murdock's portfolio from Missouri Lawyers Media
-category: Missouri Lawyers Media
+title: Chloe Murdock’s portfolio from Missouri Lawyers Media
+category: missouri-lawyers-media
 date: 2022-09-21 21:13
 image: ""
 ---
